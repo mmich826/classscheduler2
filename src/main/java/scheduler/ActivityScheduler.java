@@ -1,6 +1,7 @@
 package scheduler;
 
 import java.util.List;
+import java.util.Map;
 
 import org.apache.log4j.Logger;
 
@@ -17,6 +18,7 @@ public class ActivityScheduler {
 	public void schedule(SchedulerMain mainSched, List<Student> studentList) { 
 		List<StudentActivity> clazList = null;
 		StudentActivity studentActivity = null;
+		Map<String,Boolean> isGradeActivityMap = mainSched.getIsGradeAcvitivity();
 		
 		try {
 			for (int i = 0; i < SchedulerConstants.NUMBER_OF_STUDENT_ACTIVITY_SELECTIONS; i++) {  // CLASS PRIORITY
@@ -34,9 +36,13 @@ public class ActivityScheduler {
 					studentActivity.setTeacher(student.getTeacher());
 		            studentActivity.setHour(Integer.toString(i+1));
 					
-					List<Integer> gradeActHours = mainSched.getGradeScheduleMap2().get(studentActivity.getAct() + "-" + student.getGrade());
-					boolean isGradeSpecActivity = gradeActHours != null && !gradeActHours.isEmpty();
-					if (isGradeSpecActivity) continue;
+//					List<Integer> gradeActHours = mainSched.getGradeScheduleMap2().get(studentActivity.getAct() + "-" + student.getGrade());
+//					boolean isGradeSpecActivity = gradeActHours != null && !gradeActHours.isEmpty();
+//					if (isGradeSpecActivity) continue;
+		            boolean isGradeSpecActivity = isGradeActivityMap.get(studentActivity.getAct()) == null ? false : true;
+					if (isGradeSpecActivity) { 
+						continue;
+					}
 					
 					boolean isRegistrationSuccess = findOpeningAndSchedule(clazList, studentActivity, student, mainSched);
 					

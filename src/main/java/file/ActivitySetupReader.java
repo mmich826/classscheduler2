@@ -23,6 +23,7 @@ public class ActivitySetupReader {
 
 	Map<String, Activity> activityMap = new HashMap<String, Activity>();
 	Map< String,List<Integer> > gradeActivityScheduleMap = new HashMap< String,List<Integer> >();
+	Map<String, Boolean> isGradeActivityMap = new HashMap<String, Boolean>();
 	Map< String,List<StudentActivity>  > activityScheduleMap = new HashMap< String,List<StudentActivity> >();
 	
 	
@@ -46,7 +47,8 @@ public class ActivitySetupReader {
 				Activity act = new Activity();
 				act.setActivityName(tokList.get(0));
 				
-				String activityCode = tokList.get(1) + "-" + tokList.get(2);
+				String activityName = tokList.get(1);
+				String activityCode = activityName + "-" + tokList.get(2);
 				act.setActivityCode(activityCode);
 				
 				act.setActivityLeader(tokList.get(3));
@@ -58,6 +60,7 @@ public class ActivitySetupReader {
 				
 				if (hasGradeActivityInfo(tokList) ) {
 					setupGradeActivities(tokList.get(7), activityCode);
+					isGradeActivityMap.put(activityName, true);
 				}
 				
 				addToScheduleMap(activityCode);
@@ -71,6 +74,7 @@ public class ActivitySetupReader {
 		scheduleMaps.put(SchedulerConstants.MAP_NAME_ACTIVITY_INFO, activityMap);
 		scheduleMaps.put(SchedulerConstants.MAP_NAME_GRADE_ACTIVITY_SCHEDULE, gradeActivityScheduleMap);
 		scheduleMaps.put(SchedulerConstants.MAP_NAME_ACTIVITY_SCHEDULE, activityScheduleMap);
+		scheduleMaps.put(SchedulerConstants.MAP_NAME_IS_GRADE_ACTIVITY, isGradeActivityMap);
 		
 		return scheduleMaps;
 	}

@@ -12,7 +12,7 @@ public class Student {
 	
 	public Student() {
 		super();
-		for(int i=0; i<4; i++) {
+		for(int i=0; i<SchedulerConstants.NUMBER_OF_ACTIVITIES_TO_SCHEDULE; i++) {
 			actSchedList.add(false);
 		}
 	}

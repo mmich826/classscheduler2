@@ -27,7 +27,8 @@ public class SchedulerMain {
 	
 	Map< String,Activity > actCapacityMap = null;
     Map< String,List<StudentActivity> > scheduleMap = null;
-	Map< String,List<Integer> > gradeScheduleMap2 = null; // key=grade, value=List hours offered
+	Map< String,List<Integer> > gradeScheduleMap2 = null; // code=grade, value=List grades offered
+	Map< String,Boolean> isGradeAcvitivity = null;  // code, True where activity is grade-specific
 
 	public static void main(String[] args) throws TemplateNotFoundException, MalformedTemplateNameException, ParseException, IOException, TemplateException {
 		List<String> argList = Arrays.asList(args);
@@ -37,6 +38,7 @@ public class SchedulerMain {
 		th.actCapacityMap = scheduleMaps.get(SchedulerConstants.MAP_NAME_ACTIVITY_INFO);
 		th.scheduleMap = scheduleMaps.get(SchedulerConstants.MAP_NAME_ACTIVITY_SCHEDULE);
 		th.gradeScheduleMap2 = scheduleMaps.get(SchedulerConstants.MAP_NAME_GRADE_ACTIVITY_SCHEDULE);
+		th.isGradeAcvitivity = scheduleMaps.get(SchedulerConstants.MAP_NAME_IS_GRADE_ACTIVITY);
 		
 		if (argList.isEmpty()) {
 			LOGGER.info("Beginning full scheduler run.");
@@ -86,5 +88,15 @@ public class SchedulerMain {
 
 	public void setScheduleMap(Map<String, List<StudentActivity>> scheduleMap) {
 		this.scheduleMap = scheduleMap;
+	}
+
+
+	public Map<String, Boolean> getIsGradeAcvitivity() {
+		return isGradeAcvitivity;
+	}
+
+
+	public void setIsGradeAcvitivity(Map<String, Boolean> isGradeAcvitivity) {
+		this.isGradeAcvitivity = isGradeAcvitivity;
 	}
 }

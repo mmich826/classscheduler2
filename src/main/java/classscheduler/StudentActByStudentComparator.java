@@ -10,24 +10,25 @@ public class StudentActByStudentComparator implements Comparator<StudentActivity
 
 	@Override
 	public int compare(StudentActivity o1, StudentActivity o2) {
+		
 		if (o1 == o2) {
 			return 0;
 		}
-		else if (o1.getGrade().compareTo(o2.getGrade()) == 1) {
+		if (o1 == null) {
 			return 1;
 		}
-		else if (o1.getGrade().compareTo(o2.getGrade()) == -1) {
-			return -1;
+		
+		int compareResult = o1.getGrade().compareTo(o2.getGrade());
+		if (compareResult != 0) {
+			return compareResult;
 		}
 		
 		// Same Grade
-		if (o1.getTeacher().compareTo(o2.getTeacher()) == 1) {
-			return 1;
+		compareResult = o1.getTeacher().compareTo(o2.getTeacher());
+		if (compareResult != 0) {
+			return compareResult;
 		}
-		else if (o1.getTeacher().compareTo(o2.getTeacher()) == -1) {
-			return -1;
-		}
-		
+
 		// Same Grade and teacher
 		return o1.getName().compareTo(o2.getName());
 	}
