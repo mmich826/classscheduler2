@@ -86,6 +86,10 @@ public class GradeActivityScheduler {
 				if ( Integer.valueOf(student.getGrade()) != grade) continue;  // continue if class for students grade
 				
 				String actName = studentActivity.getAct() + "-" + hour;
+				
+				boolean isBooked = student.getActSchedList().get(hour-1);
+				if (isBooked) continue;
+				
 				Activity act = mainSched.getActCapacityMap().get(actName);
 				if (act.isFull()) continue;
 
