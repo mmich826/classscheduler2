@@ -8,6 +8,8 @@ public class Activity {
 	private String location;
 	private String altLocation;
 	private int enrollment;
+	
+	private String time;
 
 
 	public boolean isFull() {

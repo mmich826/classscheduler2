@@ -1,33 +1,83 @@
-
-
-<!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Student report</title>
-  </head>
-  <body>
-    <table>
-      <tr>Mike M</tr>
-      <tr>
-        <td>class 1</td>
-        <td>FB</td>
+
+<body>
+
+<#list reportDtos as dto>
+<h1>${dto.student1[0].name} </h1>
+
+${dto.student1[0].grade} <br>
+${dto.student1[0].teacher} <br>
+
+    <table border=1>
+    <tr>
+        <td>Hour </td>
+        <td>Activity </td>
+        <td>Location </td>
+        <td>Teacher </td>
+        <td>Alternate Location </td>
+      </tr>	          	
+
+	
+
+<#list dto.student1 as x>
+  	
+       <tr>
+	        <td> ${x.time} </td>      
+	        <td>${x.activityName}</td>
+	        <td>${x.location}</td>
+	        <td>${x.activityLeader}</td>
+	        <td>${x.location}</td>
+	        <td>${x.altLocation}</td>
       </tr>
-      <tr>
-        <td>class 2</td>
-        <td>BB</td>
-      </tr>
-           <tr>
-        <td>class 3</td>
-        <td>FB</td>
-      </tr>
-           <tr>
-        <td>class 4</td>
-        <td>FB</td>
-      </tr>
+      
+</#list> 
+ 
+
 
     </table>
-    <DIV style="page-break-after:always"></DIV>
+    <br><br>
+    <br><br>
+    <br><br>
+    
+    
+<h1>${dto.student2[0].name} </h1>
+
+${dto.student2[0].grade} <br>
+${dto.student2[0].teacher} <br>
+
+    <table border=1>
+    <tr>
+        <td>Hour </td>
+        <td>Activity </td>
+        <td>Location </td>
+        <td>Teacher </td>
+        <td>Alternate Location </td>
+      </tr>	          	
+
+	
+
+<#list dto.student2 as x>
+  	
+       <tr>
+	        <td> ${x.time} </td>      
+	        <td>${x.activityName}</td>
+	        <td>${x.location}</td>
+	        <td>${x.activityLeader}</td>
+	        <td>${x.location}</td>
+	        <td>${x.altLocation}</td>
+      </tr>
+      
+</#list> 
  
+
+
+    </table>
+    <br><br>
+    
+    
+    <DIV style="page-break-after:always"></DIV>
+
+</#list>
+
  </body>
 </html>

@@ -30,7 +30,12 @@ public class StudentActByStudentComparator implements Comparator<StudentActivity
 		}
 
 		// Same Grade and teacher
-		return o1.getName().compareTo(o2.getName());
+		compareResult = o1.getName().compareTo(o2.getName());
+		if (compareResult != 0) {
+			return compareResult;
+		}
+		
+		return o1.getHour().compareTo(o2.getHour());
 	}
 
 }

@@ -9,7 +9,12 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import org.apache.log4j.Logger;
+
+
+
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import classscheduler.Activity;
 import classscheduler.SchedulerConstants;
@@ -18,7 +23,7 @@ import classscheduler.StudentActivity;
 
 public class ActivitySetupReader {
 	
-	private static final Logger LOGGER = Logger.getLogger(ActivitySetupReader.class);
+	private static final Logger LOGGER = LoggerFactory.getLogger(ActivitySetupReader.class);
 	private static int NUM_LINE_FIELDS = 8;
 
 	Map<String, Activity> activityMap = new HashMap<String, Activity>();
