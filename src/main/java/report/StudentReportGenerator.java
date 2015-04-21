@@ -1,5 +1,12 @@
 package report;
 
+import static classscheduler.SchedulerConstants.HOUR_1_TEXT;
+import static classscheduler.SchedulerConstants.HOUR_2_TEXT;
+import static classscheduler.SchedulerConstants.HOUR_3_TEXT;
+import static classscheduler.SchedulerConstants.HOUR_4_TEXT;
+import static classscheduler.SchedulerConstants.HOUR_5_TEXT;
+import static classscheduler.SchedulerConstants.HOUR_6_TEXT;
+
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -67,8 +74,6 @@ public class StudentReportGenerator implements ReportGenerator {
 
 	List<StudentReportDto> prepareData(SchedulerMain mainSched) {
 		
-		StringBuilder sb = new StringBuilder(5052);
-
 		Map<String,Activity> activityCapacityMap = mainSched.getActCapacityMap();
 		Map< String,List<StudentActivity> > scheduleMap = mainSched.getScheduleMap();
 		List<StudentActivity> StudentActivityList = new ArrayList<StudentActivity>();
@@ -88,13 +93,10 @@ public class StudentReportGenerator implements ReportGenerator {
 		Arrays.sort(studentActivities, new StudentActByStudentComparator() );
 		
 		List<StudentReportDto> dtoList = new ArrayList<StudentReportDto>();
-//		List<StudentActivity> studentClassList = null;
-//		List<Activity> classInfoList = null;
 		List<StudentActivityReportDto> studentActivityReportDtoList = null;
 		
 		int student = 0;
 		StudentReportDto dto = new StudentReportDto();
-//		dto.setTimes(hourInfo);
 		
 		String name = "_BEGIN";
 		for (StudentActivity studentAct : studentActivities) {	
@@ -105,22 +107,16 @@ public class StudentReportGenerator implements ReportGenerator {
 					 student = 1;
 				 }
 				 else if (student == 1) {
-//					 dto.setStudentClasses1(studentClassList);
-//					 dto.setActivityInfo1(classInfoList); 
 					 dto.setStudent1(studentActivityReportDtoList);
 					 student++;
 				 }
 				 else if (student == 2) {
-//					 dto.setStudentClasses2(studentClassList);
-//					 dto.setActivityInfo2(classInfoList); 
 					 dto.setStudent2(studentActivityReportDtoList);
 					 
 					 dtoList.add(dto);
 					 dto = new StudentReportDto();
 					 student = 1;
 				 }		 
-//				 classInfoList = new ArrayList<Activity>();				 
-//				 studentClassList = new ArrayList<StudentActivity>();
 				 studentActivityReportDtoList = new ArrayList<StudentActivityReportDto>();
 			 }
 			 
@@ -129,9 +125,6 @@ public class StudentReportGenerator implements ReportGenerator {
 			 studentActivityReportDtoList.add(
 			 			convertToReportDto(studentAct, activityCapacityMap.get(activityCode), hourInfo.get(hour) )
 			 			);
-//			 studentClassList.add(studentAct);
-//			 String activityCode = studentAct.getAct() + "-" + studentAct.getHour();
-//			 classInfoList.add( activityCapacityMap.get(activityCode) );
 		}
 
 		return dtoList;
@@ -157,12 +150,12 @@ public class StudentReportGenerator implements ReportGenerator {
 	private List<HourInfo>  generateHourInfo() {
 		List<HourInfo> hourInfo = new ArrayList<HourInfo>();
 		
-		hourInfo.add( new HourInfo(1, "8:10-8:45"));
-		hourInfo.add( new HourInfo(2, "9:10-9:45"));
-		hourInfo.add( new HourInfo(3, "10:10-10:45"));
-		hourInfo.add( new HourInfo(4, "11:10-11:45"));
-		hourInfo.add( new HourInfo(5, "12:45-1:20"));
-		hourInfo.add( new HourInfo(6, "1:25-2:10"));
+		hourInfo.add( new HourInfo(1, HOUR_1_TEXT));
+		hourInfo.add( new HourInfo(2, HOUR_2_TEXT));
+		hourInfo.add( new HourInfo(3, HOUR_3_TEXT));
+		hourInfo.add( new HourInfo(4, HOUR_4_TEXT));
+		hourInfo.add( new HourInfo(5, HOUR_5_TEXT));
+		hourInfo.add( new HourInfo(6, HOUR_6_TEXT));
 		
 		return hourInfo;
 	}

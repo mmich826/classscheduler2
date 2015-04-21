@@ -15,4 +15,10 @@ public class SchedulerConstants {
 	public static String MAP_NAME_ACTIVITY_SCHEDULE = "activityScheduleMap";
 	public static String MAP_NAME_IS_GRADE_ACTIVITY = "isGradeActivityMap";
 	
+	public static String HOUR_1_TEXT = "8:10-8:45";
+	public static String HOUR_2_TEXT = "9:10-9:45";
+	public static String HOUR_3_TEXT = "10:10-10:45";
+	public static String HOUR_4_TEXT = "11:10-11:45";
+	public static String HOUR_5_TEXT = "12:45-1:20";
+	public static String HOUR_6_TEXT = "1:25-2:10";
 }

@@ -26,7 +26,6 @@ ${dto.student1[0].teacher} <br>
 	        <td>${x.activityName}</td>
 	        <td>${x.location}</td>
 	        <td>${x.activityLeader}</td>
-	        <td>${x.location}</td>
 	        <td>${x.altLocation}</td>
       </tr>
       
@@ -63,7 +62,6 @@ ${dto.student2[0].teacher} <br>
 	        <td>${x.activityName}</td>
 	        <td>${x.location}</td>
 	        <td>${x.activityLeader}</td>
-	        <td>${x.location}</td>
 	        <td>${x.altLocation}</td>
       </tr>
       
