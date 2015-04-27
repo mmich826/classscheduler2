@@ -8,12 +8,12 @@
 <body>
 
 <h1>
-	${activityDto.activity.activityName},  ${activityDto.hour}
+	${activityDto.activity.activityName},  Session ${activityDto.hour}
 </h1>
 Leader:  ${activityDto.activity.activityLeader} <br>
 
 Location:  ${activityDto.activity.location} <br>
-Alternate Location:  ${activityDto.activity.altLocation} <br><br>
+Rain Plan Location:  ${activityDto.activity.altLocation} <br><br>
 
 <#list activityDto.students as student> <br>
  ${student.name} 

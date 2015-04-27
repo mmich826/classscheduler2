@@ -137,7 +137,7 @@ public class StudentReportGenerator implements ReportGenerator {
 		dto.setName(studentActivity.getName());
 		dto.setGrade(studentActivity.getGrade());
 		dto.setTeacher(studentActivity.getTeacher());
-		dto.setActivityName(studentActivity.getAct());
+		dto.setActivityName(activity.getActivityName());
 		dto.setHour(studentActivity.getHour());
 		dto.setTime(hourInfo.getTime());
 		dto.setActivityLeader(activity.getActivityLeader());
