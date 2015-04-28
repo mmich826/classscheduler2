@@ -10,6 +10,7 @@
 <h1>
 	${activityDto.activity.activityName},  Session ${activityDto.hour}
 </h1>
+Time:  ${activityDto.time} <br>
 Leader:  ${activityDto.activity.activityLeader} <br>
 
 Location:  ${activityDto.activity.location} <br>

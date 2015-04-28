@@ -1,14 +1,18 @@
 package report;
 
+import static classscheduler.SchedulerConstants.HOUR_1_TEXT;
+import static classscheduler.SchedulerConstants.HOUR_2_TEXT;
+import static classscheduler.SchedulerConstants.HOUR_3_TEXT;
+import static classscheduler.SchedulerConstants.HOUR_4_TEXT;
+import static classscheduler.SchedulerConstants.HOUR_5_TEXT;
+import static classscheduler.SchedulerConstants.HOUR_6_TEXT;
+
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.OutputStreamWriter;
 import java.io.Writer;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
@@ -21,7 +25,6 @@ import classscheduler.Activity;
 import classscheduler.ActivityStudentComparator;
 import classscheduler.FreemarkerrTestApplication;
 import classscheduler.SchedulerMain;
-import classscheduler.StudentActByStudentComparator;
 import classscheduler.StudentActivity;
 import freemarker.core.ParseException;
 import freemarker.template.Configuration;
@@ -36,9 +39,13 @@ public class ActivityReportGenerator implements ReportGenerator {
 
 	private static final Logger LOGGER = Logger
 			.getLogger(ActivityReportGenerator.class);
+	
+	private List<HourInfo> hourInfo = null;
 
 	public String generate(SchedulerMain mainSched) throws TemplateNotFoundException, MalformedTemplateNameException, ParseException, IOException {
 
+		hourInfo = generateHourInfo();
+		
 		Map<String, List<StudentActivity>> scheduleMap = mainSched
 				.getScheduleMap();
 		Map<String, Activity> activityMap = mainSched.getActCapacityMap();
@@ -57,6 +64,7 @@ public class ActivityReportGenerator implements ReportGenerator {
 				activityDtos.add( new ActivityReportDto(
 									studentActivities.get(0).getAct(), 
 									studentActivities.get(0).getHour(), 
+									hourInfo.get( Integer.valueOf(studentActivities.get(0).getHour())-1 ).getTime(),
 									studentActivities,
 									activityMap.get(
 											studentActivities.get(0).getAct() + "-" + studentActivities.get(0).getHour()
@@ -106,6 +114,20 @@ public class ActivityReportGenerator implements ReportGenerator {
 						.append("\n");
 			}
 		}
+	}
+	
+	//TODO:  Make configurable 
+	private List<HourInfo>  generateHourInfo() {
+		List<HourInfo> hourInfo = new ArrayList<HourInfo>();
+		
+		hourInfo.add( new HourInfo(1, HOUR_1_TEXT));
+		hourInfo.add( new HourInfo(2, HOUR_2_TEXT));
+		hourInfo.add( new HourInfo(3, HOUR_3_TEXT));
+		hourInfo.add( new HourInfo(4, HOUR_4_TEXT));
+		hourInfo.add( new HourInfo(5, HOUR_5_TEXT));
+		hourInfo.add( new HourInfo(6, HOUR_6_TEXT));
+		
+		return hourInfo;
 	}
 
 }

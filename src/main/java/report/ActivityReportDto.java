@@ -9,15 +9,17 @@ public class ActivityReportDto {
 
 	String activityName;
 	String hour;
+	String time;
 	List<StudentActivity> students;
 	Activity activity;
 	
 
-	public ActivityReportDto(String activityName, String hour,
+	public ActivityReportDto(String activityName, String hour, String time,
 			List<StudentActivity> students, Activity activity) {
 		super();
 		this.activityName = activityName;
 		this.hour = hour;
+		this.time = time;
 		this.students = students;
 		this.activity = activity;
 	}
@@ -49,5 +51,13 @@ public class ActivityReportDto {
 
 	public void setActivity(Activity activity) {
 		this.activity = activity;
+	}
+
+	public String getTime() {
+		return time;
+	}
+
+	public void setTime(String time) {
+		this.time = time;
 	}
 }

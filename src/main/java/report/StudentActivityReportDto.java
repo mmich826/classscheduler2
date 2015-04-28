@@ -8,7 +8,6 @@ public class StudentActivityReportDto {
 	private String activityName = "";
 	private String activityLeader = "";
 	private String hour = "";
-	private String time = "";
 	private String location = "";
 	private String altLocation = "";
 	
@@ -45,19 +44,11 @@ public class StudentActivityReportDto {
 		this.hour = hour;
 	}
 
-	public String getTime() {
-		return time;
-	}
-
-	public void setTime(String time) {
-		this.time = time;
-	}
 
 	@Override
 	public String toString() {
 		return "StudentActivityReportDto [name=" + name + ", grade=" + grade
-				+ ", teacher=" + teacher + ", activityName=" + activityName + ", hour=" + hour
-				+ ", time=" + time + "]";
+				+ ", teacher=" + teacher + ", activityName=" + activityName + ", hour=" + hour + "]";
 	}
 
 	public String getActivityName() {
