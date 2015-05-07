@@ -31,6 +31,9 @@ table.gridtable td {
 <body>
 
 <#list reportDtos as dto>
+
+
+
 <span class="header">
 <h1>${dto.student1[0].name} </h1>
 
@@ -83,7 +86,7 @@ Teacher:  ${dto.student2[0].teacher} <br>
 
 	
 
-<#list dto.student1 as x>
+<#list dto.student2 as x>
   	
        <tr>
 	        <td> ${x.hour} </td>      
@@ -103,6 +106,9 @@ Teacher:  ${dto.student2[0].teacher} <br>
     </table>
     
     <DIV style="page-break-after:always"></DIV>
+
+
+
 
 </#list>
 
