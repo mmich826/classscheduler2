@@ -184,6 +184,12 @@ CL-3,Johnston; Kaleigh R.,1G,1G,Outside Door #1,4th Grade Hallway
 SPA-4,Johnston; Kaleigh R.,1G,1G,Door # 9 Vestibule,Door # 9 Vestibule
 EE-5,Johnston; Kaleigh R.,1G,1G,Krause - 1208,Krause - 1208
 DAS-6,Johnston; Kaleigh R.,1G,1G,Music Room,Music Room
+LEE-1,Moinuddin; Hajera,1G,1G,Hall - 1230,Hall - 1230
+GY-2,Moinuddin; Hajera,1G,1G,Outside Door #14,2nd Grade Hallway
+RL-3,Moinuddin; Hajera,1G,1G,ELL - 1220,ELL - 1220
+IB-4,Moinuddin; Hajera,1G,1G,Bussman - 1118,Bussman - 1118
+CG-5,Moinuddin; Hajera,1G,1G,PACE - 1228,PACE - 1228
+BAL-6,Moinuddin; Hajera,1G,1G,3rd Grade Hub,3rd Grade Hub
 JP-1,Monino; Nolan A.,1G,1G,MPR,MPR
 CD-2,Monino; Nolan A.,1G,1G,MPR,MPR
 BG-3,Monino; Nolan A.,1G,1G,Sobotka - 1232,Sobotka - 1232
@@ -760,6 +766,12 @@ KB-3,Michalak; Benjamin,2M,2M,Blacktop,Hallway outside TWR
 FH-4,Michalak; Benjamin,2M,2M,Gym,Gym
 LEE-5,Michalak; Benjamin,2M,2M,Hall - 1230,Hall - 1230
 OC-6,Michalak; Benjamin,2M,2M,Backfield South Center,Gym
+BB-1,Moinuddin; Mariya,2M,2M,Blacktop,Gym Hallway
+FRR-2,Moinuddin; Mariya,2M,2M,Front Lawn,2nd Grade Hallway
+SA-3,Moinuddin; Mariya,2M,2M,Maltese - 1124,Maltese - 1124
+GY-4,Moinuddin; Mariya,2M,2M,Outside Door #14,2nd Grade Hallway
+BAL-5,Moinuddin; Mariya,2M,2M,3rd Grade Hub,3rd Grade Hub
+CL-6,Moinuddin; Mariya,2M,2M,Outside Door #1,4th Grade Hallway
 FRR-1,Moranchel; Alexis,2M,2M,Front Lawn,2nd Grade Hallway
 CG-2,Moranchel; Alexis,2M,2M,PACE - 1228,PACE - 1228
 LR-3,Moranchel; Alexis,2M,2M,4th Grade Hub,4th Grade Hub
@@ -1090,6 +1102,12 @@ OC-3,Zoeller; Asher,3Kr,3Kr,Backfield South Center,Gym
 JP-4,Zoeller; Asher,3Kr,3Kr,MPR,MPR
 FP-5,Zoeller; Asher,3Kr,3Kr,Deinert - 1126,Deinert - 1126
 TD-6,Zoeller; Asher,3Kr,3Kr,Outside Door #3,Under Covered Porch
+DT-1,Roshior; Stefanie,3Office,3Office,Poch - 1218,Poch - 1218
+SPA-2,Roshior; Stefanie,3Office,3Office,Door # 9 Vestibule,Door # 9 Vestibule
+IB-3,Roshior; Stefanie,3Office,3Office,Bussman - 1118,Bussman - 1118
+MO-4,Roshior; Stefanie,3Office,3Office,Art Room,Art Room
+BAL-5,Roshior; Stefanie,3Office,3Office,3rd Grade Hub,3rd Grade Hub
+SL-6,Roshior; Stefanie,3Office,3Office,ELL - 1220,ELL - 1220
 MC-1,Alt; Alexander D.,3P,3P,Hanselman - 1240,Hanselman - 1240
 WSC-2,Alt; Alexander D.,3P,3P,Gym,Gym
 HDV-3,Alt; Alexander D.,3P,3P,Huggins - 1308,Huggins - 1308
@@ -1102,12 +1120,6 @@ BR-3,Baker; Colin C.,3P,3P,Back Playground,3rd Grade Hallway
 LR-4,Baker; Colin C.,3P,3P,4th Grade Hub,4th Grade Hub
 VIC-5,Baker; Colin C.,3P,3P,Backfield Northwest Corner,1st Grade Hallway
 OC-6,Baker; Colin C.,3P,3P,Backfield South Center,Gym
-SSK-1,Black; Christopher C.,3P,3P,Georganas - 1104,Georganas - 1104
-SA-2,Black; Christopher C.,3P,3P,Maltese - 1124,Maltese - 1124
-DAS-3,Black; Christopher C.,3P,3P,Music Room,Music Room
-MM-4,Black; Christopher C.,3P,3P,Kirschbaum - 1216,Kirschbaum - 1216
-CD-5,Black; Christopher C.,3P,3P,MPR,MPR
-LEE-6,Black; Christopher C.,3P,3P,Hall - 1230,Hall - 1230
 EE-1,Boyce; Aaron,3P,3P,Krause - 1208,Krause - 1208
 LEE-2,Boyce; Aaron,3P,3P,Hall - 1230,Hall - 1230
 MC-3,Boyce; Aaron,3P,3P,Hanselman - 1240,Hanselman - 1240
@@ -1474,12 +1486,6 @@ CM-3,Alexander; Erica M.,4S,4S,MPR,MPR
 JP-4,Alexander; Erica M.,4S,4S,MPR,MPR
 MO-5,Alexander; Erica M.,4S,4S,Art Room,Art Room
 CC-6,Alexander; Erica M.,4S,4S,Sobotka - 1232,Sobotka - 1232
-BR-1,Brian Moranchel Reyes,4S,4S,Back Playground,3rd Grade Hallway
-FRR-2,Brian Moranchel Reyes,4S,4S,Front Lawn,2nd Grade Hallway
-CG-3,Brian Moranchel Reyes,4S,4S,PACE - 1228,PACE - 1228
-MC-4,Brian Moranchel Reyes,4S,4S,Hanselman - 1240,Hanselman - 1240
-OC-5,Brian Moranchel Reyes,4S,4S,Backfield South Center,Gym
-KB-6,Brian Moranchel Reyes,4S,4S,Blacktop,Hallway outside TWR
 DT-1,Castillo; Joselin,4S,4S,Poch - 1218,Poch - 1218
 FP-2,Castillo; Joselin,4S,4S,Deinert - 1126,Deinert - 1126
 IB-3,Castillo; Joselin,4S,4S,Bussman - 1118,Bussman - 1118
@@ -1546,6 +1552,12 @@ DT-3,Malollari; Denisa,4S,4S,Poch - 1218,Poch - 1218
 HHD-4,Malollari; Denisa,4S,4S,Brown - 1306,Brown - 1306
 GY-5,Malollari; Denisa,4S,4S,Outside Door #14,2nd Grade Hallway
 SPA-6,Malollari; Denisa,4S,4S,Door # 9 Vestibule,Door # 9 Vestibule
+BR-1,Moranchel Reyes; Brian,4S,4S,Back Playground,3rd Grade Hallway
+FRR-2,Moranchel Reyes; Brian,4S,4S,Front Lawn,2nd Grade Hallway
+CG-3,Moranchel Reyes; Brian,4S,4S,PACE - 1228,PACE - 1228
+MC-4,Moranchel Reyes; Brian,4S,4S,Hanselman - 1240,Hanselman - 1240
+OC-5,Moranchel Reyes; Brian,4S,4S,Backfield South Center,Gym
+KB-6,Moranchel Reyes; Brian,4S,4S,Blacktop,Hallway outside TWR
 LR-1,Razvi; Meesum A.,4S,4S,4th Grade Hub,4th Grade Hub
 DT-2,Razvi; Meesum A.,4S,4S,Poch - 1218,Poch - 1218
 EE-3,Razvi; Meesum A.,4S,4S,Krause - 1208,Krause - 1208
@@ -1864,12 +1876,6 @@ CF-3,Cuatzo; Alberto,5Hu,5Hu,Back Field Southwest Corner,3rd Grade Hallway
 OC-4,Cuatzo; Alberto,5Hu,5Hu,Backfield South Center,Gym
 FH-5,Cuatzo; Alberto,5Hu,5Hu,Gym,Gym
 MM-6,Cuatzo; Alberto,5Hu,5Hu,Kirschbaum - 1216,Kirschbaum - 1216
-IB-1,Dafelseed; Moram A.,5Hu,5Hu,Bussman - 1118,Bussman - 1118
-RL-2,Dafelseed; Moram A.,5Hu,5Hu,ELL - 1220,ELL - 1220
-BR-3,Dafelseed; Moram A.,5Hu,5Hu,Back Playground,3rd Grade Hallway
-MC-4,Dafelseed; Moram A.,5Hu,5Hu,Hanselman - 1240,Hanselman - 1240
-SL-5,Dafelseed; Moram A.,5Hu,5Hu,ELL - 1220,ELL - 1220
-MM-6,Dafelseed; Moram A.,5Hu,5Hu,Kirschbaum - 1216,Kirschbaum - 1216
 SPA-1,Dracopoulos; Sofia,5Hu,5Hu,Door # 9 Vestibule,Door # 9 Vestibule
 TD-2,Dracopoulos; Sofia,5Hu,5Hu,Outside Door #3,Under Covered Porch
 MO-3,Dracopoulos; Sofia,5Hu,5Hu,Art Room,Art Room
@@ -1978,3 +1984,9 @@ JP-3,Zapata; Genaro,5Hu,5Hu,MPR,MPR
 HDV-4,Zapata; Genaro,5Hu,5Hu,Huggins - 1308,Huggins - 1308
 KB-5,Zapata; Genaro,5Hu,5Hu,Blacktop,Hallway outside TWR
 MM-6,Zapata; Genaro,5Hu,5Hu,Kirschbaum - 1216,Kirschbaum - 1216
+GY-1,Roshior; Ester,5Office,5Office,Outside Door #14,2nd Grade Hallway
+WSC-2,Roshior; Ester,5Office,5Office,Gym,Gym
+SPA-3,Roshior; Ester,5Office,5Office,Door # 9 Vestibule,Door # 9 Vestibule
+MO-4,Roshior; Ester,5Office,5Office,Art Room,Art Room
+BAL-5,Roshior; Ester,5Office,5Office,3rd Grade Hub,3rd Grade Hub
+SL-6,Roshior; Ester,5Office,5Office,ELL - 1220,ELL - 1220
