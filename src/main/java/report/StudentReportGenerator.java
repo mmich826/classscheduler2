@@ -115,10 +115,26 @@ public class StudentReportGenerator implements ReportGenerator {
 			 			convertToReportDto(studentAct, activityCapacityMap.get(activityCode))
 			 			);
 		}
+		
+		dtoList = setLastStudent(studentActivityReportDtoList, dto, dtoList);
 
 		return dtoList;
 	}
 	
+	private List<StudentReportDto> setLastStudent(List<StudentActivityReportDto> studentActivityReportDtoList,
+			StudentReportDto dto,
+			List<StudentReportDto> dtoList) {
+		if (dto.getStudent1() == null) {
+			dto.setStudent1(studentActivityReportDtoList);
+		}
+		else if (dto.getStudent2() == null) {
+			dto.setStudent2(studentActivityReportDtoList);
+		}
+		dtoList.add(dto);
+		
+		return dtoList;
+	}
+
 	private StudentActivityReportDto convertToReportDto(
 			StudentActivity studentActivity, Activity activity) {
 		StudentActivityReportDto dto = new StudentActivityReportDto();
@@ -133,5 +149,11 @@ public class StudentReportGenerator implements ReportGenerator {
 		dto.setAltLocation(activity.getAltLocation());
 		
 		return dto;
+	}
+	
+	private void setLastDto() {
+		
+		//dtoList.add(dto);
+		
 	}
 }
