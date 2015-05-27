@@ -69,7 +69,8 @@ Teacher:  ${dto.student1[0].teacher} <br>
 
     </table>
     <br><br>
-    
+
+<#if dto.student2?has_content> 
 <span class="header">    
 <h1>${dto.student2[0].name} </h1>
 
@@ -110,6 +111,7 @@ Teacher:  ${dto.student2[0].teacher} <br>
 
 
 
+</#if>
 </#list>
 
  </body>
