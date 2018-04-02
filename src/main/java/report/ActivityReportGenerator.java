@@ -74,8 +74,7 @@ public class ActivityReportGenerator implements ReportGenerator {
 		}
 		
 		Configuration cfg = new Configuration();
-		cfg.setClassForTemplateLoading(FreemarkerrTestApplication.class,
-				"templates");
+		cfg.setDirectoryForTemplateLoading( new File("./src/main/java/classscheduler/templates"));
 		cfg.setIncompatibleImprovements(new Version(2, 3, 20));
 		cfg.setDefaultEncoding("UTF-8");
 		cfg.setLocale(Locale.US);
