@@ -47,6 +47,7 @@ public class SchedulerMain {
 
 			new GradeActivityScheduler().schedule(th, studentList);
 			new ActivityScheduler().schedule(th, studentList);
+			new ScheduleScorer().score(studentList);
 		}
 		else if (argList.contains("runreports")) {
 			LOGGER.info("Beginning report-only run.");
