@@ -105,8 +105,9 @@ Teacher:  ${dto.student2[0].teacher} <br>
 
 
     </table>
-    
-    <DIV style="page-break-after:always"></DIV>
+    <!-- Note Chrome requires 2 in order to work -->
+    <p style="page-break-after: always;">&nbsp;</p>
+    <p style="page-break-before: always;">&nbsp;</p>
 
 
 
