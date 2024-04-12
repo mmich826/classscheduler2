@@ -1,2016 +1,1798 @@
-GYM-1,Abdulleyva; Mayram,1,1D,Outside Door #13,5th grade hallway
-SA-2,Abdulleyva; Mayram,1,1D,Maltese - 1124,Maltese - 1124
-CL-3,Abdulleyva; Mayram,1,1D,Outside Door #1,4th Grade Hallway
-CS-4,Abdulleyva; Mayram,1,1D,Math - 1126,Math- 1126
-HH-5,Abdulleyva; Mayram,1,1D,Newhouse- 1242,Newhouse- 1242
-MC-6,Abdulleyva; Mayram,1,1D,Krause - 1208,Krause - 1208
-GF-1,Boldt; Brian,1,1D,NW Corner,4th Grade Hallway
-KC-2,Boldt; Brian,1,1D,PACE- 1228,PACE - 1228
-TD-3,Boldt; Brian,1,1D,Front Porch,Under Covered Porch
-MC-4,Boldt; Brian,1,1D,Krause - 1208,Krause - 1208
-LR-5,Boldt; Brian,1,1D,4th Grade Hub,4th Grade Hub
-MA-6,Boldt; Brian,1,1D,Brown - 1306,Brown - 1306
-GYM-1,Cline; Olivia,1,1D,Outside Door #13,5th grade hallway
-CL-2,Cline; Olivia,1,1D,Outside Door #1,4th Grade Hallway
-SA-3,Cline; Olivia,1,1D,Maltese - 1124,Maltese - 1124
-HH-4,Cline; Olivia,1,1D,Newhouse- 1242,Newhouse- 1242
-FMP-5,Cline; Olivia,1,1D,Art Room,Art Room
-CD-6,Cline; Olivia,1,1D,MPR,MPR
-CF-1,Curk; Matthew,1,1D,Back Field Southwest Corner,4th Grade Hallway
-GF-2,Curk; Matthew,1,1D,NW Corner,4th Grade Hallway
-BB-3,Curk; Matthew,1,1D,Blacktop,Gym Hallway
-LR-4,Curk; Matthew,1,1D,4th Grade Hub,4th Grade Hub
-MC-5,Curk; Matthew,1,1D,Krause - 1208,Krause - 1208
-SPO-6,Curk; Matthew,1,1D,South East Field,Gym Hallway
-HDV-1,Dogra; Lizzie,1,1D,Huggins - 1308,Huggins - 1308
-CL-2,Dogra; Lizzie,1,1D,Outside Door #1,4th Grade Hallway
-GYM-3,Dogra; Lizzie,1,1D,Outside Door #13,5th grade hallway
-VC-4,Dogra; Lizzie,1,1D,Music room,Music room
-YG-5,Dogra; Lizzie,1,1D,Maltese - 1124,Maltese - 1124
-KG-6,Dogra; Lizzie,1,1D,ELL-1220,ELL-1220
-FF-1,Dresser; Dylan,1,1D,Back field northeast corner,2nd Grade Hallway
-RB-2,Dresser; Dylan,1,1D,Hall-1230,Hall-1230
-BB-3,Dresser; Dylan,1,1D,Blacktop,Gym Hallway
-TD-4,Dresser; Dylan,1,1D,Front Porch,Under Covered Porch
-WW-5,Dresser; Dylan,1,1D,Field NW Corner,3rd grade hall
-CS-6,Dresser; Dylan,1,1D,Math - 1126,Math- 1126
-HDV-1,Fryzek; Hailey,1,1D,Huggins - 1308,Huggins - 1308
-LR-2,Fryzek; Hailey,1,1D,4th Grade Hub,4th Grade Hub
-GYM-3,Fryzek; Hailey,1,1D,Outside Door #13,5th grade hallway
-EB-4,Fryzek; Hailey,1,1D,Outside Door #8,3rd grade hall
-HH-5,Fryzek; Hailey,1,1D,Newhouse- 1242,Newhouse- 1242
-MA-6,Fryzek; Hailey,1,1D,Brown - 1306,Brown - 1306
-FF-1,Gabrys; Graham,1,1D,Back field northeast corner,2nd Grade Hallway
-HH-2,Gabrys; Graham,1,1D,Newhouse- 1242,Newhouse- 1242
-BB-3,Gabrys; Graham,1,1D,Blacktop,Gym Hallway
-FH-4,Gabrys; Graham,1,1D,Gym,Gym
-GF-5,Gabrys; Graham,1,1D,NW Corner,4th Grade Hallway
-LR-6,Gabrys; Graham,1,1D,4th Grade Hub,4th Grade Hub
-SA-1,Garcia; Brianna,1,1D,Maltese - 1124,Maltese - 1124
-WW-2,Garcia; Brianna,1,1D,Field NW Corner,3rd grade hall
-GYM-3,Garcia; Brianna,1,1D,Outside Door #13,5th grade hallway
-RR-4,Garcia; Brianna,1,1D,Outside Door #1,1st Grade Hall
-FMP-5,Garcia; Brianna,1,1D,Art Room,Art Room
-MC-6,Garcia; Brianna,1,1D,Krause - 1208,Krause - 1208
-BB-1,Gbean; Jeremiah,1,1D,Blacktop,Gym Hallway
-LR-2,Gbean; Jeremiah,1,1D,4th Grade Hub,4th Grade Hub
-JG-3,Gbean; Jeremiah,1,1D,Outside Blacktop,Pace hallway
-YG-4,Gbean; Jeremiah,1,1D,Maltese - 1124,Maltese - 1124
-FF-5,Gbean; Jeremiah,1,1D,Backfield Northeast Corner,2nd Grade Hallway
-MA-6,Gbean; Jeremiah,1,1D,Brown - 1306,Brown - 1306
-MG-1,Harrington; Jackson,1,1D,Brown - 1306,Brown - 1306
-HA-2,Harrington; Jackson,1,1D,ELL-1220,ELL-1220
-SA-3,Harrington; Jackson,1,1D,Maltese - 1124,Maltese - 1124
-VC-4,Harrington; Jackson,1,1D,Music room,Music room
-JP-5,Harrington; Jackson,1,1D,MPR,MPR
-GYM-6,Harrington; Jackson,1,1D,Outside Door #13,5th grade hallway
-CD-1,Kirkton; Stella,1,1D,MPR,MPR
-SA-2,Kirkton; Stella,1,1D,Maltese - 1124,Maltese - 1124
-GF-3,Kirkton; Stella,1,1D,NW Corner,4th Grade Hallway
-KG-4,Kirkton; Stella,1,1D,ELL-1220,ELL-1220
-CL-5,Kirkton; Stella,1,1D,Outside Door #1,4th Grade Hallway
-SPA-6,Kirkton; Stella,1,1D,Gym Hall,Gym Hallway
-BB-1,Kouri; Samuel,1,1D,Blacktop,Gym Hallway
-HH-2,Kouri; Samuel,1,1D,Newhouse- 1242,Newhouse- 1242
-LR-3,Kouri; Samuel,1,1D,4th Grade Hub,4th Grade Hub
-HDV-4,Kouri; Samuel,1,1D,Huggins - 1308,Huggins - 1308
-WW-5,Kouri; Samuel,1,1D,Field NW Corner,3rd grade hall
-MA-6,Kouri; Samuel,1,1D,Brown - 1306,Brown - 1306
-KC-1,Njomo Nono; Diane,1,1D,PACE- 1228,PACE - 1228
-TD-2,Njomo Nono; Diane,1,1D,Front Porch,Under Covered Porch
-SM-3,Njomo Nono; Diane,1,1D,Art Room,Art Room
-MC-4,Njomo Nono; Diane,1,1D,Krause - 1208,Krause - 1208
-SPA-5,Njomo Nono; Diane,1,1D,Gym Hall,Gym Hallway
-CM-6,Njomo Nono; Diane,1,1D,MPR,MPR
-GYM-1,Novak; Maddie,1,1D,Outside Door #13,5th grade hallway
-NW-2,Novak; Maddie,1,1D,Gym,Gym
-VC-3,Novak; Maddie,1,1D,Music room,Music room
-MA-4,Novak; Maddie,1,1D,Brown - 1306,Brown - 1306
-SPA-5,Novak; Maddie,1,1D,Gym Hall,Gym Hallway
-HH-6,Novak; Maddie,1,1D,Newhouse- 1242,Newhouse- 1242
-CF-1,O'Connor; Sean,1,1D,Back Field Southwest Corner,4th Grade Hallway
-VC-2,O'Connor; Sean,1,1D,Music room,Music room
-SPO-3,O'Connor; Sean,1,1D,South East Field,Gym Hallway
-MC-4,O'Connor; Sean,1,1D,Krause - 1208,Krause - 1208
-LR-5,O'Connor; Sean,1,1D,4th Grade Hub,4th Grade Hub
-JP-6,O'Connor; Sean,1,1D,MPR,MPR
-TD-1,Pajauskas; Abby,1,1D,Front Porch,Under Covered Porch
-VC-2,Pajauskas; Abby,1,1D,Music room,Music room
-WW-3,Pajauskas; Abby,1,1D,Field NW Corner,3rd grade hall
-NW-4,Pajauskas; Abby,1,1D,Gym,Gym
-BB-5,Pajauskas; Abby,1,1D,Blacktop,Gym Hallway
-SSK-6,Pajauskas; Abby,1,1D,PACE- 1228,PACE- 1228
-SA-1,Pimentel; Lia,1,1D,Maltese - 1124,Maltese - 1124
-RR-2,Pimentel; Lia,1,1D,Outside Door #1,1st Grade Hall
-CL-3,Pimentel; Lia,1,1D,Outside Door #1,4th Grade Hallway
-GYM-4,Pimentel; Lia,1,1D,Outside Door #13,5th grade hallway
-HH-5,Pimentel; Lia,1,1D,Newhouse- 1242,Newhouse- 1242
-MA-6,Pimentel; Lia,1,1D,Brown - 1306,Brown - 1306
-LR-1,Pizzaro Reyes; Emma,1,1D,4th Grade Hub,4th Grade Hub
-MC-2,Pizzaro Reyes; Emma,1,1D,Krause - 1208,Krause - 1208
-RB-3,Pizzaro Reyes; Emma,1,1D,Hall-1230,Hall-1230
-KG-4,Pizzaro Reyes; Emma,1,1D,ELL-1220,ELL-1220
-MA-5,Pizzaro Reyes; Emma,1,1D,Brown - 1306,Brown - 1306
-GF-6,Pizzaro Reyes; Emma,1,1D,NW Corner,4th Grade Hallway
-HDV-1,Powell; James,1,1D,Huggins - 1308,Huggins - 1308
-NW-2,Powell; James,1,1D,Gym,Gym
-VC-3,Powell; James,1,1D,Music room,Music room
-GF-4,Powell; James,1,1D,NW Corner,4th Grade Hallway
-HH-5,Powell; James,1,1D,Newhouse- 1242,Newhouse- 1242
-CS-6,Powell; James,1,1D,Math - 1126,Math- 1126
-VC-1,Rodriguez; Charlie,1,1D,Music room,Music room
-TD-2,Rodriguez; Charlie,1,1D,Front Porch,Under Covered Porch
-HH-3,Rodriguez; Charlie,1,1D,Newhouse- 1242,Newhouse- 1242
-CD-4,Rodriguez; Charlie,1,1D,MPR,MPR
-MA-5,Rodriguez; Charlie,1,1D,Brown - 1306,Brown - 1306
-EB-6,Rodriguez; Charlie,1,1D,Outside Door #8,3rd grade hall
-SA-1,Turner; Anderson,1,1D,Maltese - 1124,Maltese - 1124
-LR-2,Turner; Anderson,1,1D,4th Grade Hub,4th Grade Hub
-MC-3,Turner; Anderson,1,1D,Krause - 1208,Krause - 1208
-RB-4,Turner; Anderson,1,1D,Hall-1230,Hall-1230
-JP-5,Turner; Anderson,1,1D,MPR,MPR
-VC-6,Turner; Anderson,1,1D,Music room,Music room
-HH-1,Vargas; Eva,1,1D,Newhouse- 1242,Newhouse- 1242
-GYM-2,Vargas; Eva,1,1D,Outside Door #13,5th grade hallway
-CD-3,Vargas; Eva,1,1D,MPR,MPR
-VC-4,Vargas; Eva,1,1D,Music room,Music room
-CL-5,Vargas; Eva,1,1D,Outside Door #1,4th Grade Hallway
-MC-6,Vargas; Eva,1,1D,Krause - 1208,Krause - 1208
-JP-1,Alt; Peter,1,1F,MPR,MPR
-WW-2,Alt; Peter,1,1F,Field NW Corner,3rd grade hall
-LR-3,Alt; Peter,1,1F,4th Grade Hub,4th Grade Hub
-SPO-4,Alt; Peter,1,1F,South East Field,Gym Hallway
-BB-5,Alt; Peter,1,1F,Blacktop,Gym Hallway
-MC-6,Alt; Peter,1,1F,Krause - 1208,Krause - 1208
-GYM-1,Berloh; Diana,1,1F,Outside Door #13,5th grade hallway
-VC-2,Berloh; Diana,1,1F,Music room,Music room
-MG-3,Berloh; Diana,1,1F,Brown - 1306,Brown - 1306
-CL-4,Berloh; Diana,1,1F,Outside Door #1,4th Grade Hallway
-YG-5,Berloh; Diana,1,1F,Maltese - 1124,Maltese - 1124
-SPO-6,Berloh; Diana,1,1F,South East Field,Gym Hallway
-RB-1,Bonilla; Valeria,1,1F,Hall-1230,Hall-1230
-WW-2,Bonilla; Valeria,1,1F,Field NW Corner,3rd grade hall
-MG-3,Bonilla; Valeria,1,1F,Brown - 1306,Brown - 1306
-SSK-4,Bonilla; Valeria,1,1F,PACE- 1228,PACE- 1228
-SPO-5,Bonilla; Valeria,1,1F,South East Field,Gym Hallway
-YG-6,Bonilla; Valeria,1,1F,Maltese - 1124,Maltese - 1124
-CF-1,Caldorola; Nico,1,1F,Back Field Southwest Corner,4th Grade Hallway
-GF-2,Caldorola; Nico,1,1F,NW Corner,4th Grade Hallway
-KC-3,Caldorola; Nico,1,1F,PACE- 1228,PACE - 1228
-NW-4,Caldorola; Nico,1,1F,Gym,Gym
-FF-5,Caldorola; Nico,1,1F,Backfield Northeast Corner,2nd Grade Hallway
-LR-6,Caldorola; Nico,1,1F,4th Grade Hub,4th Grade Hub
-HDV-1,Castino; Charlie,1,1F,Huggins - 1308,Huggins - 1308
-LR-2,Castino; Charlie,1,1F,4th Grade Hub,4th Grade Hub
-RB-3,Castino; Charlie,1,1F,Hall-1230,Hall-1230
-FH-4,Castino; Charlie,1,1F,Gym,Gym
-GF-5,Castino; Charlie,1,1F,NW Corner,4th Grade Hallway
-VC-6,Castino; Charlie,1,1F,Music room,Music room
-HH-1,Cesarone; Elizabeth,1,1F,Newhouse- 1242,Newhouse- 1242
-WW-2,Cesarone; Elizabeth,1,1F,Field NW Corner,3rd grade hall
-CD-3,Cesarone; Elizabeth,1,1F,MPR,MPR
-GYM-4,Cesarone; Elizabeth,1,1F,Outside Door #13,5th grade hallway
-VC-5,Cesarone; Elizabeth,1,1F,Music room,Music room
-CL-6,Cesarone; Elizabeth,1,1F,Outside Door #1,4th Grade Hallway
-CF-1,Fonseca Gonzalez; Camilla,1,1F,Back Field Southwest Corner,4th Grade Hallway
-TD-2,Fonseca Gonzalez; Camilla,1,1F,Front Porch,Under Covered Porch
-HH-3,Fonseca Gonzalez; Camilla,1,1F,Newhouse- 1242,Newhouse- 1242
-CD-4,Fonseca Gonzalez; Camilla,1,1F,MPR,MPR
-SPA-5,Fonseca Gonzalez; Camilla,1,1F,Gym Hall,Gym Hallway
-CM-6,Fonseca Gonzalez; Camilla,1,1F,MPR,MPR
-FF-1,Grussenmeyer; Joey,1,1F,Back field northeast corner,2nd Grade Hallway
-RR-2,Grussenmeyer; Joey,1,1F,Outside Door #1,1st Grade Hall
-SPO-3,Grussenmeyer; Joey,1,1F,South East Field,Gym Hallway
-NW-4,Grussenmeyer; Joey,1,1F,Gym,Gym
-YG-5,Grussenmeyer; Joey,1,1F,Maltese - 1124,Maltese - 1124
-EB-6,Grussenmeyer; Joey,1,1F,Outside Door #8,3rd grade hall
-VC-1,Halder; Emma,1,1F,Music room,Music room
-CS-2,Halder; Emma,1,1F,Math - 1126,Math- 1126
-TD-3,Halder; Emma,1,1F,Front Porch,Under Covered Porch
-MA-4,Halder; Emma,1,1F,Brown - 1306,Brown - 1306
-CL-5,Halder; Emma,1,1F,Outside Door #1,4th Grade Hallway
-HH-6,Halder; Emma,1,1F,Newhouse- 1242,Newhouse- 1242
-HH-1,Havlik; Kyleigh,1,1F,Newhouse- 1242,Newhouse- 1242
-GYM-2,Havlik; Kyleigh,1,1F,Outside Door #13,5th grade hallway
-TD-3,Havlik; Kyleigh,1,1F,Front Porch,Under Covered Porch
-FMP-4,Havlik; Kyleigh,1,1F,Art Room,Art Room
-CL-5,Havlik; Kyleigh,1,1F,Outside Door #1,4th Grade Hallway
-YG-6,Havlik; Kyleigh,1,1F,Maltese - 1124,Maltese - 1124
-MC-1,Khan; Aban,1,1F,Krause - 1208,Krause - 1208
-WW-2,Khan; Aban,1,1F,Field NW Corner,3rd grade hall
-BB-3,Khan; Aban,1,1F,Blacktop,Gym Hallway
-GF-4,Khan; Aban,1,1F,NW Corner,4th Grade Hallway
-HDV-5,Khan; Aban,1,1F,Huggins - 1308,Huggins - 1308
-EB-6,Khan; Aban,1,1F,Outside Door # 8,3rd grade hall
-HDV-1,Khan; Ikram,1,1F,Huggins - 1308,Huggins - 1308
-LR-2,Khan; Ikram,1,1F,4th Grade Hub,4th Grade Hub
-RB-3,Khan; Ikram,1,1F,Hall-1230,Hall-1230
-FH-4,Khan; Ikram,1,1F,Gym,Gym
-GF-5,Khan; Ikram,1,1F,NW Corner,4th Grade Hallway
-VC-6,Khan; Ikram,1,1F,Music room,Music room
-BB-1,Lagunas; Charlene,1,1F,Blacktop,Gym Hallway
-WW-2,Lagunas; Charlene,1,1F,Field NW Corner,3rd grade hall
-IB-3,Lagunas; Charlene,1,1F,Bussman - 1118,Bussman - 1118
-EB-4,Lagunas; Charlene,1,1F,Outside Door -8,3rd grade hall
-GF-5,Lagunas; Charlene,1,1F,NW Corner,4th Grade Hallway
-MA-6,Lagunas; Charlene,1,1F,Brown - 1306,Brown - 1306
-BB-1,Lopez; Israel,1,1F,Blacktop,Gym Hallway
-KC-2,Lopez; Israel,1,1F,PACE- 1228,PACE - 1228
-MC-3,Lopez; Israel,1,1F,Krause - 1208,Krause - 1208
-SPO-4,Lopez; Israel,1,1F,South East Field,Gym Hallway
-HDV-5,Lopez; Israel,1,1F,Huggins - 1308,Huggins - 1308
-EB-6,Lopez; Israel,1,1F,Outside Door # 8,3rd grade hall
-KC-1,Lopez; Josue,1,1F,PACE- 1228,PACE - 1228
-GF-2,Lopez; Josue,1,1F,NW Corner,4th Grade Hallway
-CM-3,Lopez; Josue,1,1F,MPR,MPR
-HDV-4,Lopez; Josue,1,1F,Huggins - 1308,Huggins - 1308
-CS-5,Lopez; Josue,1,1F,Math - 1126,Math- 1126
-MC-6,Lopez; Josue,1,1F,Krause - 1208,Krause - 1208
-VC-1,McDonough; Quin,1,1F,Music room,Music room
-CD-2,McDonough; Quin,1,1F,MPR,MPR
-MC-3,McDonough; Quin,1,1F,Krause - 1208,Krause - 1208
-NW-4,McDonough; Quin,1,1F,Gym,Gym
-FMP-5,McDonough; Quin,1,1F,Art Room,Art Room
-HH-6,McDonough; Quin,1,1F,Newhouse- 1242,Newhouse- 1242
-FF-1,Morales; Guillermo,1,1F,Back field northeast corner,2nd Grade Hallway
-RR-2,Morales; Guillermo,1,1F,Outside Door #1,1st Grade Hall
-HDV-3,Morales; Guillermo,1,1F,Huggins - 1308,Huggins - 1308
-SPO-4,Morales; Guillermo,1,1F,South East Field,Gym Hallway
-RB-5,Morales; Guillermo,1,1F,Hall-1230,Hall-1230
-MA-6,Morales; Guillermo,1,1F,Brown - 1306,Brown - 1306
-FF-1,Pajauskas; Jake,1,1F,Back field northeast corner,2nd Grade Hallway
-RR-2,Pajauskas; Jake,1,1F,Outside Door #1,1st Grade Hall
-BB-3,Pajauskas; Jake,1,1F,Blacktop,Gym Hallway
-FH-4,Pajauskas; Jake,1,1F,Gym,Gym
-SPO-5,Pajauskas; Jake,1,1F,South East Field,Gym Hallway
-TD-6,Pajauskas; Jake,1,1F,Front Porch,Under Covered Porch
-CD-1,Purser; Emily,1,1F,MPR,MPR
-GYM-2,Purser; Emily,1,1F,Outside Door #13,5th grade hallway
-FTX-3,Purser; Emily,1,1F,GYM,GYM
-CM-4,Purser; Emily,1,1F,MPR,MPR
-CL-5,Purser; Emily,1,1F,Outside Door #1,4th Grade Hallway
-HH-6,Purser; Emily,1,1F,Newhouse- 1242,Newhouse- 1242
-VC-1,Scalora; Kennedy,1,1F,Music room,Music room
-FMP-2,Scalora; Kennedy,1,1F,Art Room,Art Room
-GYM-3,Scalora; Kennedy,1,1F,Outside Door #13,5th grade hallway
-CL-4,Scalora; Kennedy,1,1F,Outside Door #1,4th Grade Hallway
-HH-5,Scalora; Kennedy,1,1F,Newhouse- 1242,Newhouse- 1242
-SM-6,Scalora; Kennedy,1,1F,Art Room,Art Room
-HH-1,Staley; Emma Joy,1,1F,Newhouse- 1242,Newhouse- 1242
-WW-2,Staley; Emma Joy,1,1F,Field NW Corner,3rd grade hall
-HDV-3,Staley; Emma Joy,1,1F,Huggins - 1308,Huggins - 1308
-SPA-4,Staley; Emma Joy,1,1F,Gym Hall,Gym Hallway
-CM-5,Staley; Emma Joy,1,1F,MPR,MPR
-FMP-6,Staley; Emma Joy,1,1F,Art Room,Art Room
-HH-1,Taylor; Aaron,1,1F,Newhouse- 1242,Newhouse- 1242
-RR-2,Taylor; Aaron,1,1F,Outside Door #1,1st Grade Hall
-BB-3,Taylor; Aaron,1,1F,Blacktop,Gym Hallway
-TD-4,Taylor; Aaron,1,1F,Front Porch,Under Covered Porch
-LR-5,Taylor; Aaron,1,1F,4th Grade Hub,4th Grade Hub
-MC-6,Taylor; Aaron,1,1F,Krause - 1208,Krause - 1208
-CF-1,Tomas Sebastian; Juan,1,1F,Back Field Southwest Corner,4th Grade Hallway
-SA-2,Tomas Sebastian; Juan,1,1F,Maltese - 1124,Maltese - 1124
-KC-3,Tomas Sebastian; Juan,1,1F,PACE- 1228,PACE - 1228
-RR-4,Tomas Sebastian; Juan,1,1F,Outside Door #1,1st Grade Hall
-HDV-5,Tomas Sebastian; Juan,1,1F,Huggins - 1308,Huggins - 1308
-CL-6,Tomas Sebastian; Juan,1,1F,Outside Door #1,4th Grade Hallway
-FMP-1,Townsend; Lacey,1,1F,Art Room,Art Room
-MC-2,Townsend; Lacey,1,1F,Krause - 1208,Krause - 1208
-EB-3,Townsend; Lacey,1,1F,Outside Door # 8,3rd Grade Hall
-CM-4,Townsend; Lacey,1,1F,MPR,MPR
-TD-5,Townsend; Lacey,1,1F,Front Porch,Under Covered Porch
-HH-6,Townsend; Lacey,1,1F,Newhouse- 1242,Newhouse- 1242
-CL-1,Adamus; Sofia,1,1V,Outside Door #1,4th Grade Hallway
-EB-2,Adamus; Sofia,1,1V,Outside Door -8,3rd grade hall
-CM-3,Adamus; Sofia,1,1V,MPR,MPR
-SM-4,Adamus; Sofia,1,1V,Art Room,Art Room
-FMP-5,Adamus; Sofia,1,1V,Art Room,Art Room
-HH-6,Adamus; Sofia,1,1V,Newhouse- 1242,Newhouse- 1242
-BB-1,Azad; Aerona,1,1V,Blacktop,Gym Hallway
-JP-2,Azad; Aerona,1,1V,MPR,MPR
-HDV-3,Azad; Aerona,1,1V,Huggins - 1308,Huggins - 1308
-CL-4,Azad; Aerona,1,1V,Outside Door #1,4th Grade Hallway
-FMP-5,Azad; Aerona,1,1V,Art Room,Art Room
-GF-6,Azad; Aerona,1,1V,NW Corner,4th Grade Hallway
-SA-1,Bilal; Jony,1,1V,Maltese - 1124,Maltese - 1124
-CL-2,Bilal; Jony,1,1V,Outside Door #1,4th Grade Hallway
-EB-3,Bilal; Jony,1,1V,Outside Door #8,3rd grade hall
-CS-4,Bilal; Jony,1,1V,Math - 1126,Math- 1126
-FMP-5,Bilal; Jony,1,1V,Art Room,Art Room
-GYM-6,Bilal; Jony,1,1V,Outside Door #13,5th grade hallway
-VC-1,Bruzdzinski; Emily,1,1V,Music room,Music room
-SA-2,Bruzdzinski; Emily,1,1V,Maltese - 1124,Maltese - 1124
-WW-3,Bruzdzinski; Emily,1,1V,Field NW Corner,3rd grade hall
-TD-4,Bruzdzinski; Emily,1,1V,Front Porch,Under Covered Porch
-FMP-5,Bruzdzinski; Emily,1,1V,Art Room,Art Room
-YG-6,Bruzdzinski; Emily,1,1V,Maltese - 1124,Maltese - 1124
-CL-1,Cuapio Cuevas; Katie,1,1V,Outside Door #1,4th Grade Hallway
-GYM-2,Cuapio Cuevas; Katie,1,1V,Outside Door #13,5th grade hallway
-IB-3,Cuapio Cuevas; Katie,1,1V,Bussman - 1118,Bussman - 1118
-SM-4,Cuapio Cuevas; Katie,1,1V,Art Room,Art Room
-YG-5,Cuapio Cuevas; Katie,1,1V,Maltese - 1124,Maltese - 1124
-CD-6,Cuapio Cuevas; Katie,1,1V,MPR,MPR
-GYM-1,Davidson; Phoenix,1,1V,Outside Door #13,5th grade hallway
-FTX-2,Davidson; Phoenix,1,1V,GYM,GYM
-RB-3,Davidson; Phoenix,1,1V,Hall-1230,Hall-1230
-YG-4,Davidson; Phoenix,1,1V,Maltese - 1124,Maltese - 1124
-NW-5,Davidson; Phoenix,1,1V,Gym,Gym
-SSK-6,Davidson; Phoenix,1,1V,PACE- 1228,PACE- 1228
-LR-1,DeGroot; Eli  ,1,1V,4th Grade Hub,4th Grade Hub
-RR-2,DeGroot; Eli  ,1,1V,Outside Door #1,1st Grade Hall
-FMP-3,DeGroot; Eli  ,1,1V,Art Room,Art Room
-MA-4,DeGroot; Eli  ,1,1V,Brown - 1306,Brown - 1306
-CS-5,DeGroot; Eli  ,1,1V,Math - 1126,Math- 1126
-EB-6,DeGroot; Eli  ,1,1V,Outside Door # 8,3rd grade hall
-FF-1,Denz; Reilly,1,1V,Back field northeast corner,2nd Grade Hallway
-WW-2,Denz; Reilly,1,1V,Field NW Corner,3rd grade hall
-SPO-3,Denz; Reilly,1,1V,South East Field,Gym Hallway
-FH-4,Denz; Reilly,1,1V,Gym,Gym
-NW-5,Denz; Reilly,1,1V,Gym,Gym
-JP-6,Denz; Reilly,1,1V,MPR,MPR
-LR-1,Doman; Jackson,1,1V,4th Grade Hub,4th Grade Hub
-EB-2,Doman; Jackson,1,1V,Outside Door -8,3rd grade hall
-WW-3,Doman; Jackson,1,1V,Field NW Corner,3rd grade hall
-HDV-4,Doman; Jackson,1,1V,Huggins - 1308,Huggins - 1308
-GF-5,Doman; Jackson,1,1V,NW Corner,4th Grade Hallway
-MC-6,Doman; Jackson,1,1V,Krause - 1208,Krause - 1208
-GYM-1,Fielding; Elizabeth,1,1V,Outside Door #13,5th grade hallway
-CL-2,Fielding; Elizabeth,1,1V,Outside Door #1,4th Grade Hallway
-TD-3,Fielding; Elizabeth,1,1V,Front Porch,Under Covered Porch
-CD-4,Fielding; Elizabeth,1,1V,MPR,MPR
-YG-5,Fielding; Elizabeth,1,1V,Maltese - 1124,Maltese - 1124
-EB-6,Fielding; Elizabeth,1,1V,Outside Door #8,3rd Grade Hall
-LR-1,Figueroa; Lucas,1,1V,4th Grade Hub,4th Grade Hub
-FMP-2,Figueroa; Lucas,1,1V,Art Room,Art Room
-SM-3,Figueroa; Lucas,1,1V,Art Room,Art Room
-MA-4,Figueroa; Lucas,1,1V,Brown - 1306,Brown - 1306
-CS-5,Figueroa; Lucas,1,1V,Math - 1126,Math- 1126
-RB-6,Figueroa; Lucas,1,1V,Hall-1230,Hall-1230
-GYM-1,Hernandez; Emmily,1,1V,Outside Door #13,5th grade hallway
-CL-2,Hernandez; Emmily,1,1V,Outside Door #1,4th Grade Hallway
-HH-3,Hernandez; Emmily,1,1V,Newhouse- 1242,Newhouse- 1242
-IB-4,Hernandez; Emmily,1,1V,Bussman - 1118,Bussman - 1118
-MA-5,Hernandez; Emmily,1,1V,Brown - 1306,Brown - 1306
-EB-6,Hernandez; Emmily,1,1V,Outside Door #8,3rd Grade Hall
-VC-1,Hoffman; Whitney,1,1V,Music room,Music room
-IB-2,Hoffman; Whitney,1,1V,Bussman - 1118,Bussman - 1118
-SA-3,Hoffman; Whitney,1,1V,Maltese - 1124,Maltese - 1124
-NW-4,Hoffman; Whitney,1,1V,Gym,Gym
-MA-5,Hoffman; Whitney,1,1V,Brown - 1306,Brown - 1306
-SPA-6,Hoffman; Whitney,1,1V,Gym Hall,Gym Hallway
-VC-1,Hume; Brynlee,1,1V,Music room,Music room
-FMP-2,Hume; Brynlee,1,1V,Art Room,Art Room
-SM-3,Hume; Brynlee,1,1V,Art Room,Art Room
-TD-4,Hume; Brynlee,1,1V,Front Porch,Under Covered Porch
-SPA-5,Hume; Brynlee,1,1V,Gym Hall,Gym Hallway
-JP-6,Hume; Brynlee,1,1V,MPR,MPR
-VC-1,Johnston; Aubrey,1,1V,Music room,Music room
-EB-2,Johnston; Aubrey,1,1V,Outside Door -8,3rd grade hall
-MC-3,Johnston; Aubrey,1,1V,Krause - 1208,Krause - 1208
-YG-4,Johnston; Aubrey,1,1V,Maltese - 1124,Maltese - 1124
-SSK-5,Johnston; Aubrey,1,1V,PACE- 1228,PACE- 1228
-SPA-6,Johnston; Aubrey,1,1V,Gym Hall,Gym Hallway
-CL-1,Licht; Norah,1,1V,Outside Door #1,4th Grade Hallway
-VC-2,Licht; Norah,1,1V,Music room,Music room
-GYM-3,Licht; Norah,1,1V,Outside Door #13,5th grade hallway
-NW-4,Licht; Norah,1,1V,Gym,Gym
-SPA-5,Licht; Norah,1,1V,Gym Hall,Gym Hallway
-YG-6,Licht; Norah,1,1V,Maltese - 1124,Maltese - 1124
-CF-1,Malinowski; Sebastian,1,1V,Back Field Southwest Corner,4th Grade Hallway
-RR-2,Malinowski; Sebastian,1,1V,Outside Door #1,1st Grade Hall
-VC-3,Malinowski; Sebastian,1,1V,Music room,Music room
-HDV-4,Malinowski; Sebastian,1,1V,Huggins - 1308,Huggins - 1308
-HH-5,Malinowski; Sebastian,1,1V,Newhouse- 1242,Newhouse- 1242
-KG-6,Malinowski; Sebastian,1,1V,ELL-1220,ELL-1220
-MC-1,Meyers; Carson,1,1V,Krause - 1208,Krause - 1208
-WW-2,Meyers; Carson,1,1V,Field NW Corner,3rd grade hall
-TD-3,Meyers; Carson,1,1V,Front Porch,Under Covered Porch
-SSK-4,Meyers; Carson,1,1V,PACE- 1228,PACE- 1228
-NW-5,Meyers; Carson,1,1V,Gym,Gym
-HDV-6,Meyers; Carson,1,1V,Huggins - 1308,Huggins - 1308
-FF-1,Peterson; Parker,1,1V,Back field northeast corner,2nd Grade Hallway
-WW-2,Peterson; Parker,1,1V,Field NW Corner,3rd grade hall
-BB-3,Peterson; Parker,1,1V,Blacktop,Gym Hallway
-LR-4,Peterson; Parker,1,1V,4th Grade Hub,4th Grade Hub
-NW-5,Peterson; Parker,1,1V,Gym,Gym
-GF-6,Peterson; Parker,1,1V,NW Corner,4th Grade Hallway
-FMP-1,Ruiz; Neythan,1,1V,Art Room,Art Room
-LR-2,Ruiz; Neythan,1,1V,4th Grade Hub,4th Grade Hub
-BB-3,Ruiz; Neythan,1,1V,Blacktop,Gym Hallway
-RB-4,Ruiz; Neythan,1,1V,Hall-1230,Hall-1230
-GF-5,Ruiz; Neythan,1,1V,NW Corner,4th Grade Hallway
-MC-6,Ruiz; Neythan,1,1V,Krause - 1208,Krause - 1208
-BB-1,Spears; Kennedi,1,1V,Blacktop,Gym Hallway
-KC-2,Spears; Kennedi,1,1V,PACE- 1228,PACE - 1228
-CM-3,Spears; Kennedi,1,1V,MPR,MPR
-LR-4,Spears; Kennedi,1,1V,4th Grade Hub,4th Grade Hub
-GF-5,Spears; Kennedi,1,1V,NW Corner,4th Grade Hallway
-EB-6,Spears; Kennedi,1,1V,Outside Door #8,3rd Grade Hall
-CF-1,Thompson;Jaycee,1,1V,Back Field Southwest Corner,4th Grade Hallway
-WW-2,Thompson;Jaycee,1,1V,Field NW Corner,3rd grade hall
-BB-3,Thompson;Jaycee,1,1V,Blacktop,Gym Hallway
-LR-4,Thompson;Jaycee,1,1V,4th Grade Hub,4th Grade Hub
-JP-5,Thompson;Jaycee,1,1V,MPR,MPR
-RR-6,Thompson;Jaycee,1,1V,Outside Door #1,1st Grade Hall
-HH-1,Troutman; Millie,1,1V,Newhouse- 1242,Newhouse- 1242
-EB-2,Troutman; Millie,1,1V,Outside Door -8,3rd grade hall
-CM-3,Troutman; Millie,1,1V,MPR,MPR
-RB-4,Troutman; Millie,1,1V,Hall-1230,Hall-1230
-FMP-5,Troutman; Millie,1,1V,Art Room,Art Room
-SPA-6,Troutman; Millie,1,1V,Gym Hall,Gym Hallway
-CF-1,Valdez  ; Haiven,1,1V,Back Field Southwest Corner,4th Grade Hallway
-NW-2,Valdez  ; Haiven,1,1V,Gym,Gym
-CS-3,Valdez  ; Haiven,1,1V,Math - 1126,Math- 1126
-FMP-4,Valdez  ; Haiven,1,1V,Art Room,Art Room
-LR-5,Valdez  ; Haiven,1,1V,4th Grade Hub,4th Grade Hub
-RB-6,Valdez  ; Haiven,1,1V,Hall-1230,Hall-1230
-HDV-1,Valdez Esquivel; Caleb,1,1V,Huggins - 1308,Huggins - 1308
-KC-2,Valdez Esquivel; Caleb,1,1V,PACE- 1228,PACE - 1228
-CS-3,Valdez Esquivel; Caleb,1,1V,Math - 1126,Math- 1126
-FMP-4,Valdez Esquivel; Caleb,1,1V,Art Room,Art Room
-LR-5,Valdez Esquivel; Caleb,1,1V,4th Grade Hub,4th Grade Hub
-MC-6,Valdez Esquivel; Caleb,1,1V,Krause - 1208,Krause - 1208
-CM-1,Akmallova; Kamila,2,2B,MPR,MPR
-CS-2,Akmallova; Kamila,2,2B,Math - 1126,Math- 1126
-BG-3,Akmallova; Kamila,2,2B,Sobotka - 1232,Sobotka - 1232
-IB-4,Akmallova; Kamila,2,2B,Bussman - 1118,Bussman - 1118
-CD-5,Akmallova; Kamila,2,2B,MPR,MPR
-RR-6,Akmallova; Kamila,2,2B,Outside Door # 1,1st Grade Hall
-CD-1,Anderson; Caleb,2,2B,MPR,MPR
-JP-2,Anderson; Caleb,2,2B,MPR,MPR
-LR-3,Anderson; Caleb,2,2B,4th Grade Hub,4th Grade Hub
-CM-4,Anderson; Caleb,2,2B,MPR,MPR
-TD-5,Anderson; Caleb,2,2B,Front Porch,Under Covered Porch
-HDV-6,Anderson; Caleb,2,2B,Huggins - 1308,Huggins - 1308
-IB-1,Barron; Andy,2,2B,Bussman - 1118,Bussman - 1118
-CS-2,Barron; Andy,2,2B,Math - 1126,Math- 1126
-LR-3,Barron; Andy,2,2B,4th Grade Hub,4th Grade Hub
-JP-4,Barron; Andy,2,2B,MPR,MPR
-HDV-5,Barron; Andy,2,2B,Huggins - 1308,Huggins - 1308
-HH-6,Barron; Andy,2,2B,Newhouse- 1242,Newhouse- 1242
-VC-1,Baziuk; Oksana,2,2B,Music room,Music room
-RR-2,Baziuk; Oksana,2,2B,Outside Door #1,1st Grade Hall
-MG-3,Baziuk; Oksana,2,2B,Brown - 1306,Brown - 1306
-CL-4,Baziuk; Oksana,2,2B,Outside Door #1,4th Grade Hallway
-GYM-5,Baziuk; Oksana,2,2B,Outside Door #13,5th grade hallway
-KG-6,Baziuk; Oksana,2,2B,ELL-1220,ELL-1220
-JP-1,Bragiel; Jack,2,2B,MPR,MPR
-RR-2,Bragiel; Jack,2,2B,Outside Door #1,1st Grade Hall
-SPO-3,Bragiel; Jack,2,2B,South East Field,Gym Hallway
-EB-4,Bragiel; Jack,2,2B,Outside Door -8,3rd grade hall
-VC-5,Bragiel; Jack,2,2B,Music room,Music room
-HDV-6,Bragiel; Jack,2,2B,Huggins - 1308,Huggins - 1308
-HDV-1,Burmeister; Rose,2,2B,Huggins - 1308,Huggins - 1308
-VC-2,Burmeister; Rose,2,2B,Music room,Music room
-HH-3,Burmeister; Rose,2,2B,Newhouse- 1242,Newhouse- 1242
-CD-4,Burmeister; Rose,2,2B,MPR,MPR
-CS-5,Burmeister; Rose,2,2B,Math - 1126,Math- 1126
-GYM-6,Burmeister; Rose,2,2B,Outside Door #13,5th grade hallway
-CM-1,Cuateco; Victor,2,2B,MPR,MPR
-LR-2,Cuateco; Victor,2,2B,4th Grade Hub,4th Grade Hub
-GYM-3,Cuateco; Victor,2,2B,Outside Door #13,5th grade hallway
-HH-4,Cuateco; Victor,2,2B,Newhouse- 1242,Newhouse- 1242
-YG-5,Cuateco; Victor,2,2B,Maltese - 1124,Maltese - 1124
-JP-6,Cuateco; Victor,2,2B,MPR,MPR
-VC-1,Dacko; Lilly,2,2B,Music room,Music room
-IB-2,Dacko; Lilly,2,2B,Bussman - 1118,Bussman - 1118
-SPA-3,Dacko; Lilly,2,2B,Gym Hall,Gym Hallway
-MC-4,Dacko; Lilly,2,2B,Krause - 1208,Krause - 1208
-CL-5,Dacko; Lilly,2,2B,Outside Door #1,4th Grade Hallway
-SM-6,Dacko; Lilly,2,2B,Art Room,Art Room
-BB-1,Eriksen; Jordan,2,2B,Blacktop,Gym Hallway
-KC-2,Eriksen; Jordan,2,2B,PACE- 1228,PACE - 1228
-FTX-3,Eriksen; Jordan,2,2B,GYM,GYM
-NW-4,Eriksen; Jordan,2,2B,Gym,Gym
-SSK-5,Eriksen; Jordan,2,2B,PACE- 1228,PACE- 1228
-LR-6,Eriksen; Jordan,2,2B,4th Grade Hub,4th Grade Hub
-HH-1,Genc; Ashley,2,2B,Newhouse- 1242,Newhouse- 1242
-GF-2,Genc; Ashley,2,2B,NW Corner,4th Grade Hallway
-SPA-3,Genc; Ashley,2,2B,Gym Hall,Gym Hallway
-MA-4,Genc; Ashley,2,2B,Brown - 1306,Brown - 1306
-CS-5,Genc; Ashley,2,2B,Math - 1126,Math- 1126
-YG-6,Genc; Ashley,2,2B,Maltese - 1124,Maltese - 1124
-GF-1,Generette; Mi'Kiale,2,2B,NW Corner,4th Grade Hallway
-HDV-2,Generette; Mi'Kiale,2,2B,Huggins - 1308,Huggins - 1308
-LR-3,Generette; Mi'Kiale,2,2B,4th Grade Hub,4th Grade Hub
-HH-4,Generette; Mi'Kiale,2,2B,Newhouse- 1242,Newhouse- 1242
-FMP-5,Generette; Mi'Kiale,2,2B,Art Room,Art Room
-RR-6,Generette; Mi'Kiale,2,2B,Outside Door #1,1st Grade Hall
-SM-1,Glienke; Cal,2,2B,Art Room,Art Room
-NW-2,Glienke; Cal,2,2B,Gym,Gym
-CO-3,Glienke; Cal,2,2B,3rd Grade Hub,3rd grade hub
-LR-4,Glienke; Cal,2,2B,4th Grade Hub,4th Grade Hub
-BB-5,Glienke; Cal,2,2B,Blacktop,Gym Hallway
-HDV-6,Glienke; Cal,2,2B,Huggins - 1308,Huggins - 1308
-KC-1,Halperin; Braxton,2,2B,PACE- 1228,PACE - 1228
-CO-2,Halperin; Braxton,2,2B,3rd grade hub,3rd grade hub
-WW-3,Halperin; Braxton,2,2B,Field NW Corner,3rd grade hall
-KG-4,Halperin; Braxton,2,2B,ELL-1220,ELL-1220
-VC-5,Halperin; Braxton,2,2B,Music room,Music room
-JP-6,Halperin; Braxton,2,2B,MPR,MPR
-CD-1,Hartigan; Calleigh,2,2B,MPR,MPR
-FMP-2,Hartigan; Calleigh,2,2B,Art Room,Art Room
-SPA-3,Hartigan; Calleigh,2,2B,Gym Hall,Gym Hallway
-CM-4,Hartigan; Calleigh,2,2B,MPR,MPR
-HH-5,Hartigan; Calleigh,2,2B,Newhouse- 1242,Newhouse- 1242
-TD-6,Hartigan; Calleigh,2,2B,Front Porch,Under Covered Porch
-IB-1,Jarquin; Armando,2,2B,Bussman - 1118,Bussman - 1118
-WW-2,Jarquin; Armando,2,2B,Field NW Corner,3rd grade hall
-RB-3,Jarquin; Armando,2,2B,Hall-1230,Hall-1230
-HDV-4,Jarquin; Armando,2,2B,Huggins - 1308,Huggins - 1308
-RR-5,Jarquin; Armando,2,2B,Outside Door #1,1st Grade Hall
-EB-6,Jarquin; Armando,2,2B,Outside Door #8,3rd Grade Hall
-LR-1,Khanam; Juwaria,2,2B,4th Grade Hub,4th Grade Hub
-CS-2,Khanam; Juwaria,2,2B,Math - 1126,Math- 1126
-SM-3,Khanam; Juwaria,2,2B,Art Room,Art Room
-CD-4,Khanam; Juwaria,2,2B,MPR,MPR
-MA-5,Khanam; Juwaria,2,2B,Brown - 1306,Brown - 1306
-YG-6,Khanam; Juwaria,2,2B,Maltese - 1124,Maltese - 1124
-CF-1,Kuatbayeva; Dameli,2,2B,Back Field Southwest Corner,4th Grade Hallway
-VC-2,Kuatbayeva; Dameli,2,2B,Music room,Music room
-MG-3,Kuatbayeva; Dameli,2,2B,Brown - 1306,Brown - 1306
-CL-4,Kuatbayeva; Dameli,2,2B,Outside Door #1,4th Grade Hallway
-GYM-5,Kuatbayeva; Dameli,2,2B,Outside Door #13,5th grade hallway
-HH-6,Kuatbayeva; Dameli,2,2B,Newhouse- 1242,Newhouse- 1242
-HH-1,Lomma; Sarabeth,2,2B,Newhouse- 1242,Newhouse- 1242
-SA-2,Lomma; Sarabeth,2,2B,Maltese - 1124,Maltese - 1124
-SPA-3,Lomma; Sarabeth,2,2B,Gym Hall,Gym Hallway
-NW-4,Lomma; Sarabeth,2,2B,Gym,Gym
-FMP-5,Lomma; Sarabeth,2,2B,Art Room,Art Room
-CS-6,Lomma; Sarabeth,2,2B,Math - 1126,Math- 1126
-TD-1,Madrzyk; Melanie,2,2B,Front Porch,Under Covered Porch
-CL-2,Madrzyk; Melanie,2,2B,Outside Door #1,4th Grade Hallway
-SM-3,Madrzyk; Melanie,2,2B,Art Room,Art Room
-JP-4,Madrzyk; Melanie,2,2B,MPR,MPR
-VC-5,Madrzyk; Melanie,2,2B,Music room,Music room
-CM-6,Madrzyk; Melanie,2,2B,MPR,MPR
-VC-1,Martinez; Jacob,2,2B,Music room,Music room
-FMP-2,Martinez; Jacob,2,2B,Art Room,Art Room
-LR-3,Martinez; Jacob,2,2B,4th Grade Hub,4th Grade Hub
-MA-4,Martinez; Jacob,2,2B,Brown - 1306,Brown - 1306
-SSK-5,Martinez; Jacob,2,2B,PACE- 1228,PACE- 1228
-SM-6,Martinez; Jacob,2,2B,Art Room,Art Room
-SM-1,Moone; Isaac,2,2B,Art Room,Art Room
-NW-2,Moone; Isaac,2,2B,Gym,Gym
-CO-3,Moone; Isaac,2,2B,3rd Grade Hub,3rd grade hub
-LR-4,Moone; Isaac,2,2B,4th Grade Hub,4th Grade Hub
-BB-5,Moone; Isaac,2,2B,Blacktop,Gym Hallway
-HDV-6,Moone; Isaac,2,2B,Huggins - 1308,Huggins - 1308
-HDV-1,Scalora; Avery,2,2B,Huggins - 1308,Huggins - 1308
-EB-2,Scalora; Avery,2,2B,Outside Door -8,3rd grade hall
-SPA-3,Scalora; Avery,2,2B,Gym Hall,Gym Hallway
-NW-4,Scalora; Avery,2,2B,Gym,Gym
-MA-5,Scalora; Avery,2,2B,Brown - 1306,Brown - 1306
-FMP-6,Scalora; Avery,2,2B,Art Room,Art Room
-FF-1,Surio; Oscar,2,2B,Back field northeast corner,2nd Grade Hallway
-CO-2,Surio; Oscar,2,2B,3rd grade hub,3rd grade hub
-VC-3,Surio; Oscar,2,2B,Music room,Music room
-FH-4,Surio; Oscar,2,2B,Gym,Gym
-MC-5,Surio; Oscar,2,2B,Krause - 1208,Krause - 1208
-RR-6,Surio; Oscar,2,2B,Outside Door # 1,1st Grade Hall
-SA-1,Villela; Itzel,2,2B,Maltese - 1124,Maltese - 1124
-HA-2,Villela; Itzel,2,2B,ELL-1220,ELL-1220
-FMP-3,Villela; Itzel,2,2B,Art Room,Art Room
-MA-4,Villela; Itzel,2,2B,Brown - 1306,Brown - 1306
-CL-5,Villela; Itzel,2,2B,Outside Door #1,4th Grade Hallway
-RR-6,Villela; Itzel,2,2B,Outside Door #1,1st Grade Hall
-MC-1,Walston; Jacinda,2,2B,Krause - 1208,Krause - 1208
-VC-2,Walston; Jacinda,2,2B,Music room,Music room
-SPA-3,Walston; Jacinda,2,2B,Gym Hall,Gym Hallway
-MA-4,Walston; Jacinda,2,2B,Brown - 1306,Brown - 1306
-HDV-5,Walston; Jacinda,2,2B,Huggins - 1308,Huggins - 1308
-CS-6,Walston; Jacinda,2,2B,Math - 1126,Math- 1126
-CF-1,Wenberg; Trevor,2,2B,Back Field Southwest Corner,4th Grade Hallway
-MC-2,Wenberg; Trevor,2,2B,Krause - 1208,Krause - 1208
-MG-3,Wenberg; Trevor,2,2B,Brown - 1306,Brown - 1306
-FH-4,Wenberg; Trevor,2,2B,Gym,Gym
-MA-5,Wenberg; Trevor,2,2B,Brown - 1306,Brown - 1306
-SM-6,Wenberg; Trevor,2,2B,Art Room,Art Room
-CF-1,Zieche; Garrett,2,2B,Back Field Southwest Corner,4th Grade Hallway
-WW-2,Zieche; Garrett,2,2B,Field NW Corner,3rd grade hall
-CO-3,Zieche; Garrett,2,2B,3rd Grade Hub,3rd grade hub
-FH-4,Zieche; Garrett,2,2B,Gym,Gym
-FF-5,Zieche; Garrett,2,2B,Backfield Northeast Corner,2nd Grade Hallway
-CS-6,Zieche; Garrett,2,2B,Math - 1126,Math- 1126
-LR-1,Aliyev ; Oybek,2,2M,4th Grade Hub,4th Grade Hub
-WW-2,Aliyev ; Oybek,2,2M,Field NW Corner,3rd grade hall
-BB-3,Aliyev ; Oybek,2,2M,Blacktop,Gym Hallway
-CS-4,Aliyev ; Oybek,2,2M,Math - 1126,Math- 1126
-NW-5,Aliyev ; Oybek,2,2M,Gym,Gym
-RR-6,Aliyev ; Oybek,2,2M,Outside Door # 1,1st Grade Hall
-LR-1,Boone; Lindsey,2,2M,4th Grade Hub,4th Grade Hub
-NW-2,Boone; Lindsey,2,2M,Gym,Gym
-CS-3,Boone; Lindsey,2,2M,Math - 1126,Math- 1126
-SPA-4,Boone; Lindsey,2,2M,Gym Hall,Gym Hallway
-MA-5,Boone; Lindsey,2,2M,Brown - 1306,Brown - 1306
-SSK-6,Boone; Lindsey,2,2M,PACE- 1228,PACE- 1228
-JP-1,Boyce; Evan,2,2M,MPR,MPR
-MC-2,Boyce; Evan,2,2M,Krause - 1208,Krause - 1208
-CS-3,Boyce; Evan,2,2M,Math - 1126,Math- 1126
-RB-4,Boyce; Evan,2,2M,Hall-1230,Hall-1230
-VC-5,Boyce; Evan,2,2M,Music room,Music room
-SM-6,Boyce; Evan,2,2M,Art Room,Art Room
-CF-1,Caviles; Caden,2,2M,Back Field Southwest Corner,4th Grade Hallway
-CS-2,Caviles; Caden,2,2M,Math - 1126,Math- 1126
-BG-3,Caviles; Caden,2,2M,Sobotka - 1232,Sobotka - 1232
-HDV-4,Caviles; Caden,2,2M,Huggins - 1308,Huggins - 1308
-SPO-5,Caviles; Caden,2,2M,South East Field,Gym Hallway
-RR-6,Caviles; Caden,2,2M,Outside Door #1,1st Grade Hall
-VC-1,Curk; Annie,2,2M,Music room,Music room
-SA-2,Curk; Annie,2,2M,Maltese - 1124,Maltese - 1124
-SPA-3,Curk; Annie,2,2M,Gym Hall,Gym Hallway
-GYM-4,Curk; Annie,2,2M,Outside Door #13,5th grade hallway
-HH-5,Curk; Annie,2,2M,Newhouse- 1242,Newhouse- 1242
-CS-6,Curk; Annie,2,2M,Math - 1126,Math- 1126
-CS-1,Garcia; Daisy,2,2M,Math - 1126,Math-1126
-RR-2,Garcia; Daisy,2,2M,Outside Door #1,1st Grade Hall
-GF-3,Garcia; Daisy,2,2M,NW Corner,4th Grade Hallway
-HH-4,Garcia; Daisy,2,2M,Newhouse- 1242,Newhouse- 1242
-GYM-5,Garcia; Daisy,2,2M,Outside Door #13,5th grade hallway
-SPO-6,Garcia; Daisy,2,2M,South East Field,Gym Hallway
-SA-1,Garcia; Mariah,2,2M,Maltese - 1124,Maltese - 1124
-HA-2,Garcia; Mariah,2,2M,ELL-1220,ELL-1220
-HH-3,Garcia; Mariah,2,2M,Newhouse- 1242,Newhouse- 1242
-SPO-4,Garcia; Mariah,2,2M,South East Field,Gym Hallway
-LR-5,Garcia; Mariah,2,2M,4th Grade Hub,4th Grade Hub
-GYM-6,Garcia; Mariah,2,2M,Outside Door #13,5th grade hallway
-LR-1,Griffin; Alexander,2,2M,4th Grade Hub,4th Grade Hub
-WW-2,Griffin; Alexander,2,2M,Field NW Corner,3rd grade hall
-GF-3,Griffin; Alexander,2,2M,NW Corner,4th Grade Hallway
-YG-4,Griffin; Alexander,2,2M,Maltese - 1124,Maltese - 1124
-MA-5,Griffin; Alexander,2,2M,Brown - 1306,Brown - 1306
-RB-6,Griffin; Alexander,2,2M,Hall-1230,Hall-1230
-CF-1,Hartigan; Regan,2,2M,Back Field Southwest Corner,4th Grade Hallway
-EB-2,Hartigan; Regan,2,2M,Outside Door -8,3rd grade hall
-GYM-3,Hartigan; Regan,2,2M,Outside Door #13,5th grade hallway
-CL-4,Hartigan; Regan,2,2M,Outside Door #1,4th Grade Hallway
-FMP-5,Hartigan; Regan,2,2M,Art Room,Art Room
-RR-6,Hartigan; Regan,2,2M,Outside Door #1,1st Grade Hall
-SPA-1,Hudzik; Scarlett,2,2M,Gym Hall,Gym Hallway
-SA-2,Hudzik; Scarlett,2,2M,Maltese - 1124,Maltese - 1124
-FMP-3,Hudzik; Scarlett,2,2M,Art Room,Art Room
-CM-4,Hudzik; Scarlett,2,2M,MPR,MPR
-GYM-5,Hudzik; Scarlett,2,2M,Outside Door #13,5th grade hallway
-CS-6,Hudzik; Scarlett,2,2M,Math - 1126,Math- 1126
-GYM-1,Kalinin; Deana,2,2M,Outside Door #13,5th grade hallway
-JP-2,Kalinin; Deana,2,2M,MPR,MPR
-CL-3,Kalinin; Deana,2,2M,Outside Door #1,4th Grade Hallway
-KG-4,Kalinin; Deana,2,2M,ELL-1220,ELL-1220
-HDV-5,Kalinin; Deana,2,2M,Huggins - 1308,Huggins - 1308
-CM-6,Kalinin; Deana,2,2M,MPR,MPR
-SA-1,Kommers; Emma,2,2M,Maltese - 1124,Maltese - 1124
-TD-2,Kommers; Emma,2,2M,Front Porch,Under Covered Porch
-CO-3,Kommers; Emma,2,2M,3rd Grade Hub,3rd grade hub
-CS-4,Kommers; Emma,2,2M,Math - 1126,Math- 1126
-SPA-5,Kommers; Emma,2,2M,Gym Hall,Gym Hallway
-FMP-6,Kommers; Emma,2,2M,Art Room,Art Room
-FF-1,Martinez; Johonney,2,2M,Back field northeast corner,2nd Grade Hallway
-VC-2,Martinez; Johonney,2,2M,Music room,Music room
-CS-3,Martinez; Johonney,2,2M,Math - 1126,Math- 1126
-SSK-4,Martinez; Johonney,2,2M,PACE- 1228,PACE- 1228
-RB-5,Martinez; Johonney,2,2M,Hall-1230,Hall-1230
-SPO-6,Martinez; Johonney,2,2M,South East Field,Gym Hallway
-CF-1,Melin; Blake,2,2M,Back Field Southwest Corner,4th Grade Hallway
-NW-2,Melin; Blake,2,2M,Gym,Gym
-WW-3,Melin; Blake,2,2M,Field NW Corner,3rd grade hall
-SSK-4,Melin; Blake,2,2M,PACE- 1228,PACE- 1228
-FF-5,Melin; Blake,2,2M,Backfield Northeast Corner,2nd Grade Hallway
-FMP-6,Melin; Blake,2,2M,Art Room,Art Room
-TD-1,Meyers; Aden,2,2M,Front Porch,Under Covered Porch
-NW-2,Meyers; Aden,2,2M,Gym,Gym
-SA-3,Meyers; Aden,2,2M,Maltese - 1124,Maltese - 1124
-SM-4,Meyers; Aden,2,2M,Art Room,Art Room
-SSK-5,Meyers; Aden,2,2M,PACE- 1228,PACE- 1228
-CS-6,Meyers; Aden,2,2M,Math - 1126,Math- 1126
-CM-1,Mitchell; Johnny,2,2M,MPR,MPR
-CO-2,Mitchell; Johnny,2,2M,3rd grade hub,3rd grade hub
-KC-3,Mitchell; Johnny,2,2M,PACE- 1228,PACE - 1228
-NW-4,Mitchell; Johnny,2,2M,Gym,Gym
-CS-5,Mitchell; Johnny,2,2M,Math - 1126,Math- 1126
-GF-6,Mitchell; Johnny,2,2M,NW Corner,4th Grade Hallway
-TD-1,Mustafa; Eshaal,2,2M,Front Porch,Under Covered Porch
-SA-2,Mustafa; Eshaal,2,2M,Maltese - 1124,Maltese - 1124
-SPA-3,Mustafa; Eshaal,2,2M,Gym Hall,Gym Hallway
-EB-4,Mustafa; Eshaal,2,2M,Outside Door -8,3rd grade hall
-GYM-5,Mustafa; Eshaal,2,2M,Outside Door #13,5th grade hallway
-CL-6,Mustafa; Eshaal,2,2M,Outside Door #1,4th Grade Hallway
-GYM-1,Ouoba; Johanna,2,2M,Outside Door #13,5th grade hallway
-EB-2,Ouoba; Johanna,2,2M,Outside Door -8,3rd grade hall
-MG-3,Ouoba; Johanna,2,2M,Brown - 1306,Brown - 1306
-SM-4,Ouoba; Johanna,2,2M,Art Room,Art Room
-CS-5,Ouoba; Johanna,2,2M,Math - 1126,Math- 1126
-RR-6,Ouoba; Johanna,2,2M,Outside Door #1,1st Grade Hall
-HDV-1,Pacer; Isaac,2,2M,Huggins - 1308,Huggins - 1308
-NW-2,Pacer; Isaac,2,2M,Gym,Gym
-MC-3,Pacer; Isaac,2,2M,Krause - 1208,Krause - 1208
-EB-4,Pacer; Isaac,2,2M,Outside Door -8,3rd grade hall
-BB-5,Pacer; Isaac,2,2M,Blacktop,Gym Hallway
-SSK-6,Pacer; Isaac,2,2M,PACE- 1228,PACE- 1228
-CM-1,Parada; Jacky,2,2M,MPR,MPR
-IB-2,Parada; Jacky,2,2M,Bussman - 1118,Bussman - 1118
-FMP-3,Parada; Jacky,2,2M,Art Room,Art Room
-JP-4,Parada; Jacky,2,2M,MPR,MPR
-SPA-5,Parada; Jacky,2,2M,Gym Hall,Gym Hallway
-CD-6,Parada; Jacky,2,2M,MPR,MPR
-CS-1,Sheffler; Ava,2,2M,Math - 1126,Math-1126
-HH-2,Sheffler; Ava,2,2M,Newhouse- 1242,Newhouse- 1242
-SM-3,Sheffler; Ava,2,2M,Art Room,Art Room
-YG-4,Sheffler; Ava,2,2M,Maltese - 1124,Maltese - 1124
-VC-5,Sheffler; Ava,2,2M,Music room,Music room
-SPA-6,Sheffler; Ava,2,2M,Gym Hall,Gym Hallway
-RB-1,Skidmore; Tyler,2,2M,Hall-1230,Hall-1230
-NW-2,Skidmore; Tyler,2,2M,Gym,Gym
-BG-3,Skidmore; Tyler,2,2M,Sobotka - 1232,Sobotka - 1232
-TD-4,Skidmore; Tyler,2,2M,Front Porch,Under Covered Porch
-CS-5,Skidmore; Tyler,2,2M,Math - 1126,Math- 1126
-MA-6,Skidmore; Tyler,2,2M,Brown - 1306,Brown - 1306
-FF-1,Vargas; Julian,2,2M,Back field northeast corner,2nd Grade Hallway
-CO-2,Vargas; Julian,2,2M,3rd grade hub,3rd grade hub
-VC-3,Vargas; Julian,2,2M,Music room,Music room
-FH-4,Vargas; Julian,2,2M,Gym,Gym
-MC-5,Vargas; Julian,2,2M,Krause - 1208,Krause - 1208
-RR-6,Vargas; Julian,2,2M,Outside Door # 1,1st Grade Hall
-BB-1,Walker; Andersen,2,2M,Blacktop,Gym Hallway
-CS-2,Walker; Andersen,2,2M,Math - 1126,Math- 1126
-LR-3,Walker; Andersen,2,2M,4th Grade Hub,4th Grade Hub
-FH-4,Walker; Andersen,2,2M,Gym,Gym
-FF-5,Walker; Andersen,2,2M,Backfield Northeast Corner,2nd Grade Hallway
-WW-6,Walker; Andersen,2,2M,Field NW Corner,3rd Grade Hall
-SA-1,Wasieleski; Peyton,2,2M,Maltese - 1124,Maltese - 1124
-CD-2,Wasieleski; Peyton,2,2M,MPR,MPR
-FMP-3,Wasieleski; Peyton,2,2M,Art Room,Art Room
-YG-4,Wasieleski; Peyton,2,2M,Maltese - 1124,Maltese - 1124
-CL-5,Wasieleski; Peyton,2,2M,Outside Door #1,4th Grade Hallway
-WW-6,Wasieleski; Peyton,2,2M,Field NW Corner,3rd Grade Hallway
-SM-1,Wedow; Sienna,2,2M,Art Room,Art Room
-JP-2,Wedow; Sienna,2,2M,MPR,MPR
-CS-3,Wedow; Sienna,2,2M,Math - 1126,Math- 1126
-NW-4,Wedow; Sienna,2,2M,Gym,Gym
-SPA-5,Wedow; Sienna,2,2M,Gym Hall,Gym Hallway
-CL-6,Wedow; Sienna,2,2M,Outside Door #1,4th Grade Hallway
-HDV-1,Wezeman; Katherine,2,2M,Huggins - 1308,Huggins - 1308
-NW-2,Wezeman; Katherine,2,2M,Gym,Gym
-SA-3,Wezeman; Katherine,2,2M,Maltese - 1124,Maltese - 1124
-SPA-4,Wezeman; Katherine,2,2M,Gym Hall,Gym Hallway
-JP-5,Wezeman; Katherine,2,2M,MPR,MPR
-SSK-6,Wezeman; Katherine,2,2M,PACE- 1228,PACE- 1228
-GYM-1,Yusubov; Albina,2,2M,Outside Door #13,5th grade hallway
-RR-2,Yusubov; Albina,2,2M,Outside Door #1,1st Grade Hall
-SPA-3,Yusubov; Albina,2,2M,Gym Hall,Gym Hallway
-IB-4,Yusubov; Albina,2,2M,Bussman - 1118,Bussman - 1118
-SPO-5,Yusubov; Albina,2,2M,South East Field,Gym Hallway
-YG-6,Yusubov; Albina,2,2M,Maltese - 1124,Maltese - 1124
-SPA-1,Boldt; Lillian,3,3G,Gym Hall,Gym Hallway
-IB-2,Boldt; Lillian,3,3G,Bussman - 1118,Bussman - 1118
-EB-3,Boldt; Lillian,3,3G,Outside Door #8,3rd Grade Hallway
-KG-4,Boldt; Lillian,3,3G,ELL-1220,ELL-1220
-GYM-5,Boldt; Lillian,3,3G,Outside Door #13,5th grade hallway
-FMP-6,Boldt; Lillian,3,3G,Art Room,Art Room
-WW-1,Burau; Jackson,3,3G,Field NW Corner,3rd grade hall
-SM-2,Burau; Jackson,3,3G,Art Room,Art Room
-FF-3,Burau; Jackson,3,3G,Backfield Northeast Corner,2nd Grade Hallway
-RB-4,Burau; Jackson,3,3G,Hall-1230,Hall-1230
-NW-5,Burau; Jackson,3,3G,Gym,Gym
-LR-6,Burau; Jackson,3,3G,4th Grade Hub,4th Grade Hub
-IB-1,Claus; Lily,3,3G,Bussman - 1118,Bussman - 1118
-CL-2,Claus; Lily,3,3G,Outside Door #1,4th Grade Hallway
-EB-3,Claus; Lily,3,3G,Outside Door # 8,3rd Grade Hallway
-SPA-4,Claus; Lily,3,3G,Gym Hall,Gym Hallway
-CS-5,Claus; Lily,3,3G,Math - 1126,Math- 1126
-TD-6,Claus; Lily,3,3G,Front Porch,Under Covered Porch
-BG-1,Dunlavy; Hudson,3,3G,Sobotka - 1232,Sobotka - 1232
-FP-2,Dunlavy; Hudson,3,3G,Deinert - 1104,Deinert - 1104
-JG-3,Dunlavy; Hudson,3,3G,Blacktop,Pace Hallway
-MA-4,Dunlavy; Hudson,3,3G,Brown - 1306,Brown - 1306
-CD-5,Dunlavy; Hudson,3,3G,MPR,MPR
-JP-6,Dunlavy; Hudson,3,3G,MPR,MPR
-CS-1,Easwar; Shray,3,3G,Math - 1126,Math-1126
-RR-2,Easwar; Shray,3,3G,Outside Door #1,1st Grade Hall
-CF-3,Easwar; Shray,3,3G,Back Field Southwest Corner,4th Grade Hallway
-SM-4,Easwar; Shray,3,3G,Art Room,Art Room
-CD-5,Easwar; Shray,3,3G,MPR,MPR
-NW-6,Easwar; Shray,3,3G,Gym,Gym
-CS-1,Edwards; Luke,3,3G,Math - 1126,Math-1126
-FP-2,Edwards; Luke,3,3G,Deinert - 1104,Deinert - 1104
-CF-3,Edwards; Luke,3,3G,Back Field Southwest Corner,4th Grade Hallway
-JP-4,Edwards; Luke,3,3G,MPR,MPR
-CM-5,Edwards; Luke,3,3G,MPR,MPR
-FF-6,Edwards; Luke,3,3G,Backfield Northeast Corner,2nd Grade Hallway
-HAI-1,Espinoza; Noah,3,3G,Poch - 1240,Poch - 1240
-CS-2,Espinoza; Noah,3,3G,Math - 1126,Math- 1126
-CO-3,Espinoza; Noah,3,3G,3rd Grade Hub,3rd grade hub
-MM-4,Espinoza; Noah,3,3G,Kirschbaum - 1216,Kirschbaum - 1216
-BT-5,Espinoza; Noah,3,3G,Ms. Sobotka 1232,Ms. Sobotka 1232
-RB-6,Espinoza; Noah,3,3G,Hall-1230,Hall-1230
-RB-1,Fucciolo; Shyire,3,3G,Hall-1230,Hall-1230
-SM-2,Fucciolo; Shyire,3,3G,Art Room,Art Room
-JP-3,Fucciolo; Shyire,3,3G,MPR,MPR
-MA-4,Fucciolo; Shyire,3,3G,Brown - 1306,Brown - 1306
-CS-5,Fucciolo; Shyire,3,3G,Math - 1126,Math- 1126
-MC-6,Fucciolo; Shyire,3,3G,Krause - 1208,Krause - 1208
-WW-1,Gonzalez; Kimberly,3,3G,Field NW Corner,3rd grade hall
-JP-2,Gonzalez; Kimberly,3,3G,MPR,MPR
-BG-3,Gonzalez; Kimberly,3,3G,Sobotka - 1232,Sobotka - 1232
-CS-4,Gonzalez; Kimberly,3,3G,Math - 1126,Math- 1126
-SM-5,Gonzalez; Kimberly,3,3G,Art Room,Art Room
-CM-6,Gonzalez; Kimberly,3,3G,MPR,MPR
-KC-1,Gurak; Rory,3,3G,PACE- 1228,PACE - 1228
-SM-2,Gurak; Rory,3,3G,Art Room,Art Room
-MG-3,Gurak; Rory,3,3G,Brown - 1306,Brown - 1306
-IB-4,Gurak; Rory,3,3G,Bussman - 1118,Bussman - 1118
-VC-5,Gurak; Rory,3,3G,Music room,Music room
-TD-6,Gurak; Rory,3,3G,Front Porch,Under Covered Porch
-WW-1,Hardy; Kameron,3,3G,Field NW Corner,3rd grade hall
-TD-2,Hardy; Kameron,3,3G,Front Porch,Under Covered Porch
-MC-3,Hardy; Kameron,3,3G,Krause - 1208,Krause - 1208
-NW-4,Hardy; Kameron,3,3G,Gym,Gym
-MA-5,Hardy; Kameron,3,3G,Brown - 1306,Brown - 1306
-SPO-6,Hardy; Kameron,3,3G,South East Field,Gym Hallway
-WW-1,Hernandez; Jessey,3,3G,Field NW Corner,3rd grade hall
-SPA-2,Hernandez; Jessey,3,3G,Gym Hall,Gym Hallway
-HH-3,Hernandez; Jessey,3,3G,Newhouse- 1242,Newhouse- 1242
-YG-4,Hernandez; Jessey,3,3G,Maltese - 1124,Maltese - 1124
-MA-5,Hernandez; Jessey,3,3G,Brown - 1306,Brown - 1306
-CL-6,Hernandez; Jessey,3,3G,Outside Door #1,4th Grade Hallway
-VC-1,Jurkowski; Amelia,3,3G,Music room,Music room
-DT-2,Jurkowski; Amelia,3,3G,Georganas - 1218,Georganas - 1218
-FP-3,Jurkowski; Amelia,3,3G,Deinert - 1104,Deinert - 1104
-SPA-4,Jurkowski; Amelia,3,3G,Gym Hall,Gym Hallway
-CD-5,Jurkowski; Amelia,3,3G,MPR,MPR
-JP-6,Jurkowski; Amelia,3,3G,MPR,MPR
-LR-1,Kelly; Ricky,3,3G,4th Grade Hub,4th Grade Hub
-MG-2,Kelly; Ricky,3,3G,Brown - 1306,Brown - 1306
-WW-3,Kelly; Ricky,3,3G,Field NW Corner,3rd Grade Hallway
-SPO-4,Kelly; Ricky,3,3G,South East Field,Gym Hallway
-SSK-5,Kelly; Ricky,3,3G,PACE- 1228,PACE- 1228
-MC-6,Kelly; Ricky,3,3G,Krause - 1208,Krause - 1208
-DT-1,Little; Mia,3,3G,Georganas - 1218,Georganas - 1218
-SPA-2,Little; Mia,3,3G,Gym Hall,Gym Hallway
-VC-3,Little; Mia,3,3G,Music room,Music room
-BT-4,Little; Mia,3,3G,Ms. Sobotka 1232,Ms. Sobotka 1232
-NW-5,Little; Mia,3,3G,Gym,Gym
-MA-6,Little; Mia,3,3G,Brown - 1306,Brown - 1306
-VC-1,O'Brien; Megan,3,3G,Music room,Music room
-BB-2,O'Brien; Megan,3,3G,Blacktop,Gym Hallway
-CL-3,O'Brien; Megan,3,3G,Outside Door #1,4th Grade Hallway
-CS-4,O'Brien; Megan,3,3G,Math - 1126,Math- 1126
-NW-5,O'Brien; Megan,3,3G,Gym,Gym
-GF-6,O'Brien; Megan,3,3G,NW Corner,4th Grade Hallway
-DT-1,Parker; Jon,3,3G,Georganas - 1218,Georganas - 1218
-CO-2,Parker; Jon,3,3G,3rd grade hub,3rd grade hub
-SA-3,Parker; Jon,3,3G,Maltese - 1124,Maltese - 1124
-KG-4,Parker; Jon,3,3G,ELL-1220,ELL-1220
-CD-5,Parker; Jon,3,3G,MPR,MPR
-GF-6,Parker; Jon,3,3G,NW Corner,4th Grade Hallway
-GF-1,Rakhimova; Amira,3,3G,NW Corner,4th Grade Hallway
-SM-2,Rakhimova; Amira,3,3G,Art Room,Art Room
-BG-3,Rakhimova; Amira,3,3G,Sobotka - 1232,Sobotka - 1232
-GYM-4,Rakhimova; Amira,3,3G,Outside Door #13,5th grade hallway
-MC-5,Rakhimova; Amira,3,3G,Krause - 1208,Krause - 1208
-SPA-6,Rakhimova; Amira,3,3G,Gym Hall,Gym Hallway
-TD-1,Sharifjonova; Azizabonu,3,3G,Front Porch,Under Covered Porch
-FP-2,Sharifjonova; Azizabonu,3,3G,Deinert - 1104,Deinert - 1104
-GYM-3,Sharifjonova; Azizabonu,3,3G,Outside Door #13,5th grade hallway
-SPA-4,Sharifjonova; Azizabonu,3,3G,Gym Hall,Gym Hallway
-YG-5,Sharifjonova; Azizabonu,3,3G,Maltese - 1124,Maltese - 1124
-MA-6,Sharifjonova; Azizabonu,3,3G,Brown - 1306,Brown - 1306
-FB-1,Soto; Isabella,3,3G,Reading - 1206,Reading -1206
-SPA-2,Soto; Isabella,3,3G,Gym Hall,Gym Hallway
-GF-3,Soto; Isabella,3,3G,NW Corner,4th Grade Hallway
-IB-4,Soto; Isabella,3,3G,Bussman - 1118,Bussman - 1118
-SM-5,Soto; Isabella,3,3G,Art Room,Art Room
-CL-6,Soto; Isabella,3,3G,Outside Door #1,4th Grade Hallway
-BB-1,Stroud; Lemuel,3,3G,Blacktop,Gym Hallway
-CF-2,Stroud; Lemuel,3,3G,Back Field Southwest Corner,4th Grade Hallway
-FF-3,Stroud; Lemuel,3,3G,Backfield Northeast Corner,2nd Grade Hallway
-HH-4,Stroud; Lemuel,3,3G,Newhouse- 1242,Newhouse- 1242
-WW-5,Stroud; Lemuel,3,3G,Field NW Corner,3rd grade hall
-TD-6,Stroud; Lemuel,3,3G,Front Porch,Under Covered Porch
-VC-1,Adamus; Alexandra,3,3KI,Music room,Music room
-SM-2,Adamus; Alexandra,3,3KI,Art Room,Art Room
-HH-3,Adamus; Alexandra,3,3KI,Newhouse- 1242,Newhouse- 1242
-SPA-4,Adamus; Alexandra,3,3KI,Gym Hall,Gym Hallway
-CD-5,Adamus; Alexandra,3,3KI,MPR,MPR
-FMP-6,Adamus; Alexandra,3,3KI,Art Room,Art Room
-VC-1,Augustyniak; Elizabeth,3,3KI,Music room,Music room
-DT-2,Augustyniak; Elizabeth,3,3KI,Georganas - 1218,Georganas - 1218
-CS-3,Augustyniak; Elizabeth,3,3KI,Math - 1126,Math- 1126
-YG-4,Augustyniak; Elizabeth,3,3KI,Maltese - 1124,Maltese - 1124
-HDV-5,Augustyniak; Elizabeth,3,3KI,Huggins - 1308,Huggins - 1308
-BT-6,Augustyniak; Elizabeth,3,3KI,Sobotka - 1232,Sobotka - 1232
-IB-1,Clausen; Jack ,3,3KI,Bussman - 1118,Bussman - 1118
-JP-2,Clausen; Jack ,3,3KI,MPR,MPR
-HDV-3,Clausen; Jack ,3,3KI,Huggins - 1308,Huggins - 1308
-MM-4,Clausen; Jack ,3,3KI,Kirschbaum - 1216,Kirschbaum - 1216
-NW-5,Clausen; Jack ,3,3KI,Gym,Gym
-SSK-6,Clausen; Jack ,3,3KI,PACE- 1228,PACE- 1228
-FTX-1,Colton; Linden,3,3KI,GYM,GYM
-GF-2,Colton; Linden,3,3KI,NW Corner,4th Grade Hallway
-FF-3,Colton; Linden,3,3KI,Backfield Northeast Corner,2nd Grade Hallway
-FH-4,Colton; Linden,3,3KI,Gym,Gym
-NW-5,Colton; Linden,3,3KI,Gym,Gym
-BB-6,Colton; Linden,3,3KI,Blacktop,Gym Hallway
-FTX-1,Davidson; Cameron,3,3KI,GYM,GYM
-NW-2,Davidson; Cameron,3,3KI,Gym,Gym
-CO-3,Davidson; Cameron,3,3KI,3rd Grade Hub,3rd grade hub
-GYM-4,Davidson; Cameron,3,3KI,Outside Door #13,5th grade hallway
-RB-5,Davidson; Cameron,3,3KI,Hall-1230,Hall-1230
-SSK-6,Davidson; Cameron,3,3KI,PACE- 1228,PACE- 1228
-JP-1,Gonzalez; Nico,3,3KI,MPR,MPR
-HDV-2,Gonzalez; Nico,3,3KI,Huggins - 1308,Huggins - 1308
-BB-3,Gonzalez; Nico,3,3KI,Blacktop,Gym Hallway
-FH-4,Gonzalez; Nico,3,3KI,Gym,Gym
-CM-5,Gonzalez; Nico,3,3KI,MPR,MPR
-CD-6,Gonzalez; Nico,3,3KI,MPR,MPR
-KC-1,Harpoh Nono; Edmond,3,3KI,PACE- 1228,PACE - 1228
-CO-2,Harpoh Nono; Edmond,3,3KI,3rd grade hub,3rd grade hub
-SM-3,Harpoh Nono; Edmond,3,3KI,Art Room,Art Room
-FMP-4,Harpoh Nono; Edmond,3,3KI,Art Room,Art Room
-TD-5,Harpoh Nono; Edmond,3,3KI,Front Porch,Under Covered Porch
-CM-6,Harpoh Nono; Edmond,3,3KI,MPR,MPR
-LR-1,Hoffman; Wesley,3,3KI,4th Grade Hub,4th Grade Hub
-BB-2,Hoffman; Wesley,3,3KI,Blacktop,Gym Hallway
-CO-3,Hoffman; Wesley,3,3KI,3rd Grade Hub,3rd grade hub
-MM-4,Hoffman; Wesley,3,3KI,Kirschbaum - 1216,Kirschbaum - 1216
-WW-5,Hoffman; Wesley,3,3KI,Field NW Corner,3rd grade hall
-NW-6,Hoffman; Wesley,3,3KI,Gym,Gym
-HH-1,Hosack; Teague,3,3KI,Newhouse- 1242,Newhouse- 1242
-DT-2,Hosack; Teague,3,3KI,Georganas - 1218,Georganas - 1218
-FP-3,Hosack; Teague,3,3KI,Deinert - 1104,Deinert - 1104
-SM-4,Hosack; Teague,3,3KI,Art Room,Art Room
-BT-5,Hosack; Teague,3,3KI,Sobotka - 1232,Sobotka - 1232
-SPA-6,Hosack; Teague,3,3KI,Gym Hall,Gym Hallway
-FMP-1,Hume; David,3,3KI,Art Room,Art Room
-HH-2,Hume; David,3,3KI,Newhouse- 1242,Newhouse- 1242
-SM-3,Hume; David,3,3KI,Art Room,Art Room
-HAI-4,Hume; David,3,3KI,Poch - 1240,Poch - 1240
-NW-5,Hume; David,3,3KI,Gym,Gym
-CM-6,Hume; David,3,3KI,MPR,MPR
-EB-1,Hunt; Jaidon,3,3KI,Outside Door -8,3rd grade hall
-CF-2,Hunt; Jaidon,3,3KI,Back Field Southwest Corner,4th Grade Hallway
-MG-3,Hunt; Jaidon,3,3KI,Brown - 1306,Brown - 1306
-FH-4,Hunt; Jaidon,3,3KI,Gym,Gym
-WW-5,Hunt; Jaidon,3,3KI,Field NW Corner,3rd Grade Hallway
-CS-6,Hunt; Jaidon,3,3KI,Math - 1126,Math- 1126
-VC-1,Koechling; Noah,3,3KI,Music room,Music room
-CF-2,Koechling; Noah,3,3KI,Back Field Southwest Corner,4th Grade Hallway
-FF-3,Koechling; Noah,3,3KI,Backfield Northeast Corner,2nd Grade Hallway
-MM-4,Koechling; Noah,3,3KI,Kirschbaum - 1216,Kirschbaum - 1216
-SPO-5,Koechling; Noah,3,3KI,South East Field,Gym Hallway
-MA-6,Koechling; Noah,3,3KI,Brown - 1306,Brown - 1306
-KC-1,Licht; David,3,3KI,PACE- 1228,PACE - 1228
-CO-2,Licht; David,3,3KI,3rd grade hub,3rd grade hub
-LR-3,Licht; David,3,3KI,4th Grade Hub,4th Grade Hub
-MM-4,Licht; David,3,3KI,Kirschbaum - 1216,Kirschbaum - 1216
-NW-5,Licht; David,3,3KI,Gym,Gym
-RB-6,Licht; David,3,3KI,Hall-1230,Hall-1230
-WW-1,Mendoza; Andrew,3,3KI,Field NW Corner,3rd grade hall
-MG-2,Mendoza; Andrew,3,3KI,Brown - 1306,Brown - 1306
-KC-3,Mendoza; Andrew,3,3KI,PACE- 1228,PACE - 1228
-MM-4,Mendoza; Andrew,3,3KI,Kirschbaum - 1216,Kirschbaum - 1216
-SSK-5,Mendoza; Andrew,3,3KI,PACE- 1228,PACE- 1228
-LR-6,Mendoza; Andrew,3,3KI,4th Grade Hub,4th Grade Hub
-FB-1,Mojica; Jimena,3,3KI,Reading - 1206,Reading -1206
-CD-2,Mojica; Jimena,3,3KI,MPR,MPR
-SM-3,Mojica; Jimena,3,3KI,Art Room,Art Room
-CM-4,Mojica; Jimena,3,3KI,MPR,MPR
-TD-5,Mojica; Jimena,3,3KI,Front Porch,Under Covered Porch
-JP-6,Mojica; Jimena,3,3KI,MPR,MPR
-VC-1,Muntz; Anna,3,3KI,Music room,Music room
-FB-2,Muntz; Anna,3,3KI,Reading Room,Reading Room
-JG-3,Muntz; Anna,3,3KI,Outside Blacktop,Pace Hallway
-HDV-4,Muntz; Anna,3,3KI,Huggins - 1308,Huggins - 1308
-CS-5,Muntz; Anna,3,3KI,Math - 1126,Math- 1126
-GYM-6,Muntz; Anna,3,3KI,Outside Door #13,5th grade hallway
-TD-1,Nelson; Shane,3,3KI,Front Porch,Under Covered Porch
-SA-2,Nelson; Shane,3,3KI,Maltese - 1124,Maltese - 1124
-JP-3,Nelson; Shane,3,3KI,MPR,MPR
-MM-4,Nelson; Shane,3,3KI,Kirschbaum - 1216,Kirschbaum - 1216
-HDV-5,Nelson; Shane,3,3KI,Huggins - 1308,Huggins - 1308
-FMP-6,Nelson; Shane,3,3KI,Art Room,Art Room
-BG-1,Simms; Henry,3,3KI,Sobotka - 1232,Sobotka - 1232
-KC-2,Simms; Henry,3,3KI,PACE- 1228,PACE
-FP-3,Simms; Henry,3,3KI,Deinert - 1104,Deinert - 1104
-MM-4,Simms; Henry,3,3KI,Kirschbaum - 1216,Kirschbaum - 1216
-RB-5,Simms; Henry,3,3KI,Hall-1230,Hall-1230
-GF-6,Simms; Henry,3,3KI,NW Corner,4th Grade Hallway
-SA-1,Ulmer; Arianna,3,3KI,Maltese - 1124,Maltese - 1124
-SPA-2,Ulmer; Arianna,3,3KI,Gym Hall,Gym Hallway
-FMP-3,Ulmer; Arianna,3,3KI,Art Room,Art Room
-HH-4,Ulmer; Arianna,3,3KI,Newhouse- 1242,Newhouse- 1242
-GF-5,Ulmer; Arianna,3,3KI,NW Corner,4th Grade Hallway
-MA-6,Ulmer; Arianna,3,3KI,Brown - 1306,Brown - 1306
-TD-1,Ward; Layla,3,3KI,Front Porch,Under Covered Porch
-SM-2,Ward; Layla,3,3KI,Art Room,Art Room
-MC-3,Ward; Layla,3,3KI,Krause - 1208,Krause - 1208
-SPA-4,Ward; Layla,3,3KI,Gym Hall,Gym Hallway
-CM-5,Ward; Layla,3,3KI,MPR,MPR
-CD-6,Ward; Layla,3,3KI,MPR,MPR
-GF-1,Biggs; Jaiden,3,3KR,NW Corner,4th Grade Hallway
-LR-2,Biggs; Jaiden,3,3KR,4th Grade Hub,4th Grade Hub
-RB-3,Biggs; Jaiden,3,3KR,Hall-1230,Hall-1230
-MM-4,Biggs; Jaiden,3,3KR,Kirschbaum - 1216,Kirschbaum - 1216
-NW-5,Biggs; Jaiden,3,3KR,Gym,Gym
-MA-6,Biggs; Jaiden,3,3KR,Brown - 1306,Brown - 1306
-CM-1,Bruzdzinski; Joey,3,3KR,MPR,MPR
-DT-2,Bruzdzinski; Joey,3,3KR,Georganas - 1218,Georganas - 1218
-KC-3,Bruzdzinski; Joey,3,3KR,PACE- 1228,PACE - 1228
-FH-4,Bruzdzinski; Joey,3,3KR,Gym,Gym
-MA-5,Bruzdzinski; Joey,3,3KR,Brown - 1306,Brown - 1306
-HDV-6,Bruzdzinski; Joey,3,3KR,Huggins - 1308,Huggins - 1308
-CD-1,Cruz; Marely,3,3KR,MPR,MPR
-CO-2,Cruz; Marely,3,3KR,3rd grade hub,3rd grade hub
-SA-3,Cruz; Marely,3,3KR,Maltese - 1124,Maltese - 1124
-CM-4,Cruz; Marely,3,3KR,MPR,MPR
-FMP-5,Cruz; Marely,3,3KR,Art Room,Art Room
-VC-6,Cruz; Marely,3,3KR,Music room,Music room
-KC-1,Dafelseed; Ahmed,3,3KR,PACE- 1228,PACE - 1228
-NW-2,Dafelseed; Ahmed,3,3KR,Gym,Gym
-CO-3,Dafelseed; Ahmed,3,3KR,3rd Grade Hub,3rd grade hub
-SPO-4,Dafelseed; Ahmed,3,3KR,South East Field,Gym Hallway
-LR-5,Dafelseed; Ahmed,3,3KR,4th Grade Hub,4th Grade Hub
-MA-6,Dafelseed; Ahmed,3,3KR,Brown - 1306,Brown - 1306
-SA-1,DeGroot; Kai,3,3KR,Maltese - 1124,Maltese - 1124
-DT-2,DeGroot; Kai,3,3KR,Georganas - 1218,Georganas - 1218
-HDV-3,DeGroot; Kai,3,3KR,Huggins - 1308,Huggins - 1308
-BT-4,DeGroot; Kai,3,3KR,Ms. Sobotka 1232,Ms. Sobotka 1232
-RR-5,DeGroot; Kai,3,3KR,Outside Door #1,1st Grade Hall
-SPO-6,DeGroot; Kai,3,3KR,South East Field,Gym Hallway
-IB-1,Fielding; James,3,3KR,Bussman - 1118,Bussman - 1118
-MC-2,Fielding; James,3,3KR,Krause - 1208,Krause - 1208
-LR-3,Fielding; James,3,3KR,4th Grade Hub,4th Grade Hub
-FH-4,Fielding; James,3,3KR,Gym,Gym
-TD-5,Fielding; James,3,3KR,Front Porch,Under Covered Porch
-SM-6,Fielding; James,3,3KR,Art Room,Art Room
-BB-1,Garcia; Oscar,3,3KR,Blacktop,Gym Hallway
-SPO-2,Garcia; Oscar,3,3KR,South East Field,Gym Hallway
-FF-3,Garcia; Oscar,3,3KR,Backfield Northeast Corner,2nd Grade Hallway
-NW-4,Garcia; Oscar,3,3KR,Gym,Gym
-GF-5,Garcia; Oscar,3,3KR,NW Corner,4th Grade Hallway
-WW-6,Garcia; Oscar,3,3KR,Field NW Corner,3rd Grade Hallway
-GYM-1,Istanbouli; Hayley,3,3KR,Outside Door #13,5th grade hallway
-SA-2,Istanbouli; Hayley,3,3KR,Maltese - 1124,Maltese - 1124
-DT-3,Istanbouli; Hayley,3,3KR,Georganas - 1218,Georganas - 1218
-BT-4,Istanbouli; Hayley,3,3KR,Ms. Sobotka 1232,Ms. Sobotka 1232
-SM-5,Istanbouli; Hayley,3,3KR,Art Room,Art Room
-FMP-6,Istanbouli; Hayley,3,3KR,Art Room,Art Room
-WW-1,Lill; Alyssa,3,3KR,Field NW Corner,3rd grade hall
-GYM-2,Lill; Alyssa,3,3KR,Outside Door #13,5th grade hallway
-TD-3,Lill; Alyssa,3,3KR,Front Porch,Under Covered Porch
-SPO-4,Lill; Alyssa,3,3KR,South East Field,Gym Hallway
-HH-5,Lill; Alyssa,3,3KR,Newhouse- 1242,Newhouse- 1242
-HDV-6,Lill; Alyssa,3,3KR,Huggins - 1308,Huggins - 1308
-WW-1,Lopez; Juan,3,3KR,Field NW Corner,3rd grade hall
-CF-2,Lopez; Juan,3,3KR,Back Field Southwest Corner,4th Grade Hallway
-FF-3,Lopez; Juan,3,3KR,Backfield Northeast Corner,2nd Grade Hallway
-RR-4,Lopez; Juan,3,3KR,Outside Door #1,1st Grade Hall
-LR-5,Lopez; Juan,3,3KR,4th Grade Hub,4th Grade Hub
-HDV-6,Lopez; Juan,3,3KR,Huggins - 1308,Huggins - 1308
-CS-1,Mahoney; Ian,3,3KR,Math - 1126,Math-1126
-CO-2,Mahoney; Ian,3,3KR,3rd grade hub,3rd grade hub
-KC-3,Mahoney; Ian,3,3KR,PACE- 1228,PACE - 1228
-MM-4,Mahoney; Ian,3,3KR,Kirschbaum - 1216,Kirschbaum - 1216
-SSK-5,Mahoney; Ian,3,3KR,PACE- 1228,PACE- 1228
-RB-6,Mahoney; Ian,3,3KR,Hall-1230,Hall-1230
-FB-1,Marshall; Jamya,3,3KR,Reading - 1206,Reading -1206
-SA-2,Marshall; Jamya,3,3KR,Maltese - 1124,Maltese - 1124
-TD-3,Marshall; Jamya,3,3KR,Front Porch,Under Covered Porch
-VC-4,Marshall; Jamya,3,3KR,Music room,Music room
-HH-5,Marshall; Jamya,3,3KR,Newhouse- 1242,Newhouse- 1242
-WW-6,Marshall; Jamya,3,3KR,Field NW Corner,3rd Grade Hallway
-FB-1,McCarthy; Kalee,3,3KR,Reading - 1206,Reading -1206
-NW-2,McCarthy; Kalee,3,3KR,Gym,Gym
-SPA-3,McCarthy; Kalee,3,3KR,Gym Hall,Gym Hallway
-VC-4,McCarthy; Kalee,3,3KR,Music room,Music room
-MA-5,McCarthy; Kalee,3,3KR,Brown - 1306,Brown - 1306
-CL-6,McCarthy; Kalee,3,3KR,Outside Door #1,4th Grade Hallway
-HDV-1,Navarro; Bianca,3,3KR,Huggins - 1308,Huggins - 1308
-CO-2,Navarro; Bianca,3,3KR,3rd grade hub,3rd grade hub
-DT-3,Navarro; Bianca,3,3KR,Georganas - 1218,Georganas - 1218
-MM-4,Navarro; Bianca,3,3KR,Kirschbaum - 1216,Kirschbaum - 1216
-CS-5,Navarro; Bianca,3,3KR,Math - 1126,Math- 1126
-HH-6,Navarro; Bianca,3,3KR,Newhouse- 1242,Newhouse- 1242
-HH-1,Newman; Veronique,3,3KR,Newhouse- 1242,Newhouse- 1242
-NW-2,Newman; Veronique,3,3KR,Gym,Gym
-DT-3,Newman; Veronique,3,3KR,Georganas - 1218,Georganas - 1218
-RR-4,Newman; Veronique,3,3KR,Outside Door #1,1st Grade Hall
-SSK-5,Newman; Veronique,3,3KR,PACE- 1228,PACE- 1228
-SM-6,Newman; Veronique,3,3KR,Art Room,Art Room
-BB-1,Oliver; Lae tawon,3,3KR,Blacktop,Gym Hallway
-HH-2,Oliver; Lae tawon,3,3KR,Newhouse- 1242,Newhouse- 1242
-FF-3,Oliver; Lae tawon,3,3KR,Backfield Northeast Corner,2nd Grade Hallway
-NW-4,Oliver; Lae tawon,3,3KR,Gym,Gym
-WW-5,Oliver; Lae tawon,3,3KR,Field NW Corner,3rd grade hall
-GF-6,Oliver; Lae tawon,3,3KR,NW Corner,4th Grade Hallway
-SA-1,Ram Tin Hmung; Philimon,3,3KR,Maltese - 1124,Maltese - 1124
-KC-2,Ram Tin Hmung; Philimon,3,3KR,PACE- 1228,PACE - 1228
-BB-3,Ram Tin Hmung; Philimon,3,3KR,Blacktop,Gym Hallway
-MA-4,Ram Tin Hmung; Philimon,3,3KR,Brown - 1306,Brown - 1306
-SPO-5,Ram Tin Hmung; Philimon,3,3KR,South East Field,Gym Hallway
-WW-6,Ram Tin Hmung; Philimon,3,3KR,Field NW Corner,3rd Grade Hallway
-BB-1,Ross; A'million,3,3KR,Blacktop,Gym Hallway
-SPO-2,Ross; A'million,3,3KR,South East Field,Gym Hallway
-FF-3,Ross; A'million,3,3KR,Backfield Northeast Corner,2nd Grade Hallway
-NW-4,Ross; A'million,3,3KR,Gym,Gym
-WW-5,Ross; A'million,3,3KR,Field NW Corner,3rd Grade Hallway
-GF-6,Ross; A'million,3,3KR,NW Corner,4th Grade Hallway
-IB-1,Sewell; Emma,3,3KR,Bussman - 1118,Bussman - 1118
-SA-2,Sewell; Emma,3,3KR,Maltese - 1124,Maltese - 1124
-HH-3,Sewell; Emma,3,3KR,Newhouse- 1242,Newhouse- 1242
-SPA-4,Sewell; Emma,3,3KR,Gym Hall,Gym Hallway
-BT-5,Sewell; Emma,3,3KR,Sobotka - 1232,Sobotka - 1232
-CM-6,Sewell; Emma,3,3KR,MPR,MPR
-SA-1,Velazquez; Gabriel,3,3KR,Maltese - 1124,Maltese - 1124
-HAI-2,Velazquez; Gabriel,3,3KR,Poch - 1240,Poch - 1240
-KC-3,Velazquez; Gabriel,3,3KR,PACE- 1228,PACE - 1228
-MM-4,Velazquez; Gabriel,3,3KR,Kirschbaum - 1216,Kirschbaum - 1216
-LR-5,Velazquez; Gabriel,3,3KR,4th Grade Hub,4th Grade Hub
-RB-6,Velazquez; Gabriel,3,3KR,Hall-1230,Hall-1230
-HH-1,Villa; Desiree,3,3KR,Newhouse- 1242,Newhouse- 1242
-CL-2,Villa; Desiree,3,3KR,Outside Door #1,4th Grade Hallway
-EB-3,Villa; Desiree,3,3KR,Outside Door #8,3rd Grade Hallway
-CS-4,Villa; Desiree,3,3KR,Math - 1126,Math- 1126
-SM-5,Villa; Desiree,3,3KR,Art Room,Art Room
-CD-6,Villa; Desiree,3,3KR,MPR,MPR
-CL-1,Wara; Kyra,3,3KR,Outside Door #1,4th Grade Hallway
-HH-2,Wara; Kyra,3,3KR,Newhouse- 1242,Newhouse- 1242
-FP-3,Wara; Kyra,3,3KR,Deinert - 1104,Deinert - 1104
-SSK-4,Wara; Kyra,3,3KR,PACE- 1228,PACE- 1228
-GYM-5,Wara; Kyra,3,3KR,Outside Door #13,5th grade hallway
-SM-6,Wara; Kyra,3,3KR,Art Room,Art Room
-DT-1,Van Rossum; Blake,3,3KI,Georganas - 1218,Georganas - 1218
-FP-2,Van Rossum; Blake,3,3KI,Deinert - 1104,Deinert - 1104
-FF-3,Van Rossum; Blake,3,3KI,Backfield Northeast Corner,2nd Grade Hallway
-FH-4,Van Rossum; Blake,3,3KI,Gym,Gym
-NW-5,Van Rossum; Blake,3,3KI,Gym,Gym
-MA-6,Van Rossum; Blake,3,3KI,Brown - 1306,Brown - 1306
-DT-1,Ahern; Rebecca,4,4N,Georganas - 1218,Georganas - 1218
-FB-2,Ahern; Rebecca,4,4N,Reading-1206,Reading -1206
-CM-3,Ahern; Rebecca,4,4N,MPR,MPR
-CD-4,Ahern; Rebecca,4,4N,MPR,MPR
-FMP-5,Ahern; Rebecca,4,4N,Art Room,Art Room
-SPO-6,Ahern; Rebecca,4,4N,South East Field,Gym Hallway
-CD-1,Beck; Evangeline,4,4N,MPR,MPR
-DT-2,Beck; Evangeline,4,4N,Georganas - 1218,Georganas - 1218
-FMP-3,Beck; Evangeline,4,4N,Art Room,Art Room
-GYM-4,Beck; Evangeline,4,4N,Outside Door #13,5th grade hallway
-SM-5,Beck; Evangeline,4,4N,Art Room,Art Room
-BT-6,Beck; Evangeline,4,4N,Sobotka - 1232,Sobotka - 1232
-WW-1,Erkinov; Doniyorbek,4,4N,Field NW Corner,3rd grade hall
-BB-2,Erkinov; Doniyorbek,4,4N,Blacktop,Gym Hallway
-RR-3,Erkinov; Doniyorbek,4,4N,Outside Door #1,1st Grade Hall
-FF-4,Erkinov; Doniyorbek,4,4N,Backfield Northeast Corner,2nd Grade Hallway
-SM-5,Erkinov; Doniyorbek,4,4N,Art Room,Art Room
-VC-6,Erkinov; Doniyorbek,4,4N,Music room,Music room
-LR-1,Franzone; Giovanni,4,4N,4th Grade Hub,4th Grade Hub
-CM-2,Franzone; Giovanni,4,4N,MPR,MPR
-FMP-3,Franzone; Giovanni,4,4N,Art Room,Art Room
-JP-4,Franzone; Giovanni,4,4N,MPR,MPR
-MM-5,Franzone; Giovanni,4,4N,Kirschbaum - 1216,Kirschbaum - 1216
-VC-6,Franzone; Giovanni,4,4N,Music room,Music room
-NW-1,Hartigan; Ayla,4,4N,Gym,Gym
-SPA-2,Hartigan; Ayla,4,4N,Gym Hall,Gym Hallway
-SPO-3,Hartigan; Ayla,4,4N,South East Field,Gym Hallway
-VC-4,Hartigan; Ayla,4,4N,Music room,Music room
-CL-5,Hartigan; Ayla,4,4N,Outside Door #1,4th Grade Hallway
-GYM-6,Hartigan; Ayla,4,4N,Door # 13,5th grade hallway
-RR-1,Hernandez; Ana Pastor,4,4N,Outside Door #1,1st Grade Hall
-KC-2,Hernandez; Ana Pastor,4,4N,PACE- 1228,PACE - 1228
-HH-3,Hernandez; Ana Pastor,4,4N,Newhouse- 1242,Newhouse- 1242
-CO-4,Hernandez; Ana Pastor,4,4N,3rd Grade Hub,3rd grade hub
-WW-5,Hernandez; Ana Pastor,4,4N,Field NW Corner,3rd grade hall
-SPO-6,Hernandez; Ana Pastor,4,4N,South East Field,Gym Hallway
-MG-1,Hufford; Matthew,4,4N,Brown - 1306,Brown - 1306
-BB-2,Hufford; Matthew,4,4N,Blacktop,Gym Hallway
-FP-3,Hufford; Matthew,4,4N,Deinert - 1104,Deinert - 1104
-HAI-4,Hufford; Matthew,4,4N,Poch - 1240,Poch - 1240
-FH-5,Hufford; Matthew,4,4N,Gym,Gym
-LR-6,Hufford; Matthew,4,4N,4th Grade Hub,4th Grade Hub
-DT-1,Khan; Faisal,4,4N,Georganas - 1218,Georganas - 1218
-LR-2,Khan; Faisal,4,4N,4th Grade Hub,4th Grade Hub
-RB-3,Khan; Faisal,4,4N,Hall-1230,Hall-1230
-MA-4,Khan; Faisal,4,4N,Brown - 1306,Brown - 1306
-HDV-5,Khan; Faisal,4,4N,Huggins - 1308,Huggins - 1308
-MC-6,Khan; Faisal,4,4N,Krause - 1208,Krause - 1208
-RR-1,Kouri; Amani,4,4N,Outside Door #1,1st Grade Hall
-SM-2,Kouri; Amani,4,4N,Art Room,Art Room
-VC-3,Kouri; Amani,4,4N,Music room,Music room
-SSK-4,Kouri; Amani,4,4N,PACE- 1228,PACE- 1228
-CS-5,Kouri; Amani,4,4N,Math - 1126,Math- 1126
-GYM-6,Kouri; Amani,4,4N,Outside Door #13,5th grade hallway
-CS-1,Mojarro; Jayden,4,4N,Math - 1126,Math-1126
-JP-2,Mojarro; Jayden,4,4N,MPR,MPR
-RB-3,Mojarro; Jayden,4,4N,Hall-1230,Hall-1230
-VC-4,Mojarro; Jayden,4,4N,Music room,Music room
-MM-5,Mojarro; Jayden,4,4N,Kirschbaum - 1216,Kirschbaum - 1216
-FF-6,Mojarro; Jayden,4,4N,Backfield Northeast Corner,2nd Grade Hallway
-SM-1,Nunez; Anthony,4,4N,Art Room,Art Room
-IB-2,Nunez; Anthony,4,4N,Bussman - 1118,Bussman - 1118
-HDV-3,Nunez; Anthony,4,4N,Huggins - 1308,Huggins - 1308
-BT-4,Nunez; Anthony,4,4N,Ms. Sobotka 1232,Ms. Sobotka 1232
-CO-5,Nunez; Anthony,4,4N,3rd Grade Hub,3rd grade hub
-CM-6,Nunez; Anthony,4,4N,MPR,MPR
-HAI-1,O'Mara; Owen,4,4N,Poch - 1240,Poch - 1240
-FTX-2,O'Mara; Owen,4,4N,GYM,GYM
-EB-3,O'Mara; Owen,4,4N,Outside Door -8,3rd grade hall
-MA-4,O'Mara; Owen,4,4N,Brown - 1306,Brown - 1306
-BT-5,O'Mara; Owen,4,4N,Ms. Sobotka 1232,Ms. Sobotka 1232
-LR-6,O'Mara; Owen,4,4N,4th Grade Hub,4th Grade Hub
-CD-1,Pearce; Madison,4,4N,MPR,MPR
-GYM-2,Pearce; Madison,4,4N,Outside Door #13,5th grade hallway
-CL-3,Pearce; Madison,4,4N,Outside Door #1,4th Grade Hallway
-HH-4,Pearce; Madison,4,4N,Newhouse- 1242,Newhouse- 1242
-SM-5,Pearce; Madison,4,4N,Art Room,Art Room
-VC-6,Pearce; Madison,4,4N,Music room,Music room
-HAI-1,Perkins; Abryona,4,4N,Poch - 1240,Poch - 1240
-TD-2,Perkins; Abryona,4,4N,Front Porch,Under Covered Porch
-VC-3,Perkins; Abryona,4,4N,Music room,Music room
-FMP-4,Perkins; Abryona,4,4N,Art Room,Art Room
-RR-5,Perkins; Abryona,4,4N,Door#1,1st Grade Hall
-BT-6,Perkins; Abryona,4,4N,Sobotka - 1232,Sobotka - 1232
-SPO-1,Roller; Gavin,4,4N,South East Field,Gym Hallway
-KC-2,Roller; Gavin,4,4N,PACE- 1228,PACE-1228
-CS-3,Roller; Gavin,4,4N,Math - 1126,Math- 1126
-MC-4,Roller; Gavin,4,4N,Krause - 1208,Krause - 1208
-FH-5,Roller; Gavin,4,4N,Gym,Gym
-HDV-6,Roller; Gavin,4,4N,Huggins - 1308,Huggins - 1308
-FB-1,Ruggles; Lillian,4,4N,Reading - 1206,Reading -1206
-SPA-2,Ruggles; Lillian,4,4N,Gym Hall,Gym Hallway
-IB-3,Ruggles; Lillian,4,4N,Bussman - 1118,Bussman - 1118
-FP-4,Ruggles; Lillian,4,4N,Deinert - 1104,Deinert - 1104
-CM-5,Ruggles; Lillian,4,4N,MPR,MPR
-VC-6,Ruggles; Lillian,4,4N,Music room,Music room
-EB-1,Russell; Julia,4,4N,Outside Door -8,3rd grade hall
-GYM-2,Russell; Julia,4,4N,Outside Door #13,5th grade hallway
-CD-3,Russell; Julia,4,4N,MPR,MPR
-SSK-4,Russell; Julia,4,4N,PACE- 1228,PACE- 1228
-BT-5,Russell; Julia,4,4N,Ms. Sobotka 1232,Ms. Sobotka 1232
-FMP-6,Russell; Julia,4,4N,Art Room,Art Room
-JP-1,Staffeldt; Logan,4,4N,MPR,MPR
-KC-2,Staffeldt; Logan,4,4N,PACE- 1228,PACE - 1228
-CF-3,Staffeldt; Logan,4,4N,Back Field Southwest Corner,4th Grade Hallway
-CO-4,Staffeldt; Logan,4,4N,3rd Grade Hub,3rd grade hub
-BT-5,Staffeldt; Logan,4,4N,Ms. Sobotka 1232,Ms. Sobotka 1232
-NW-6,Staffeldt; Logan,4,4N,Gym,Gym
-EB-1,Stoner; Olivia,4,4N,Outside Door -8,3rd grade hall
-SPA-2,Stoner; Olivia,4,4N,Gym Hall,Gym Hallway
-FP-3,Stoner; Olivia,4,4N,Deinert - 1104,Deinert - 1104
-GYM-4,Stoner; Olivia,4,4N,Outside Door #13,5th grade hallway
-SM-5,Stoner; Olivia,4,4N,Art Room,Art Room
-FMP-6,Stoner; Olivia,4,4N,Art Room,Art Room
-CS-1,Sullivan; Zakary,4,4N,Math - 1126,Math-1126
-CF-2,Sullivan; Zakary,4,4N,Back Field Southwest Corner,4th Grade Hallway
-IB-3,Sullivan; Zakary,4,4N,Bussman - 1118,Bussman - 1118
-FF-4,Sullivan; Zakary,4,4N,Backfield Northeast Corner,2nd Grade Hallway
-KG-5,Sullivan; Zakary,4,4N,ELL-1220,ELL-1220
-SPO-6,Sullivan; Zakary,4,4N,South East Field,Gym Hallway
-EB-1,Troutman; Patrick,4,4N,Outside Door -8,3rd grade hall
-CM-2,Troutman; Patrick,4,4N,MPR,MPR
-MG-3,Troutman; Patrick,4,4N,Brown - 1306,Brown - 1306
-GF-4,Troutman; Patrick,4,4N,NW Corner,4th Grade Hallway
-SSK-5,Troutman; Patrick,4,4N,PACE- 1228,PACE- 1228
-CS-6,Troutman; Patrick,4,4N,Math - 1126,Math- 1126
-JP-1,Welsh; Henry,4,4N,MPR,MPR
-FF-2,Welsh; Henry,4,4N,Backfield Northeast Corner,2nd Grade Hallway
-CF-3,Welsh; Henry,4,4N,Back Field Southwest Corner,4th Grade Hallway
-RR-4,Welsh; Henry,4,4N,Door # 1 ,1st Grade Hall
-BB-5,Welsh; Henry,4,4N,Blacktop,Gym Hallway
-FH-6,Welsh; Henry,4,4N,Gym,Gym
-LR-1,Zeffery; Aidan,4,4N,4th Grade Hub,4th Grade Hub
-FF-2,Zeffery; Aidan,4,4N,Backfield Northeast Corner,2nd Grade Hallway
-CF-3,Zeffery; Aidan,4,4N,Back Field Southwest Corner,4th Grade Hallway
-HAI-4,Zeffery; Aidan,4,4N,Poch - 1240,Poch - 1240
-JP-5,Zeffery; Aidan,4,4N,MPR,MPR
-NW-6,Zeffery; Aidan,4,4N,Gym,Gym
-HAI-1,Arevalo; Korayma,4,4P,Poch - 1240,Poch - 1240
-SM-2,Arevalo; Korayma,4,4P,Art Room,Art Room
-JP-3,Arevalo; Korayma,4,4P,MPR,MPR
-MA-4,Arevalo; Korayma,4,4P,Brown - 1306,Brown - 1306
-VC-5,Arevalo; Korayma,4,4P,Music room,Music room
-CD-6,Arevalo; Korayma,4,4P,MPR,MPR
-DT-1,Barnes; Latalia,4,4P,Georganas - 1218,Georganas - 1218
-SPA-2,Barnes; Latalia,4,4P,Gym Hall,Gym Hallway
-GYM-3,Barnes; Latalia,4,4P,Outside Door #13,5th grade hallway
-CL-4,Barnes; Latalia,4,4P,Outside Door #1,4th Grade Hallway
-TD-5,Barnes; Latalia,4,4P,Front Porch,Under Covered Porch
-VC-6,Barnes; Latalia,4,4P,Music room,Music room
-HH-1,Boone; Megan,4,4P,Newhouse- 1242,Newhouse- 1242
-FTX-2,Boone; Megan,4,4P,GYM,GYM
-CM-3,Boone; Megan,4,4P,MPR,MPR
-SM-4,Boone; Megan,4,4P,Art Room,Art Room
-YG-5,Boone; Megan,4,4P,Maltese - 1124,Maltese - 1124
-SSK-6,Boone; Megan,4,4P,PACE- 1228,PACE- 1228
-JP-1,Cieslik; Dominik,4,4P,MPR,MPR
-HH-2,Cieslik; Dominik,4,4P,Newhouse- 1242,Newhouse- 1242
-NW-3,Cieslik; Dominik,4,4P,Gym,Gym
-CM-4,Cieslik; Dominik,4,4P,MPR,MPR
-MM-5,Cieslik; Dominik,4,4P,Kirschbaum - 1216,Kirschbaum - 1216
-TD-6,Cieslik; Dominik,4,4P,Front Porch,Under Covered Porch
-JP-1,Craane; Zoe,4,4P,MPR,MPR
-KC-2,Craane; Zoe,4,4P,PACE- 1228,PACE - 1228
-IB-3,Craane; Zoe,4,4P,Bussman - 1118,Bussman - 1118
-CD-4,Craane; Zoe,4,4P,MPR,MPR
-MM-5,Craane; Zoe,4,4P,Kirschbaum - 1216,Kirschbaum - 1216
-HDV-6,Craane; Zoe,4,4P,Huggins - 1308,Huggins - 1308
-FB-1,Garcia; Jennifer,4,4P,Reading - 1206,Reading -1206
-CD-2,Garcia; Jennifer,4,4P,MPR,MPR
-CM-3,Garcia; Jennifer,4,4P,MPR,MPR
-VC-4,Garcia; Jennifer,4,4P,Music room,Music room
-MC-5,Garcia; Jennifer,4,4P,Krause - 1208,Krause - 1208
-CS-6,Garcia; Jennifer,4,4P,Math - 1126,Math- 1126
-RR-1,Gulomalieva; Parizoda,4,4P,Outside Door #1,1st Grade Hall
-HAI-2,Gulomalieva; Parizoda,4,4P,Poch - 1240,Poch - 1240
-NW-3,Gulomalieva; Parizoda,4,4P,Gym,Gym
-FP-4,Gulomalieva; Parizoda,4,4P,Deinert - 1104,Deinert - 1104
-CL-5,Gulomalieva; Parizoda,4,4P,Outside Door #1,4th Grade Hallway
-GYM-6,Gulomalieva; Parizoda,4,4P,Outside Door #13,5th grade hallway
-TD-1,Hidalgo; Zoe,4,4P,Front Porch,Under Covered Porch
-FP-2,Hidalgo; Zoe,4,4P,Deinert - 1104,Deinert - 1104
-HAI-3,Hidalgo; Zoe,4,4P,Poch - 1240,Poch - 1240
-JP-4,Hidalgo; Zoe,4,4P,MPR,MPR
-CS-5,Hidalgo; Zoe,4,4P,Math - 1126,Math- 1126
-SPO-6,Hidalgo; Zoe,4,4P,South East Field,Gym Hallway
-FMP-1,Hurley; Lia,4,4P,Art Room,Art Room
-CD-2,Hurley; Lia,4,4P,MPR,MPR
-IB-3,Hurley; Lia,4,4P,Bussman - 1118,Bussman - 1118
-VC-4,Hurley; Lia,4,4P,Music room,Music room
-BT-5,Hurley; Lia,4,4P,Ms. Sobotka 1232,Ms. Sobotka 1232
-EB-6,Hurley; Lia,4,4P,Door # 8,3rd Grade Hallway
-BG-1,Lopez; Yahir,4,4P,Sobotka - 1232,Sobotka - 1232
-KC-2,Lopez; Yahir,4,4P,PACE- 1228,PACE - 1228
-CM-3,Lopez; Yahir,4,4P,MPR,MPR
-CS-4,Lopez; Yahir,4,4P,Math - 1126,Math- 1126
-CD-5,Lopez; Yahir,4,4P,MPR,MPR
-FH-6,Lopez; Yahir,4,4P,Gym,Gym
-WW-1,Manzur; Zahir,4,4P,Field NW Corner,3rd grade hall
-CF-2,Manzur; Zahir,4,4P,Back Field Southwest Corner,4th Grade Hallway
-KC-3,Manzur; Zahir,4,4P,PACE- 1228,PACE - 1228
-FF-4,Manzur; Zahir,4,4P,Backfield Northeast Corner,2nd Grade Hallway
-CS-5,Manzur; Zahir,4,4P,Math - 1126,Math- 1126
-RB-6,Manzur; Zahir,4,4P,Hall-1230,Hall-1230
-HAI-1,Monino; Nolan,4,4P,Poch - 1240,Poch - 1240
-CD-2,Monino; Nolan,4,4P,MPR,MPR
-CS-3,Monino; Nolan,4,4P,Math - 1126,Math- 1126
-CM-4,Monino; Nolan,4,4P,MPR,MPR
-MM-5,Monino; Nolan,4,4P,Kirschbaum - 1216,Kirschbaum - 1216
-GF-6,Monino; Nolan,4,4P,NW Corner,4th Grade Hallway
-EB-1,Monken; Kevin,4,4P,Outside Door -8,3rd grade hall
-FF-2,Monken; Kevin,4,4P,Backfield Northeast Corner,2nd Grade Hallway
-HDV-3,Monken; Kevin,4,4P,Huggins - 1308,Huggins - 1308
-MC-4,Monken; Kevin,4,4P,Krause - 1208,Krause - 1208
-FH-5,Monken; Kevin,4,4P,Gym,Gym
-SPO-6,Monken; Kevin,4,4P,South East Field,Gym Hallway
-NW-1,O'Connor; Ryan,4,4P,Gym,Gym
-FF-2,O'Connor; Ryan,4,4P,Backfield Northeast Corner,2nd Grade Hallway
-CD-3,O'Connor; Ryan,4,4P,MPR,MPR
-JP-4,O'Connor; Ryan,4,4P,MPR,MPR
-SPO-5,O'Connor; Ryan,4,4P,South East Field,Gym Hallway
-BB-6,O'Connor; Ryan,4,4P,Blacktop,Gym Hallway
-DT-1,Ortiz; Joseph,4,4P,Georganas - 1218,Georganas - 1218
-IB-2,Ortiz; Joseph,4,4P,Bussman - 1118,Bussman - 1118
-CS-3,Ortiz; Joseph,4,4P,Math - 1126,Math- 1126
-FP-4,Ortiz; Joseph,4,4P,Deinert - 1104,Deinert - 1104
-CM-5,Ortiz; Joseph,4,4P,MPR,MPR
-FMP-6,Ortiz; Joseph,4,4P,Art Room,Art Room
-RR-1,Pacer; Seth,4,4P,Outside Door #1,1st Grade Hall
-CF-2,Pacer; Seth,4,4P,Back Field Southwest Corner,4th Grade Hallway
-LR-3,Pacer; Seth,4,4P,4th Grade Hub,4th Grade Hub
-FF-4,Pacer; Seth,4,4P,Backfield Northeast Corner,2nd Grade Hallway
-MM-5,Pacer; Seth,4,4P,Kirschbaum - 1216,Kirschbaum - 1216
-MC-6,Pacer; Seth,4,4P,Krause - 1208,Krause - 1208
-FTX-1,Parker; Nic,4,4P,GYM,GYM
-MC-2,Parker; Nic,4,4P,Krause - 1208,Krause - 1208
-NW-3,Parker; Nic,4,4P,Gym,Gym
-BT-4,Parker; Nic,4,4P,Ms. Sobotka 1232,Ms. Sobotka 1232
-MM-5,Parker; Nic,4,4P,Kirschbaum - 1216,Kirschbaum - 1216
-SSK-6,Parker; Nic,4,4P,PACE- 1228,PACE- 1228
-HAI-1,Psenicka; Ollie,4,4P,Poch - 1240,Poch - 1240
-FP-2,Psenicka; Ollie,4,4P,Deinert - 1104,Deinert - 1104
-KC-3,Psenicka; Ollie,4,4P,PACE- 1228,PACE - 1228
-FF-4,Psenicka; Ollie,4,4P,Backfield Northeast Corner,2nd Grade Hallway
-MM-5,Psenicka; Ollie,4,4P,Kirschbaum - 1216,Kirschbaum - 1216
-LR-6,Psenicka; Ollie,4,4P,4th Grade Hub,4th Grade Hub
-CS-1,Rose; Nicholas,4,4P,Math - 1126,Math-1126
-FMP-2,Rose; Nicholas,4,4P,Art Room,Art Room
-TD-3,Rose; Nicholas,4,4P,Front Porch,Under Covered Porch
-SPO-4,Rose; Nicholas,4,4P,South East Field,Gym Hallway
-FF-5,Rose; Nicholas,4,4P,Backfield Northeast Corner,2nd Grade Hallway
-JP-6,Rose; Nicholas,4,4P,MPR,MPR
-SPA-1,Smyth; Katie,4,4P,Gym Hall,Gym Hallway
-VC-2,Smyth; Katie,4,4P,Music room,Music room
-GYM-3,Smyth; Katie,4,4P,Outside Door #13,5th grade hallway
-BB-4,Smyth; Katie,4,4P,Blacktop,Gym Hallway
-TD-5,Smyth; Katie,4,4P,Front Porch,Under Covered Porch
-JP-6,Smyth; Katie,4,4P,MPR,MPR
-CD-1,Tortoriello; Nicholas,4,4P,MPR,MPR
-FTX-2,Tortoriello; Nicholas,4,4P,Gym,Gym
-FP-3,Tortoriello; Nicholas,4,4P,Deinert - 1104,Deinert - 1104
-CM-4,Tortoriello; Nicholas,4,4P,MPR,MPR
-LR-5,Tortoriello; Nicholas,4,4P,4th Grade Hub,4th Grade Hub
-FF-6,Tortoriello; Nicholas,4,4P,Backfield Northeast Corner,2nd Grade Hallway
-DT-1,Warchol; Philip,4,4P,Georganas - 1218,Georganas - 1218
-BB-2,Warchol; Philip,4,4P,Blacktop,Gym Hallway
-RR-3,Warchol; Philip,4,4P,Outside Door #1,1st Grade Hall
-SPO-4,Warchol; Philip,4,4P,South East Field,Gym Hallway
-FH-5,Warchol; Philip,4,4P,Gym,Gym
-CS-6,Warchol; Philip,4,4P,Math - 1126,Math- 1126
-NW-1,Azad; Arwand,4,4S,Gym,Gym
-RB-2,Azad; Arwand,4,4S,Hall-1230,Hall-1230
-MC-3,Azad; Arwand,4,4S,Krause - 1208,Krause - 1208
-HDV-4,Azad; Arwand,4,4S,Huggins - 1308,Huggins - 1308
-CO-5,Azad; Arwand,4,4S,3rd Grade Hub,3rd grade hub
-LR-6,Azad; Arwand,4,4S,4th Grade Hub,4th Grade Hub
-FB-1,Baker; Lauren,4,4S,Reading - 1206,Reading -1206
-CD-2,Baker; Lauren,4,4S,MPR,MPR
-CF-3,Baker; Lauren,4,4S,Back Field Southwest Corner,4th Grade Hallway
-FMP-4,Baker; Lauren,4,4S,Art Room,Art Room
-GYM-5,Baker; Lauren,4,4S,Outside Door #13,5th grade hallway
-TD-6,Baker; Lauren,4,4S,Front Porch,Under Covered Porch
-CM-1,Binder; Emily,4,4S,MPR,MPR
-CD-2,Binder; Emily,4,4S,MPR,MPR
-FMP-3,Binder; Emily,4,4S,Art Room,Art Room
-JP-4,Binder; Emily,4,4S,MPR,MPR
-GYM-5,Binder; Emily,4,4S,Outside Door #13,5th grade hallway
-VC-6,Binder; Emily,4,4S,Music room,Music room
-NW-1,Dakham; Aron,4,4S,Gym,Gym
-RB-2,Dakham; Aron,4,4S,Hall-1230,Hall-1230
-CF-3,Dakham; Aron,4,4S,Back Field Southwest Corner,4th Grade Hallway
-SSK-4,Dakham; Aron,4,4S,PACE- 1228,PACE- 1228
-MM-5,Dakham; Aron,4,4S,Kirschbaum - 1216,Kirschbaum - 1216
-WW-6,Dakham; Aron,4,4S,Field NW Corner,3rd grade hall
-SPO-1,Favela; Marcus,4,4S,South East Field,Gym Hallway
-FF-2,Favela; Marcus,4,4S,Backfield Northeast Corner,2nd Grade Hallway
-MC-3,Favela; Marcus,4,4S,Krause - 1208,Krause - 1208
-BB-4,Favela; Marcus,4,4S,Blacktop,Gym Hallway
-JP-5,Favela; Marcus,4,4S,MPR,MPR
-TD-6,Favela; Marcus,4,4S,Front Porch,Under Covered Porch
-SM-1,Feldstein; Emmy,4,4S,Art Room,Art Room
-VC-2,Feldstein; Emmy,4,4S,Music room,Music room
-GYM-3,Feldstein; Emmy,4,4S,Outside Door #13,5th grade hallway
-SPA-4,Feldstein; Emmy,4,4S,Gym Hall,Gym Hallway
-MA-5,Feldstein; Emmy,4,4S,Brown - 1306,Brown - 1306
-JP-6,Feldstein; Emmy,4,4S,MPR,MPR
-KC-1,Grisco; Evan,4,4S,PACE- 1228,PACE - 1228
-VC-2,Grisco; Evan,4,4S,Music room,Music room
-NW-3,Grisco; Evan,4,4S,Gym,Gym
-FF-4,Grisco; Evan,4,4S,Backfield Northeast Corner,2nd Grade Hallway
-MM-5,Grisco; Evan,4,4S,Kirschbaum - 1216,Kirschbaum - 1216
-LR-6,Grisco; Evan,4,4S,4th Grade Hub,4th Grade Hub
-IB-1,Havlik; Tanner,4,4S,Bussman - 1118,Bussman - 1118
-CS-2,Havlik; Tanner,4,4S,Math - 1126,Math- 1126
-RB-3,Havlik; Tanner,4,4S,Hall-1230,Hall-1230
-LR-4,Havlik; Tanner,4,4S,4th Grade Hub,4th Grade Hub
-MM-5,Havlik; Tanner,4,4S,Kirschbaum - 1216,Kirschbaum - 1216
-TD-6,Havlik; Tanner,4,4S,Front Porch,Under Covered Porch
-FB-1,Jarecki; Addison,4,4S,Reading - 1206,Reading -1206
-SPA-2,Jarecki; Addison,4,4S,Gym Hall,Gym Hallway
-VC-3,Jarecki; Addison,4,4S,Music room,Music room
-CD-4,Jarecki; Addison,4,4S,MPR,MPR
-CL-5,Jarecki; Addison,4,4S,Outside Door #1,4th Grade Hallway
-CM-6,Jarecki; Addison,4,4S,MPR,MPR
-SPA-1,Johnston; Kaleigh,4,4S,Gym Hall,Gym Hallway
-VC-2,Johnston; Kaleigh,4,4S,Music room,Music room
-MC-3,Johnston; Kaleigh,4,4S,Krause - 1208,Krause - 1208
-CL-4,Johnston; Kaleigh,4,4S,Outside Door #1,4th Grade Hallway
-GYM-5,Johnston; Kaleigh,4,4S,Outside Door #13,5th grade hallway
-SPO-6,Johnston; Kaleigh,4,4S,South East Field,Gym Hallway
-KC-1,Lomma; Dominic,4,4S,PACE- 1228,PACE - 1228
-FF-2,Lomma; Dominic,4,4S,Backfield Northeast Corner,2nd Grade Hallway
-HAI-3,Lomma; Dominic,4,4S,Poch - 1240,Poch - 1240
-BB-4,Lomma; Dominic,4,4S,Blacktop,Gym Hallway
-SPO-5,Lomma; Dominic,4,4S,South East Field,Gym Hallway
-FH-6,Lomma; Dominic,4,4S,Gym,Gym
-FMP-1,Masiulis; Emily,4,4S,Art Room,Art Room
-HAI-2,Masiulis; Emily,4,4S,Poch - 1240,Poch - 1240
-HDV-3,Masiulis; Emily,4,4S,Huggins - 1308,Huggins - 1308
-KG-4,Masiulis; Emily,4,4S,ELL-1220,ELL-1220
-NW-5,Masiulis; Emily,4,4S,GYM,GYM
-CM-6,Masiulis; Emily,4,4S,MPR,MPR
-KC-1,McAvaney; Maddox,4,4S,PACE- 1228,PACE - 1228
-BB-2,McAvaney; Maddox,4,4S,Blacktop,Gym Hallway
-NW-3,McAvaney; Maddox,4,4S,Gym,Gym
-CO-4,McAvaney; Maddox,4,4S,3rd Grade Hub,3rd grade hub
-SSK-5,McAvaney; Maddox,4,4S,PACE- 1228,PACE- 1228
-HDV-6,McAvaney; Maddox,4,4S,Huggins - 1308,Huggins - 1308
-SPO-1,Miller; Johnny,4,4S,South East Field,Gym Hallway
-FF-2,Miller; Johnny,4,4S,Backfield Northeast Corner,2nd Grade Hallway
-NW-3,Miller; Johnny,4,4S,Gym,Gym
-BB-4,Miller; Johnny,4,4S,Blacktop,Gym Hallway
-JP-5,Miller; Johnny,4,4S,MPR,MPR
-SSK-6,Miller; Johnny,4,4S,PACE- 1228,PACE- 1228
-CS-1,Noah; Emma,4,4S,Math - 1126,Math-1126
-VC-2,Noah; Emma,4,4S,Music room,Music room
-GF-3,Noah; Emma,4,4S,NW Corner,4th Grade Hallway
-SSK-4,Noah; Emma,4,4S,PACE- 1228,PACE- 1228
-SPA-5,Noah; Emma,4,4S,Gym Hall,Gym Hallway
-BB-6,Noah; Emma,4,4S,Blacktop,Gym Hallway
-WW-1,Smith; Jaylen,4,4S,Field NW Corner,3rd grade hall
-FF-2,Smith; Jaylen,4,4S,Backfield Northeast Corner,2nd Grade Hallway
-GF-3,Smith; Jaylen,4,4S,NW Corner,4th Grade Hallway
-BB-4,Smith; Jaylen,4,4S,Blacktop,Gym Hallway
-SPO-5,Smith; Jaylen,4,4S,South East Field,Gym Hallway
-FH-6,Smith; Jaylen,4,4S,Gym,Gym
-SPA-1,Tajak; Frankie,4,4S,Gym Hall,Gym Hallway
-JP-2,Tajak; Frankie,4,4S,MPR,MPR
-FMP-3,Tajak; Frankie,4,4S,Art Room,Art Room
-BT-4,Tajak; Frankie,4,4S,Ms. Sobotka 1232,Ms. Sobotka 1232
-FP-5,Tajak; Frankie,4,4S,Deinert - 1104,Deinert - 1104
-SM-6,Tajak; Frankie,4,4S,Art Room,Art Room
-CM-1,Thawng; Ram,4,4S,MPR,MPR
-JP-2,Thawng; Ram,4,4S,MPR,MPR
-NW-3,Thawng; Ram,4,4S,Gym,Gym
-HDV-4,Thawng; Ram,4,4S,Huggins - 1308,Huggins - 1308
-MC-5,Thawng; Ram,4,4S,Krause - 1208,Krause - 1208
-RB-6,Thawng; Ram,4,4S,Hall-1230,Hall-1230
-NW-1,Vargas; Christian,4,4S,Gym,Gym
-RB-2,Vargas; Christian,4,4S,Hall-1230,Hall-1230
-CS-3,Vargas; Christian,4,4S,Math - 1126,Math- 1126
-LR-4,Vargas; Christian,4,4S,4th Grade Hub,4th Grade Hub
-MM-5,Vargas; Christian,4,4S,Kirschbaum - 1216,Kirschbaum - 1216
-FF-6,Vargas; Christian,4,4S,Backfield Northeast Corner,2nd Grade Hallway
-RR-1,Veltri; Jacob,4,4S,Outside Door #1,1st Grade Hall
-IB-2,Veltri; Jacob,4,4S,Bussman - 1118,Bussman - 1118
-NW-3,Veltri; Jacob,4,4S,Gym,Gym
-CO-4,Veltri; Jacob,4,4S,3rd Grade Hub,3rd grade hub
-KG-5,Veltri; Jacob,4,4S,ELL-1220,ELL-1220
-CS-6,Veltri; Jacob,4,4S,Math - 1126,Math- 1126
-CM-1,Akmalov; Zohidbek,5,5B,MPR,MPR
-CS-2,Akmalov; Zohidbek,5,5B,Math - 1126,Math- 1126
-SM-3,Akmalov; Zohidbek,5,5B,Art Room,Art Room
-CD-4,Akmalov; Zohidbek,5,5B,MPR,MPR
-MA-5,Akmalov; Zohidbek,5,5B,Brown - 1306,Brown - 1306
-JP-6,Akmalov; Zohidbek,5,5B,MPR,MPR
-SM-1,Arzeta; Amairany,5,5B,Art Room,Art Room
-IB-2,Arzeta; Amairany,5,5B,Bussman - 1118,Bussman - 1118
-JP-3,Arzeta; Amairany,5,5B,MPR,MPR
-BT-4,Arzeta; Amairany,5,5B,Ms. Sobotka 1232,Ms. Sobotka 1232
-FMP-5,Arzeta; Amairany,5,5B,Art Room,Art Room
-CM-6,Arzeta; Amairany,5,5B,MPR,MPR
-HDV-1,Clark; Aaron,5,5B,Huggins - 1308,Huggins - 1308
-FF-2,Clark; Aaron,5,5B,Backfield Northeast Corner,2nd Grade Hallway
-NW-3,Clark; Aaron,5,5B,Gym,Gym
-BB-4,Clark; Aaron,5,5B,Blacktop,Gym Hallway
-CM-5,Clark; Aaron,5,5B,MPR,MPR
-FH-6,Clark; Aaron,5,5B,Gym,Gym
-FMP-1,Corral; Xan,5,5B,Art Room,Art Room
-CF-2,Corral; Xan,5,5B,Back Field Southwest Corner,4th Grade Hallway
-RR-3,Corral; Xan,5,5B,Outside Door #1,1st Grade Hall
-SPO-4,Corral; Xan,5,5B,South East Field,Gym Hallway
-WW-5,Corral; Xan,5,5B,Field NW Corner,3rd Grade Hallway
-BB-6,Corral; Xan,5,5B,Blacktop,Gym Hallway
-CD-1,Cruz; Rosie,5,5B,MPR,MPR
-CM-2,Cruz; Rosie,5,5B,MPR,MPR
-FP-3,Cruz; Rosie,5,5B,Deinert - 1104,Deinert - 1104
-VC-4,Cruz; Rosie,5,5B,Music room,Music room
-SM-5,Cruz; Rosie,5,5B,Art Room,Art Room
-FMP-6,Cruz; Rosie,5,5B,Art Room,Art Room
-FB-1,Cuapio Cuevas; Christopher,5,5B,Reading - 1206,Reading -1206
-RB-2,Cuapio Cuevas; Christopher,5,5B,Hall-1230,Hall-1230
-CS-3,Cuapio Cuevas; Christopher,5,5B,Math - 1126,Math- 1126
-SM-4,Cuapio Cuevas; Christopher,5,5B,Art Room,Art Room
-CO-5,Cuapio Cuevas; Christopher,5,5B,3rd Grade Hub,3rd grade hub
-CD-6,Cuapio Cuevas; Christopher,5,5B,MPR,MPR
-CM-1,Dunlavy; Emmett,5,5B,MPR,MPR
-FP-2,Dunlavy; Emmett,5,5B,Deinert - 1104,Deinert - 1104
-JP-3,Dunlavy; Emmett,5,5B,MPR,MPR
-SM-4,Dunlavy; Emmett,5,5B,Art Room,Art Room
-CD-5,Dunlavy; Emmett,5,5B,MPR,MPR
-BB-6,Dunlavy; Emmett,5,5B,Blacktop,Gym Hallway
-TD-1,Easwar; Sanjana,5,5B,Front Porch,Under Covered Porch
-FMP-2,Easwar; Sanjana,5,5B,Art Room,Art Room
-CS-3,Easwar; Sanjana,5,5B,Math - 1126,Math- 1126
-FP-4,Easwar; Sanjana,5,5B,Deinert - 1104,Deinert - 1104
-WW-5,Easwar; Sanjana,5,5B,Field NW Corner,3rd grade hall
-SM-6,Easwar; Sanjana,5,5B,Art Room,Art Room
-NW-1,Fenney; Mara,5,5B,Gym,Gym
-FMP-2,Fenney; Mara,5,5B,Art Room,Art Room
-CM-3,Fenney; Mara,5,5B,MPR,MPR
-FP-4,Fenney; Mara,5,5B,Deinert - 1104,Deinert - 1104
-BT-5,Fenney; Mara,5,5B,Ms. Sobotka 1232,Ms. Sobotka 1232
-SPA-6,Fenney; Mara,5,5B,Gym Hall,Gym Hallway
-SPO-1,Franzone; Isabella,5,5B,South East Field,Gym Hallway
-BB-2,Franzone; Isabella,5,5B,Blacktop,Gym Hallway
-CF-3,Franzone; Isabella,5,5B,Back Field Southwest Corner,4th Grade Hallway
-FF-4,Franzone; Isabella,5,5B,Backfield Northeast Corner,2nd Grade Hallway
-FH-5,Franzone; Isabella,5,5B,Gym,Gym
-NW-6,Franzone; Isabella,5,5B,Gym,Gym
-KC-1,Gill; Jaxon,5,5B,PACE- 1228,Pace
-CF-2,Gill; Jaxon,5,5B,Back Field Southwest Corner,4th Grade Hallway
-JP-3,Gill; Jaxon,5,5B,MPR,MPR
-GF-4,Gill; Jaxon,5,5B,NW Corner,4th Grade Hallway
-MC-5,Gill; Jaxon,5,5B,Krause - 1208,Krause - 1208
-NW-6,Gill; Jaxon,5,5B,Gym,Gym
-EB-1,Johnson; Aniyah,5,5B,Outside Door -8,3rd grade hall
-IB-2,Johnson; Aniyah,5,5B,Bussman - 1118,Bussman - 1118
-FMP-3,Johnson; Aniyah,5,5B,Art Room,Art Room
-LR-4,Johnson; Aniyah,5,5B,4th Grade Hub,4th Grade Hub
-SM-5,Johnson; Aniyah,5,5B,Art Room,Art Room
-MM-6,Johnson; Aniyah,5,5B,Kirschbaum - 1216,Kirschbaum - 1216
-HAI-1,Khan; Mohammed,5,5B,Poch - 1240,Poch - 1240
-LR-2,Khan; Mohammed,5,5B,4th Grade Hub,4th Grade Hub
-KC-3,Khan; Mohammed,5,5B,PACE- 1228,PACE - 1228
-CO-4,Khan; Mohammed,5,5B,3rd Grade Hub,3rd grade hub
-MC-5,Khan; Mohammed,5,5B,Krause - 1208,Krause - 1208
-MM-6,Khan; Mohammed,5,5B,Kirschbaum - 1216,Kirschbaum - 1216
-RB-1,Lindner; Lina,5,5B,Hall-1230,Hall-1230
-JP-2,Lindner; Lina,5,5B,MPR,MPR
-JG-3,Lindner; Lina,5,5B,Outside Blacktop,Pace Hallway
-CM-4,Lindner; Lina,5,5B,MPR,MPR
-BT-5,Lindner; Lina,5,5B,Ms. Sobotka 1232,Ms. Sobotka 1232
-CD-6,Lindner; Lina,5,5B,MPR,MPR
-NW-1,Logan; Aiden,5,5B,Gym,Gym
-FF-2,Logan; Aiden,5,5B,Backfield Northeast Corner,2nd Grade Hallway
-CF-3,Logan; Aiden,5,5B,Back Field Southwest Corner,4th Grade Hallway
-SSK-4,Logan; Aiden,5,5B,PACE- 1228,PACE- 1228
-GYM-5,Logan; Aiden,5,5B,Outside Door #13,5th grade hallway
-MM-6,Logan; Aiden,5,5B,Kirschbaum - 1216,Kirschbaum - 1216
-EB-1,Nettles; Mackenzie,5,5B,Outside Door -8,3rd grade hall
-CD-2,Nettles; Mackenzie,5,5B,MPR,MPR
-JP-3,Nettles; Mackenzie,5,5B,MPR,MPR
-FP-4,Nettles; Mackenzie,5,5B,Deinert - 1104,Deinert - 1104
-CM-5,Nettles; Mackenzie,5,5B,MPR,MPR
-SM-6,Nettles; Mackenzie,5,5B,Art Room,Art Room
-WW-1,Oliver; Kaden,5,5B,Field NW Corner,3rd grade hall
-FF-2,Oliver; Kaden,5,5B,Backfield Northeast Corner,2nd Grade Hallway
-CF-3,Oliver; Kaden,5,5B,Back Field Southwest Corner,4th Grade Hallway
-BB-4,Oliver; Kaden,5,5B,Blacktop,Gym Hallway
-JP-5,Oliver; Kaden,5,5B,MPR,MPR
-FH-6,Oliver; Kaden,5,5B,Gym,Gym
-SM-1,Ramirez; Maria,5,5B,Art Room,Art Room
-TD-2,Ramirez; Maria,5,5B,Front Porch,Under Covered Porch
-JP-3,Ramirez; Maria,5,5B,MPR,MPR
-SPA-4,Ramirez; Maria,5,5B,Gym Hall,Gym Hallway
-CM-5,Ramirez; Maria,5,5B,MPR,MPR
-BT-6,Ramirez; Maria,5,5B,Sobotka - 1232,Sobotka - 1232
-MC-1,Schiff; Soren,5,5B,Krause - 1208,Krause - 1208
-FF-2,Schiff; Soren,5,5B,Backfield SW Corner,4th Grade Hallway
-NW-3,Schiff; Soren,5,5B,Gym,Gym
-JP-4,Schiff; Soren,5,5B,MPR,MPR
-FH-5,Schiff; Soren,5,5B,Gym,Gym
-BT-6,Schiff; Soren,5,5B,Ms. Sobotka 1232,Ms. Sobotka 1232
-SPA-1,Sharifjonova; Iroda,5,5B,Gym Hall,Gym Hallway
-CM-2,Sharifjonova; Iroda,5,5B,MPR,MPR
-JP-3,Sharifjonova; Iroda,5,5B,MPR,MPR
-VC-4,Sharifjonova; Iroda,5,5B,Music room,Music room
-TD-5,Sharifjonova; Iroda,5,5B,Front Porch,Under Covered Porch
-SM-6,Sharifjonova; Iroda,5,5B,Art Room,Art Room
-TD-1,Stoner; Hana,5,5B,Front Porch,Under Covered Porch
-FP-2,Stoner; Hana,5,5B,Deinert - 1104,Deinert - 1104
-JP-3,Stoner; Hana,5,5B,MPR,MPR
-SM-4,Stoner; Hana,5,5B,Art Room,Art Room
-CM-5,Stoner; Hana,5,5B,MPR,MPR
-SPA-6,Stoner; Hana,5,5B,Gym Hall,Gym Hallway
-CM-1,Van Rossum; Kyle,5,5B,MPR,MPR
-GF-2,Van Rossum; Kyle,5,5B,NW Corner,4th Grade Hallway
-CF-3,Van Rossum; Kyle,5,5B,Back Field Southwest Corner,4th Grade Hallway
-BB-4,Van Rossum; Kyle,5,5B,Blacktop,Gym Hallway
-FH-5,Van Rossum; Kyle,5,5B,Gym,Gym
-JP-6,Van Rossum; Kyle,5,5B,MPR,MPR
-WW-1,Wasieleski; Carter,5,5B,Field NW Corner,3rd grade hall
-JP-2,Wasieleski; Carter,5,5B,MPR,MPR
-NW-3,Wasieleski; Carter,5,5B,Gym,Gym
-SSK-4,Wasieleski; Carter,5,5B,PACE- 1228,PACE- 1228
-VC-5,Wasieleski; Carter,5,5B,Music room,Music room
-LR-6,Wasieleski; Carter,5,5B,4th Grade Hub,4th Grade Hub
-RB-1,Westberg; Naomi Ruth,5,5B,Hall-1230,Hall-1230
-IB-2,Westberg; Naomi Ruth,5,5B,Bussman - 1118,Bussman - 1118
-FP-3,Westberg; Naomi Ruth,5,5B,Deinert - 1104,Deinert - 1104
-BT-4,Westberg; Naomi Ruth,5,5B,Ms. Sobotka 1232,Ms. Sobotka 1232
-SPA-5,Westberg; Naomi Ruth,5,5B,Gym Hall,Gym Hallway
-HDV-6,Westberg; Naomi Ruth,5,5B,Huggins - 1308,Huggins - 1308
-FMP-1,Williams; Javyion,5,5B,Art Room,Art Room
-CF-2,Williams; Javyion,5,5B,Back Field Southwest Corner,4th Grade Hallway
-RR-3,Williams; Javyion,5,5B,Outside Door # 1,1st Grade Hall
-LR-4,Williams; Javyion,5,5B,4th Grade Hub,4th Grade Hub
-FH-5,Williams; Javyion,5,5B,Gym,Gym
-BB-6,Williams; Javyion,5,5B,Blacktop,Gym Hallway
-CM-1,Wilson; Dove,5,5B,MPR,MPR
-FP-2,Wilson; Dove,5,5B,Deinert - 1104,Deinert - 1104
-CD-3,Wilson; Dove,5,5B,MPR,MPR
-MC-4,Wilson; Dove,5,5B,Krause - 1208,Krause - 1208
-JP-5,Wilson; Dove,5,5B,MPR,MPR
-SPA-6,Wilson; Dove,5,5B,Gym Hall,Gym Hallway
-NW-1,Aguilar; Jonathan,5,5HA,Gym,Gym
-MC-2,Aguilar; Jonathan,5,5HA,Krause - 1208,Krause - 1208
-EB-3,Aguilar; Jonathan,5,5HA,Outside Door -8,3rd grade hall
-MA-4,Aguilar; Jonathan,5,5HA,Brown - 1306,Brown - 1306
-HDV-5,Aguilar; Jonathan,5,5HA,Huggins - 1308,Huggins - 1308
-FH-6,Aguilar; Jonathan,5,5HA,Gym,Gym
-HAI-1,Alexander; Marilyn,5,5HA,Poch - 1240,Poch - 1240
-FP-2,Alexander; Marilyn,5,5HA,Deinert - 1104,Deinert - 1104
-FMP-3,Alexander; Marilyn,5,5HA,Art Room,Art Room
-TD-4,Alexander; Marilyn,5,5HA,Front Porch,Under Covered Porch
-VC-5,Alexander; Marilyn,5,5HA,Music room,Music room
-MA-6,Alexander; Marilyn,5,5HA,Brown - 1306,Brown - 1306
-MG-1,Ali; Agga,5,5HA,Brown - 1306,Brown - 1306
-BB-2,Ali; Agga,5,5HA,Blacktop,Gym Hallway
-SM-3,Ali; Agga,5,5HA,Art Room,Art Room
-LR-4,Ali; Agga,5,5HA,4th Grade Hub,4th Grade Hub
-YG-5,Ali; Agga,5,5HA,Maltese - 1124,Maltese - 1124
-SPA-6,Ali; Agga,5,5HA,Gym Hall,Gym Hallway
-DT-1,Aliyeva; Parvina,5,5HA,Georganas - 1218,Georganas - 1218
-FB-2,Aliyeva; Parvina,5,5HA,Reading-1206,Reading -1206
-GYM-3,Aliyeva; Parvina,5,5HA,Outside Door #13,5th grade hallway
-KG-4,Aliyeva; Parvina,5,5HA,ELL-1220,ELL-1220
-SM-5,Aliyeva; Parvina,5,5HA,Art Room,Art Room
-YG-6,Aliyeva; Parvina,5,5HA,Maltese - 1124,Maltese - 1124
-KC-1,Alvarez; Jesus,5,5HA,PACE- 1228,PACE - 1228
-BB-2,Alvarez; Jesus,5,5HA,Blacktop,Gym Hallway
-SM-3,Alvarez; Jesus,5,5HA,Art Room,Art Room
-SSK-4,Alvarez; Jesus,5,5HA,PACE- 1228,PACE- 1228
-MC-5,Alvarez; Jesus,5,5HA,Krause - 1208,Krause - 1208
-FH-6,Alvarez; Jesus,5,5HA,Gym,Gym
-WW-1,Cesarone; Blake,5,5HA,Field NW Corner,3rd grade hall
-FF-2,Cesarone; Blake,5,5HA,Backfield Northeast Corner,2nd Grade Hallway
-CM-3,Cesarone; Blake,5,5HA,MPR,MPR
-JP-4,Cesarone; Blake,5,5HA,MPR,MPR
-CD-5,Cesarone; Blake,5,5HA,MPR,MPR
-FH-6,Cesarone; Blake,5,5HA,Gym,Gym
-SM-1,Claus; Makenzie,5,5HA,Art Room,Art Room
-FMP-2,Claus; Makenzie,5,5HA,Art Room,Art Room
-FP-3,Claus; Makenzie,5,5HA,Deinert - 1104,Deinert - 1104
-BT-4,Claus; Makenzie,5,5HA,Ms. Sobotka 1232,Ms. Sobotka 1232
-KG-5,Claus; Makenzie,5,5HA,ELL-1220,ELL-1220
-NW-6,Claus; Makenzie,5,5HA,Gym,Gym
-NW-1,Ebert; Liam,5,5HA,Gym,Gym
-RB-2,Ebert; Liam,5,5HA,Hall-1230,Hall-1230
-KC-3,Ebert; Liam,5,5HA,PACE- 1228,PACE - 1228
-CO-4,Ebert; Liam,5,5HA,3rd Grade Hub,3rd grade hub
-GF-5,Ebert; Liam,5,5HA,NW Corner,4th Grade Hallway
-MM-6,Ebert; Liam,5,5HA,Kirschbaum - 1216,Kirschbaum - 1216
-GYM-1,Fielding; Laura,5,5HA,Outside Door #13,5th grade hallway
-DT-2,Fielding; Laura,5,5HA,Georganas - 1218,Georganas - 1218
-VC-3,Fielding; Laura,5,5HA,Music room,Music room
-CM-4,Fielding; Laura,5,5HA,MPR,MPR
-SM-5,Fielding; Laura,5,5HA,Art Room,Art Room
-SPA-6,Fielding; Laura,5,5HA,Gym Hall,Gym Hallway
-NW-1,Fonseca Gonzalez; Carla,5,5HA,Gym,Gym
-SPA-2,Fonseca Gonzalez; Carla,5,5HA,Gym Hall,Gym Hallway
-RR-3,Fonseca Gonzalez; Carla,5,5HA,Outside Door #1,1st Grade Hall
-CM-4,Fonseca Gonzalez; Carla,5,5HA,MPR,MPR
-SPO-5,Fonseca Gonzalez; Carla,5,5HA,South East Field,Gym Hallway
-SM-6,Fonseca Gonzalez; Carla,5,5HA,Art Room,Art Room
-SPA-1,Fucciolo; Montana,5,5HA,Gym Hall,Gym Hallway
-JP-2,Fucciolo; Montana,5,5HA,MPR,MPR
-CL-3,Fucciolo; Montana,5,5HA,Outside Door #1,4th Grade Hallway
-SSK-4,Fucciolo; Montana,5,5HA,PACE- 1228,PACE
-CM-5,Fucciolo; Montana,5,5HA,MPR,MPR
-CD-6,Fucciolo; Montana,5,5HA,MPR,MPR
-NW-1,Gutierrez; Alexis,5,5HA,Gym,Gym
-CF-2,Gutierrez; Alexis,5,5HA,Back Field Southwest Corner,4th Grade Hallway
-LR-3,Gutierrez; Alexis,5,5HA,4th Grade Hub,4th Grade Hub
-FF-4,Gutierrez; Alexis,5,5HA,Backfield Northeast Corner,2nd Grade Hallway
-SPO-5,Gutierrez; Alexis,5,5HA,South East Field,Gym Hallway
-MM-6,Gutierrez; Alexis,5,5HA,Kirschbaum - 1216,Kirschbaum - 1216
-GF-1,Hosack; Owen,5,5HA,NW Corner,4th Grade Hallway
-FF-2,Hosack; Owen,5,5HA,Backfield Northeast Corner,2nd Grade Hallway
-JP-3,Hosack; Owen,5,5HA,MPR,MPR
-CO-4,Hosack; Owen,5,5HA,3rd Grade Hub,3rd grade hub
-BT-5,Hosack; Owen,5,5HA,Ms. Sobotka 1232,Ms. Sobotka 1232
-FH-6,Hosack; Owen,5,5HA,Gym,Gym
-NW-1,Istanbouli; Halina,5,5HA,Gym,Gym
-DT-2,Istanbouli; Halina,5,5HA,Georganas - 1218,Georganas - 1218
-HAI-3,Istanbouli; Halina,5,5HA,Poch - 1240,Poch - 1240
-SM-4,Istanbouli; Halina,5,5HA,Art Room,Art Room
-SPA-5,Istanbouli; Halina,5,5HA,Gym Hall,Gym Hallway
-MC-6,Istanbouli; Halina,5,5HA,Krause - 1208,Krause - 1208
-EB-1,Jobgen; Ivy,5,5HA,Outside Door -8,3rd grade hall
-CM-2,Jobgen; Ivy,5,5HA,MPR,MPR
-FP-3,Jobgen; Ivy,5,5HA,Deinert - 1104,Deinert - 1104
-FF-4,Jobgen; Ivy,5,5HA,Backfield Northeast Corner,2nd Grade Hallway
-TD-5,Jobgen; Ivy,5,5HA,Front Porch,Under Covered Porch
-FMP-6,Jobgen; Ivy,5,5HA,Art Room,Art Room
-CS-1,Khan; Dayyan,5,5HA,Math - 1126,Math-1126
-MC-2,Khan; Dayyan,5,5HA,Krause - 1208,Krause - 1208
-LR-3,Khan; Dayyan,5,5HA,4th Grade Hub,4th Grade Hub
-SM-4,Khan; Dayyan,5,5HA,Art Room,Art Room
-CO-5,Khan; Dayyan,5,5HA,3rd Grade Hub,3rd grade hub
-RB-6,Khan; Dayyan,5,5HA,Hall-1230,Hall-1230
-CS-1,Lofton; Marvin,5,5HA,Math - 1126,Math-1126
-FF-2,Lofton; Marvin,5,5HA,Backfield Northeast Corner,2nd Grade Hallway
-CF-3,Lofton; Marvin,5,5HA,Back Field Southwest Corner,4th Grade Hallway
-MA-4,Lofton; Marvin,5,5HA,Brown - 1306,Brown - 1306
-FH-5,Lofton; Marvin,5,5HA,Gym,Gym
-WW-6,Lofton; Marvin,5,5HA,Field NW Corner,3rd grade hall
-CL-1,Morgan; Yadhira,5,5HA,Outside Door #1,4th Grade Hallway
-GYM-2,Morgan; Yadhira,5,5HA,Outside Door #13,5th grade hallway
-VC-3,Morgan; Yadhira,5,5HA,Music room,Music room
-YG-4,Morgan; Yadhira,5,5HA,Maltese - 1124,Maltese - 1124
-SM-5,Morgan; Yadhira,5,5HA,Art Room,Art Room
-HH-6,Morgan; Yadhira,5,5HA,Newhouse- 1242,Newhouse- 1242
-SM-1,Ouoba; Manuella,5,5HA,Art Room,Art Room
-GYM-2,Ouoba; Manuella,5,5HA,Outside Door #13,5th grade hallway
-FTX-3,Ouoba; Manuella,5,5HA,GYM,GYM
-IB-4,Ouoba; Manuella,5,5HA,Bussman - 1118,Bussman - 1118
-HH-5,Ouoba; Manuella,5,5HA,Newhouse- 1242,Newhouse- 1242
-SPO-6,Ouoba; Manuella,5,5HA,South East Field,Gym Hallway
-DT-1,Ovitt; Kiah,5,5HA,Georganas - 1218,Georganas - 1218
-SM-2,Ovitt; Kiah,5,5HA,Art Room,Art Room
-JP-3,Ovitt; Kiah,5,5HA,MPR,MPR
-GYM-4,Ovitt; Kiah,5,5HA,Outside Door #13,5th grade hallway
-HDV-5,Ovitt; Kiah,5,5HA,Huggins - 1308,Huggins - 1308
-CD-6,Ovitt; Kiah,5,5HA,MPR,MPR
-IB-1,Psenicka; Zeke,5,5HA,Bussman - 1118,Bussman - 1118
-RB-2,Psenicka; Zeke,5,5HA,Hall-1230,Hall-1230
-NW-3,Psenicka; Zeke,5,5HA,Gym,Gym
-HH-4,Psenicka; Zeke,5,5HA,Newhouse- 1242,Newhouse- 1242
-CO-5,Psenicka; Zeke,5,5HA,3rd Grade Hub,3rd grade hub
-MM-6,Psenicka; Zeke,5,5HA,Kirschbaum - 1216,Kirschbaum - 1216
-EB-1,Sheahin; Jacqueline,5,5HA,Outside Door -8,3rd grade hall
-CM-2,Sheahin; Jacqueline,5,5HA,MPR,MPR
-CD-3,Sheahin; Jacqueline,5,5HA,MPR,MPR
-FMP-4,Sheahin; Jacqueline,5,5HA,Art Room,Art Room
-YG-5,Sheahin; Jacqueline,5,5HA,Maltese - 1124,Maltese - 1124
-CS-6,Sheahin; Jacqueline,5,5HA,Math - 1126,Math- 1126
-SPA-1,Staley; Chloe,5,5HA,Gym Hall,Gym Hallway
-CF-2,Staley; Chloe,5,5HA,Back Field Southwest Corner,4th Grade Hallway
-FMP-3,Staley; Chloe,5,5HA,Art Room,Art Room
-CL-4,Staley; Chloe,5,5HA,Outside Door #1,4th Grade Hallway
-CM-5,Staley; Chloe,5,5HA,MPR,MPR
-LR-6,Staley; Chloe,5,5HA,4th Grade Hub,4th Grade Hub
-TD-1,Walls; Matthew,5,5HA,Front Porch,Under Covered Porch
-GF-2,Walls; Matthew,5,5HA,NW Corner,4th Grade Hallway
-FP-3,Walls; Matthew,5,5HA,Deinert - 1104,Deinert - 1104
-GYM-4,Walls; Matthew,5,5HA,Outside Door #13,5th grade hallway
-FH-5,Walls; Matthew,5,5HA,Gym,Gym
-NW-6,Walls; Matthew,5,5HA,Gym,Gym
-NW-1,Wedow; Bode,5,5HA,Gym,Gym
-LR-2,Wedow; Bode,5,5HA,4th Grade Hub,4th Grade Hub
-SM-3,Wedow; Bode,5,5HA,Art Room,Art Room
-CO-4,Wedow; Bode,5,5HA,3rd Grade Hub,3rd grade hub
-SSK-5,Wedow; Bode,5,5HA,PACE- 1228,PACE- 1228
-MM-6,Wedow; Bode,5,5HA,Kirschbaum - 1216,Kirschbaum - 1216
-JP-1,Welsh; Matthew,5,5HA,MPR,MPR
-CF-2,Welsh; Matthew,5,5HA,Back Field Southwest Corner,4th Grade Hallway
-CS-3,Welsh; Matthew,5,5HA,Math - 1126,Math- 1126
-BB-4,Welsh; Matthew,5,5HA,Blacktop,Gym Hallway
-FH-5,Welsh; Matthew,5,5HA,Gym,Gym
-WW-6,Welsh; Matthew,5,5HA,Field NW Corner,3rd grade hall
-SM-1,Yanez; Moses,5,5HA,Art Room,Art Room
-FF-2,Yanez; Moses,5,5HA,Backfield Northeast Corner,2nd Grade Hallway
-CF-3,Yanez; Moses,5,5HA,Back Field Southwest Corner,4th Grade Hallway
-CS-4,Yanez; Moses,5,5HA,Math - 1126,Math- 1126
-FH-5,Yanez; Moses,5,5HA,Gym,Gym
-SPO-6,Yanez; Moses,5,5HA,South East Field,Gym Hallway
-WW-1,Alonso; Eduardo,5,5HU,Field NW Corner,3rd grade hall
-CM-2,Alonso; Eduardo,5,5HU,MPR,MPR
-CF-3,Alonso; Eduardo,5,5HU,Back Field Southwest Corner,4th Grade Hallway
-JP-4,Alonso; Eduardo,5,5HU,MPR,MPR
-CD-5,Alonso; Eduardo,5,5HU,MPR,MPR
-FH-6,Alonso; Eduardo,5,5HU,Gym,Gym
-CD-1,Alt; Will,5,5HU,MPR,MPR
-FP-2,Alt; Will,5,5HU,Deinert - 1104,Deinert - 1104
-CM-3,Alt; Will,5,5HU,MPR,MPR
-CS-4,Alt; Will,5,5HU,Math - 1126,Math- 1126
-TD-5,Alt; Will,5,5HU,Front Porch,Under Covered Porch
-MC-6,Alt; Will,5,5HU,Krause - 1208,Krause - 1208
-JP-1,Aung; Site,5,5HU,MPR,MPR
-CM-2,Aung; Site,5,5HU,MPR,MPR
-CD-3,Aung; Site,5,5HU,MPR,MPR
-RB-4,Aung; Site,5,5HU,Hall-1230,Hall-1230
-CO-5,Aung; Site,5,5HU,3rd Grade Hub,3rd grade hub
-SSK-6,Aung; Site,5,5HU,PACE- 1228,PACE- 1228
-IB-1,Avelar; Aden,5,5HU,Bussman - 1118,Bussman - 1118
-RB-2,Avelar; Aden,5,5HU,Hall-1230,Hall-1230
-CD-3,Avelar; Aden,5,5HU,MPR,MPR
-FP-4,Avelar; Aden,5,5HU,Deinert - 1104,Deinert - 1104
-JP-5,Avelar; Aden,5,5HU,MPR,MPR
-MM-6,Avelar; Aden,5,5HU,Kirschbaum - 1216,Kirschbaum - 1216
-CS-1,Campbell; Eloise,5,5HU,Math - 1126,Math-1126
-GYM-2,Campbell; Eloise,5,5HU,Outside Door #13,5th grade hallway
-IB-3,Campbell; Eloise,5,5HU,Bussman - 1118,Bussman - 1118
-HDV-4,Campbell; Eloise,5,5HU,Huggins - 1308,Huggins - 1308
-SM-5,Campbell; Eloise,5,5HU,Art Room,Art Room
-MA-6,Campbell; Eloise,5,5HU,Brown - 1306,Brown - 1306
-FTX-1,Crowley; Victoria,5,5HU,GYM,GYM
-FP-2,Crowley; Victoria,5,5HU,Deinert - 1104,Deinert - 1104
-NW-3,Crowley; Victoria,5,5HU,Gym,Gym
-CS-4,Crowley; Victoria,5,5HU,Math - 1126,Math- 1126
-RB-5,Crowley; Victoria,5,5HU,Hall-1230,Hall-1230
-CM-6,Crowley; Victoria,5,5HU,MPR,MPR
-FMP-1,Figueroa; Christopher,5,5HU,Art Room,Art Room
-CF-2,Figueroa; Christopher,5,5HU,Back Field Southwest Corner,4th Grade Hallway
-RR-3,Figueroa; Christopher,5,5HU,Outside Door #1,1st Grade Hall
-BB-4,Figueroa; Christopher,5,5HU,Blacktop,Gym Hallway
-FH-5,Figueroa; Christopher,5,5HU,Gym,Gym
-FF-6,Figueroa; Christopher,5,5HU,Backfield Northeast Corner,2nd Grade Hallway
-KC-1,Fisher; Kaden,5,5HU,PACE- 1228,PACE- 1228
-HAI-2,Fisher; Kaden,5,5HU,Poch - 1240,Poch - 1240
-JP-3,Fisher; Kaden,5,5HU,MPR,MPR
-LR-4,Fisher; Kaden,5,5HU,4th Grade Hub,4th Grade Hub
-RR-5,Fisher; Kaden,5,5HU,Door # 1,1st Grade Hall
-SM-6,Fisher; Kaden,5,5HU,Art Room,Art Room
-DT-1,Fransen; Jules,5,5HU,Georganas - 1218,Georganas - 1218
-CD-2,Fransen; Jules,5,5HU,MPR,MPR
-CM-3,Fransen; Jules,5,5HU,MPR,MPR
-FP-4,Fransen; Jules,5,5HU,Deinert - 1104,Deinert - 1104
-JP-5,Fransen; Jules,5,5HU,MPR,MPR
-TD-6,Fransen; Jules,5,5HU,Front Porch,Under Covered Porch
-CS-1,Gartshore; DJ,5,5HU,Math - 1126,Math-1126
-VC-2,Gartshore; DJ,5,5HU,Music room,Music room
-SPA-3,Gartshore; DJ,5,5HU,Gym Hall,Gym Hallway
-CO-4,Gartshore; DJ,5,5HU,3rd Grade Hub,3rd grade hub
-MA-5,Gartshore; DJ,5,5HU,Brown - 1306,Brown - 1306
-MM-6,Gartshore; DJ,5,5HU,Kirschbaum - 1216,Kirschbaum - 1216
-JP-1,Gonzalez; Alberto,5,5HU,MPR,MPR
-CM-2,Gonzalez; Alberto,5,5HU,MPR,MPR
-CD-3,Gonzalez; Alberto,5,5HU,MPR,MPR
-BB-4,Gonzalez; Alberto,5,5HU,Blacktop,Gym Hallway
-LR-5,Gonzalez; Alberto,5,5HU,4th Grade Hub,4th Grade Hub
-FH-6,Gonzalez; Alberto,5,5HU,Gym,Gym
-WW-1,Johnson; Emonte,5,5HU,Field NW Corner,3rd grade hall
-BB-2,Johnson; Emonte,5,5HU,Blacktop,Gym Hallway
-CF-3,Johnson; Emonte,5,5HU,Back Field Southwest Corner,4th Grade Hallway
-FF-4,Johnson; Emonte,5,5HU,Backfield Northeast Corner,2nd Grade Hallway
-FH-5,Johnson; Emonte,5,5HU,Gym,Gym
-NW-6,Johnson; Emonte,5,5HU,Gym,Gym
-CM-1,Jurkowski; Beatrice,5,5HU,MPR,MPR
-FP-2,Jurkowski; Beatrice,5,5HU,Deinert - 1104,Deinert - 1104
-DT-3,Jurkowski; Beatrice,5,5HU,Georganas - 1218,Georganas - 1218
-YG-4,Jurkowski; Beatrice,5,5HU,Maltese - 1124,Maltese - 1124
-KG-5,Jurkowski; Beatrice,5,5HU,ELL-1220,ELL-1220
-JP-6,Jurkowski; Beatrice,5,5HU,MPR,MPR
-NW-1,Khan; Zoha,5,5HU,Gym,Gym
-SM-2,Khan; Zoha,5,5HU,Art Room,Art Room
-JP-3,Khan; Zoha,5,5HU,MPR,MPR
-BT-4,Khan; Zoha,5,5HU,Ms. Sobotka 1232,Ms. Sobotka 1232
-FP-5,Khan; Zoha,5,5HU,Deinert - 1104,Deinert - 1104
-CD-6,Khan; Zoha,5,5HU,MPR,MPR
-JP-1,Kor; Adam,5,5HU,MPR,MPR
-CM-2,Kor; Adam,5,5HU,MPR,MPR
-CD-3,Kor; Adam,5,5HU,MPR,MPR
-RB-4,Kor; Adam,5,5HU,Hall-1230,Hall-1230
-CO-5,Kor; Adam,5,5HU,3rd Grade Hub,3rd grade hub
-SSK-6,Kor; Adam,5,5HU,PACE- 1228,PACE- 1228
-SPA-1,Lee; Karis,5,5HU,Gym Hall,Gym Hallway
-DT-2,Lee; Karis,5,5HU,Georganas - 1218,Georganas - 1218
-FTX-3,Lee; Karis,5,5HU,GYM,GYM
-VC-4,Lee; Karis,5,5HU,Music room,Music room
-KG-5,Lee; Karis,5,5HU,ELL-1220,ELL-1220
-YG-6,Lee; Karis,5,5HU,Maltese - 1124,Maltese - 1124
-RB-1,Logan; Valyncia,5,5HU,Hall-1230,Hall-1230
-HH-2,Logan; Valyncia,5,5HU,Newhouse- 1242,Newhouse- 1242
-CM-3,Logan; Valyncia,5,5HU,MPR,MPR
-CO-4,Logan; Valyncia,5,5HU,3rd Grade Hub,3rd grade hub
-SPA-5,Logan; Valyncia,5,5HU,Gym Hall,Gym Hallway
-MM-6,Logan; Valyncia,5,5HU,Kirschbaum - 1216,Kirschbaum - 1216
-HAI-1,Lopez; Kevin,5,5HU,Poch - 1240,Poch - 1240
-KC-2,Lopez; Kevin,5,5HU,PACE- 1228,PACE - 1228
-BG-3,Lopez; Kevin,5,5HU,Sobotka - 1232,Sobotka - 1232
-CD-4,Lopez; Kevin,5,5HU,MPR,MPR
-HDV-5,Lopez; Kevin,5,5HU,Huggins - 1308,Huggins - 1308
-MM-6,Lopez; Kevin,5,5HU,Kirschbaum - 1216,Kirschbaum - 1216
-FMP-1,Michalak; Benjamin,5,5HU,Art Room,Art Room
-CF-2,Michalak; Benjamin,5,5HU,Back Field Southwest Corner,4th Grade Hallway
-KC-3,Michalak; Benjamin,5,5HU,PACE- 1228,PACE - 1228
-SM-4,Michalak; Benjamin,5,5HU,Art Room,Art Room
-FH-5,Michalak; Benjamin,5,5HU,Gym,Gym
-CM-6,Michalak; Benjamin,5,5HU,MPR,MPR
-FMP-1,Owens; Grayson,5,5HU,Art Room,Art Room
-CF-2,Owens; Grayson,5,5HU,Back Field Southwest Corner,4th Grade Hallway
-RR-3,Owens; Grayson,5,5HU,Door # 1,1st Grade Hall
-BB-4,Owens; Grayson,5,5HU,Blacktop,Gym Hallway
-FH-5,Owens; Grayson,5,5HU,Gym,Gym
-FF-6,Owens; Grayson,5,5HU,Backfield Northeast Corner,2nd Grade Hallway
-DT-1,Purser; Samantha,5,5HU,Georganas - 1218,Georganas - 1218
-FTX-2,Purser; Samantha,5,5HU,Gym,Gym
-NW-3,Purser; Samantha,5,5HU,Gym,Gym
-HDV-4,Purser; Samantha,5,5HU,Huggins - 1308,Huggins - 1308
-LR-5,Purser; Samantha,5,5HU,4th Grade Hub,4th Grade Hub
-BB-6,Purser; Samantha,5,5HU,Blacktop,Gym Hallway
-EB-1,Rivera; Diego,5,5HU,Outside Door -8,3rd grade hall
-KC-2,Rivera; Diego,5,5HU,PACE- 1228,PACE - 1228
-GF-3,Rivera; Diego,5,5HU,NW Corner,4th Grade Hallway
-MA-4,Rivera; Diego,5,5HU,Brown - 1306,Brown - 1306
-TD-5,Rivera; Diego,5,5HU,Front Porch,Under Covered Porch
-SPO-6,Rivera; Diego,5,5HU,South East Field,Gym Hallway
-SPA-1,Serna; Nina,5,5HU,Gym Hall,Gym Hallway
-GYM-2,Serna; Nina,5,5HU,Outside Door #13,5th grade hallway
-VC-3,Serna; Nina,5,5HU,Music room,Music room
-CS-4,Serna; Nina,5,5HU,Math - 1126,Math- 1126
-JP-5,Serna; Nina,5,5HU,MPR,MPR
-BB-6,Serna; Nina,5,5HU,Blacktop,Gym Hallway
-CS-1,Silva; Belinda,5,5HU,Math - 1126,Math-1126
-GYM-2,Silva; Belinda,5,5HU,Outside Door #13,5th grade hallway
-IB-3,Silva; Belinda,5,5HU,Bussman - 1118,Bussman - 1118
-HDV-4,Silva; Belinda,5,5HU,Huggins - 1308,Huggins - 1308
-RR-5,Silva; Belinda,5,5HU,Door # 1,1st Grade Hall
-EB-6,Silva; Belinda,5,5HU,Door #8,3rd Grade Hallway
-SPA-1,Skidmore; Mackenzie,5,5HU,Gym Hall,Gym Hallway
-CM-2,Skidmore; Mackenzie,5,5HU,MPR,MPR
-FMP-3,Skidmore; Mackenzie,5,5HU,Art Room,Art Room
-IB-4,Skidmore; Mackenzie,5,5HU,Bussman - 1118,Bussman - 1118
-SM-5,Skidmore; Mackenzie,5,5HU,Art Room,Art Room
-TD-6,Skidmore; Mackenzie,5,5HU,Front Porch,Front Porch
-WW-1,Thawng; Cung,5,5HU,Field NW Corner,3rd grade hall
-CM-2,Thawng; Cung,5,5HU,MPR,MPR
-CF-3,Thawng; Cung,5,5HU,Back Field Southwest Corner,4th Grade Hallway
-JP-4,Thawng; Cung,5,5HU,MPR,MPR
-CD-5,Thawng; Cung,5,5HU,MPR,MPR
-FH-6,Thawng; Cung,5,5HU,Gym,Gym
-HAI-1,Van Rossum; Ellie,5,5HU,Poch - 1240,Poch - 1240
-GF-2,Van Rossum; Ellie,5,5HU,NW Corner,4th Grade Hallway
-CM-3,Van Rossum; Ellie,5,5HU,MPR,MPR
-KG-4,Van Rossum; Ellie,5,5HU,ELL-1220,ELL-1220
-FMP-5,Van Rossum; Ellie,5,5HU,Art Room,Art Room
-MA-6,Van Rossum; Ellie,5,5HU,Math - 1126,Math- 1126
+REP-1,Bautista; Kai,1,1Ba,Duran 1116,Duran 1116
+TKD-2,Bautista; Kai,1,1Ba,Hall 1318,Hall 1318
+CM-3,Bautista; Kai,1,1Ba,MPR,MPR
+YOG-4,Bautista; Kai,1,1Ba,PACE 1228,PACE 1228
+TD-5,Bautista; Kai,1,1Ba,Front Porch,Front Porch
+SLM-1,Bucko; Evelyn,1,1Ba,Reading Room,Reading Room
+CL-2,Bucko; Evelyn,1,1Ba,Outside Door #1,4th Grade Hallway
+TUM-3,Bucko; Evelyn,1,1Ba,Outside door #13,5th Grade Hallway
+CD-4,Bucko; Evelyn,1,1Ba,MPR,MPR
+MT-5,Bucko; Evelyn,1,1Ba,EL 1230,EL 1230
+PP-1,Claud; Rachel,1,1Ba,Rindt 1208,Rindt 1208
+TUM-3,Claud; Rachel,1,1Ba,Outside door #13,5th Grade Hallway
+FP-4,Claud; Rachel,1,1Ba,Rindt 1208,Rindt 1208
+VET-5,Claud; Rachel,1,1Ba,Music Room,Music Room
+CL-6,Claud; Rachel,1,1Ba,Outside Door #1,4th Grade Hallway
+BB-1,Cuateco; Rafael,1,1Ba,Blacktop,Gym
+LR-2,Cuateco; Rafael,1,1Ba,4th Grade Hub,4th Grade Hub
+FCP-3,Cuateco; Rafael,1,1Ba,Inside Door 9,Inside Door 9
+SOC-6,Cuateco; Rafael,1,1Ba,Backfield #5,GYM
+REP-1,Fara; Payson,1,1Ba,Duran 1116,Duran 1116
+CD-2,Fara; Payson,1,1Ba,MPR,MPR
+DC-3,Fara; Payson,1,1Ba,Huggins 1308,Huggins 1308
+YOG-4,Fara; Payson,1,1Ba,PACE 1228,PACE 1228
+FP-5,Fara; Payson,1,1Ba,Rindt 1208,Rindt 1208
+GAR-6,Fara; Payson,1,1Ba,Outside Door 8,Under tent Outside Door 8
+PP-1,Gerlach; Grace,1,1Ba,Rindt 1208,Rindt 1208
+ER-2,Gerlach; Grace,1,1Ba,Library,Library
+ICE-4,Gerlach; Grace,1,1Ba,MPR,MPR
+TD-5,Gerlach; Grace,1,1Ba,Front Porch,Front Porch
+FP-6,Gerlach; Grace,1,1Ba,Rindt 1208,Rindt 1208
+BB-1,Khongsai; Lunminthang,1,1Ba,Blacktop,Gym
+LR-2,Khongsai; Lunminthang,1,1Ba,4th Grade Hub,4th Grade Hub
+CG-3,Khongsai; Lunminthang,1,1Ba,Mrs. Smith's room,Mrs. Smith's room
+SOC-5,Khongsai; Lunminthang,1,1Ba,Backfield #5,GYM
+BB-1,Leon Gonzalez; Nathan,1,1Ba,Blacktop,Gym
+SLM-2,Leon Gonzalez; Nathan,1,1Ba,Reading Room,Reading Room
+LR-3,Leon Gonzalez; Nathan,1,1Ba,4th Grade Hub,4th Grade Hub
+FF-4,Leon Gonzalez; Nathan,1,1Ba,Backfield #2,2nd Grade Hallway
+MC-5,Leon Gonzalez; Nathan,1,1Ba,Backfield #3,MPR
+SOC-6,Leon Gonzalez; Nathan,1,1Ba,Backfield #5,GYM
+SLM-1,Lian; Benjamin,1,1Ba,Reading Room,Reading Room
+CG-2,Lian; Benjamin,1,1Ba,Mrs. Smith's room,Mrs. Smith's room
+LR-3,Lian; Benjamin,1,1Ba,4th Grade Hub,4th Grade Hub
+ICE-4,Lian; Benjamin,1,1Ba,MPR,MPR
+SOC-5,Lian; Benjamin,1,1Ba,Backfield #5,GYM
+ED-6,Lian; Benjamin,1,1Ba,Back Playground,Inside Door #11
+FH-1,Lian; John,1,1Ba,Gym,Gym
+ER-2,Lian; John,1,1Ba,Library,Library
+CM-3,Lian; John,1,1Ba,MPR,MPR
+ICE-4,Lian; John,1,1Ba,MPR,MPR
+MC-5,Lian; John,1,1Ba,Backfield #3,MPR
+ROB-1,Marku; Klint,1,1Ba,PACE 1228,PACE 1228
+LR-2,Marku; Klint,1,1Ba,4th Grade Hub,4th Grade Hub
+DC-3,Marku; Klint,1,1Ba,Huggins 1308,Huggins 1308
+MOS-4,Marku; Klint,1,1Ba,Krause 1220,Krause 1220
+FCP-6,Marku; Klint,1,1Ba,Inside Door 9,Inside Door 9
+DC-1,Mawi; Rosy,1,1Ba,Huggins 1308,Huggins 1308
+CD-2,Mawi; Rosy,1,1Ba,MPR,MPR
+FCP-3,Mawi; Rosy,1,1Ba,Inside Door 9,Inside Door 9
+FP-4,Mawi; Rosy,1,1Ba,Rindt 1208,Rindt 1208
+CM-5,Mawi; Rosy,1,1Ba,MPR,MPR
+ICE-6,Mawi; Rosy,1,1Ba,MPR,MPR
+SLM-1,Par; Abigail,1,1Ba,Reading Room,Reading Room
+GAR-2,Par; Abigail,1,1Ba,Outside Door 8,Under tent Outside Door 8
+FFS-3,Par; Abigail,1,1Ba,Outside Door 7,Kirschbaum 1216
+TD-4,Par; Abigail,1,1Ba,Front Porch,Front Porch
+IB-5,Par; Abigail,1,1Ba,Maltese,Maltese
+FP-6,Par; Abigail,1,1Ba,Rindt 1208,Rindt 1208
+OC-1,Priest; Kenzie,1,1Ba,Backfield #4,Backfield #4
+HH-2,Priest; Kenzie,1,1Ba,Georganas 1218,Georganas 1218
+ICE-4,Priest; Kenzie,1,1Ba,MPR,MPR
+SLM-5,Priest; Kenzie,1,1Ba,Reading Room,Reading Room
+TD-6,Priest; Kenzie,1,1Ba,Front Porch,Front Porch
+ED-1,Scalora; Greyson,1,1Ba,Back Playground,Inside Door #11
+FF-2,Scalora; Greyson,1,1Ba,Backfield #2,2nd Grade Hallway
+FFS-3,Scalora; Greyson,1,1Ba,Outside Door 7,Kirschbaum 1216
+HD-4,Scalora; Greyson,1,1Ba,Deinert 1126,Deinert 1126
+MC-5,Scalora; Greyson,1,1Ba,Backfield #3,MPR
+ED-1,Shirer; Oliver,1,1Ba,Back Playground,Inside Door #11
+ER-2,Shirer; Oliver,1,1Ba,Library,Library
+ICE-3,Shirer; Oliver,1,1Ba,MPR,MPR
+CD-4,Shirer; Oliver,1,1Ba,MPR,MPR
+SLM-5,Shirer; Oliver,1,1Ba,Reading Room,Reading Room
+LR-6,Shirer; Oliver,1,1Ba,4th Grade Hub,4th Grade Hub
+SA-1,Tolento; Zayleen,1,1Ba,Shargo 1240,Shargo 1240
+DC-2,Tolento; Zayleen,1,1Ba,Huggins 1308,Huggins 1308
+GAR-3,Tolento; Zayleen,1,1Ba,Outside Door 8,Under tent Outside Door 8
+SLM-6,Tolento; Zayleen,1,1Ba,Reading Room,Reading Room
+ED-1,Turner; Everett,1,1Ba,Back Playground,Inside Door #11
+ER-2,Turner; Everett,1,1Ba,Library,Library
+CM-3,Turner; Everett,1,1Ba,MPR,MPR
+RR-4,Turner; Everett,1,1Ba,Outside Door #1,1st Grade Hall
+ICE-5,Turner; Everett,1,1Ba,MPR,MPR
+LR-6,Turner; Everett,1,1Ba,4th Grade Hub,4th Grade Hub
+ROB-1,Wexler; Ethan,1,1Ba,PACE 1228,PACE 1228
+REP-2,Wexler; Ethan,1,1Ba,Duran 1116,Duran 1116
+OC-3,Wexler; Ethan,1,1Ba,Backfield #4,Backfield #4
+HD-4,Wexler; Ethan,1,1Ba,Deinert 1126,Deinert 1126
+ED-5,Wexler; Ethan,1,1Ba,Back Playground,Inside Door #11
+FFS-6,Wexler; Ethan,1,1Ba,Outside Door 7,Kirschbaum 1216
+TD-1,Williams; Aaiden,1,1Ba,Front Porch,Front Porch
+MC-2,Williams; Aaiden,1,1Ba,Backfield #3,MPR
+DC-3,Williams; Aaiden,1,1Ba,Huggins 1308,Huggins 1308
+SLM-4,Williams; Aaiden,1,1Ba,Reading Room,Reading Room
+SOC-5,Williams; Aaiden,1,1Ba,Backfield #5,GYM
+OC-6,Williams; Aaiden,1,1Ba,Backfield #4,Backfield #4
+REP-1,Arroyo; Santiago,1,1Br,Duran 1116,Duran 1116
+MC-2,Arroyo; Santiago,1,1Br,Backfield #3,MPR
+DC-3,Arroyo; Santiago,1,1Br,Huggins 1308,Huggins 1308
+BG-4,Arroyo; Santiago,1,1Br,Sobotka 1232,Sobotka 1232
+SOC-5,Arroyo; Santiago,1,1Br,Backfield #5,GYM
+HD-6,Arroyo; Santiago,1,1Br,Deinert 1126,Deinert 1126
+ROB-1,Fryzek; Tyler,1,1Br,PACE 1228,PACE 1228
+ER-2,Fryzek; Tyler,1,1Br,Library,Library
+REP-3,Fryzek; Tyler,1,1Br,Duran 1116,Duran 1116
+LR-4,Fryzek; Tyler,1,1Br,4th Grade Hub,4th Grade Hub
+HD-5,Fryzek; Tyler,1,1Br,Deinert 1126,Deinert 1126
+OC-6,Fryzek; Tyler,1,1Br,Backfield #4,Backfield #4
+HH-1,Harborth; Sloan,1,1Br,Georganas 1218,Georganas 1218
+TUM-3,Harborth; Sloan,1,1Br,Outside door #13,5th Grade Hallway
+CL-4,Harborth; Sloan,1,1Br,Outside Door #1,4th Grade Hallway
+SPA-5,Harborth; Sloan,1,1Br,Brown 1106,Brown 1106
+LR-1,Jeffers; Josiah,1,1Br,4th Grade Hub,4th Grade Hub
+REP-2,Jeffers; Josiah,1,1Br,Duran 1116,Duran 1116
+TKD-3,Jeffers; Josiah,1,1Br,Hall 1318,Hall 1318
+FFS-4,Jeffers; Josiah,1,1Br,Outside Door 7,Kirschbaum 1216
+TD-5,Jeffers; Josiah,1,1Br,Front Porch,Front Porch
+OC-6,Jeffers; Josiah,1,1Br,Backfield #4,Backfield #4
+CM-1,Joaquin; Daniella,1,1Br,MPR,MPR
+SA-2,Joaquin; Daniella,1,1Br,Shargo 1240,Shargo 1240
+TUM-3,Joaquin; Daniella,1,1Br,Outside door #13,5th Grade Hallway
+SLM-4,Joaquin; Daniella,1,1Br,Reading Room,Reading Room
+TD-6,Joaquin; Daniella,1,1Br,Front Porch,Front Porch
+GAR-1,Johnson; Grace,1,1Br,Outside Door 8,Under tent Outside Door 8
+CM-2,Johnson; Grace,1,1Br,MPR,MPR
+MC-3,Johnson; Grace,1,1Br,Backfield #3,MPR
+ICE-4,Johnson; Grace,1,1Br,MPR,MPR
+SPA-5,Johnson; Grace,1,1Br,Brown 1106,Brown 1106
+VET-6,Johnson; Grace,1,1Br,Music Room,Music Room
+CF-1,Khamissi; Fina,1,1Br,Backfield #1,3rd Grade Hallway
+CM-2,Khamissi; Fina,1,1Br,MPR,MPR
+BG-3,Khamissi; Fina,1,1Br,Sobotka 1232,Sobotka 1232
+RR-4,Khamissi; Fina,1,1Br,Outside Door #1,1st Grade Hall
+TD-5,Khamissi; Fina,1,1Br,Front Porch,Front Porch
+OC-6,Khamissi; Fina,1,1Br,Backfield #4,Backfield #4
+BB-1,Kline; Camden,1,1Br,Blacktop,Gym
+FF-2,Kline; Camden,1,1Br,Backfield #2,2nd Grade Hallway
+LR-3,Kline; Camden,1,1Br,4th Grade Hub,4th Grade Hub
+AS-4,Kline; Camden,1,1Br,Flag Pole,4th Grade Hallway
+SOC-5,Kline; Camden,1,1Br,Backfield #5,GYM
+OC-6,Kline; Camden,1,1Br,Backfield #4,Backfield #4
+FH-1,Knapp; JJ,1,1Br,Gym,Gym
+OC-2,Knapp; JJ,1,1Br,Backfield #4,Backfield #4
+MC-3,Knapp; JJ,1,1Br,Backfield #3,MPR
+LR-4,Knapp; JJ,1,1Br,4th Grade Hub,4th Grade Hub
+HD-5,Knapp; JJ,1,1Br,Deinert 1126,Deinert 1126
+PB-6,Knapp; JJ,1,1Br,Blacktop (near gagaball),Gym
+FH-1,Lattmann; Patrick,1,1Br,Gym,Gym
+FF-2,Lattmann; Patrick,1,1Br,Backfield #2,2nd Grade Hallway
+HD-3,Lattmann; Patrick,1,1Br,Deinert 1126,Deinert 1126
+SOC-5,Lattmann; Patrick,1,1Br,Backfield #5,GYM
+CM-1,Leonard; Caleb,1,1Br,MPR,MPR
+MT-2,Leonard; Caleb,1,1Br,EL 1230,EL 1230
+CD-3,Leonard; Caleb,1,1Br,MPR,MPR
+MC-4,Leonard; Caleb,1,1Br,Backfield #3,MPR
+ICE-5,Leonard; Caleb,1,1Br,MPR,MPR
+SLM-6,Leonard; Caleb,1,1Br,Reading Room,Reading Room
+HD-1,Loonam; Nora,1,1Br,Deinert 1126,Deinert 1126
+ED-2,Loonam; Nora,1,1Br,Back Playground,Inside Door #11
+DC-3,Loonam; Nora,1,1Br,Huggins 1308,Huggins 1308
+YOG-4,Loonam; Nora,1,1Br,PACE 1228,PACE 1228
+VET-5,Loonam; Nora,1,1Br,Music Room,Music Room
+TUM-6,Loonam; Nora,1,1Br,Outside door #13,5th Grade Hallway
+CF-1,Marcial; Randy,1,1Br,Backfield #1,3rd Grade Hallway
+DC-2,Marcial; Randy,1,1Br,Huggins 1308,Huggins 1308
+TKD-3,Marcial; Randy,1,1Br,Hall 1318,Hall 1318
+FCP-6,Marcial; Randy,1,1Br,Inside Door 9,Inside Door 9
+SA-1,Mayerik; Eddie,1,1Br,Shargo 1240,Shargo 1240
+LR-2,Mayerik; Eddie,1,1Br,4th Grade Hub,4th Grade Hub
+ORG-3,Mayerik; Eddie,1,1Br,Bacon 1104,Bacon 1104
+SLM-4,Mayerik; Eddie,1,1Br,Reading Room,Reading Room
+FFS-5,Mayerik; Eddie,1,1Br,Outside Door 7,Kirschbaum 1216
+BG-6,Mayerik; Eddie,1,1Br,Sobotka 1232,Sobotka 1232
+CL-1,Mikolas; Penelope,1,1Br,Outside Door #1,4th Grade Hallway
+TUM-2,Mikolas; Penelope,1,1Br,Outside door #13,5th Grade Hallway
+OC-3,Mikolas; Penelope,1,1Br,Backfield #4,Backfield #4
+YOG-4,Mikolas; Penelope,1,1Br,PACE 1228,PACE 1228
+FH-1,Milliman; Harper,1,1Br,Gym,Gym
+FF-2,Milliman; Harper,1,1Br,Backfield #2,2nd Grade Hallway
+IB-3,Milliman; Harper,1,1Br,Maltese,Maltese
+LR-4,Milliman; Harper,1,1Br,4th Grade Hub,4th Grade Hub
+FP-5,Milliman; Harper,1,1Br,Rindt 1208,Rindt 1208
+ICE-6,Milliman; Harper,1,1Br,MPR,MPR
+SA-1,Montes Matallana; Jesus,1,1Br,Shargo 1240,Shargo 1240
+FF-2,Montes Matallana; Jesus,1,1Br,Backfield #2,2nd Grade Hallway
+GAR-3,Montes Matallana; Jesus,1,1Br,Outside Door 8,Under tent Outside Door 8
+HH-4,Montes Matallana; Jesus,1,1Br,Georganas 1218,Georganas 1218
+LR-5,Montes Matallana; Jesus,1,1Br,4th Grade Hub,4th Grade Hub
+GAR-1,Moos; Charlotte,1,1Br,Outside Door 8,Under tent Outside Door 8
+PP-2,Moos; Charlotte,1,1Br,Rindt 1208,Rindt 1208
+TUM-3,Moos; Charlotte,1,1Br,Outside door #13,5th Grade Hallway
+FFS-4,Moos; Charlotte,1,1Br,Outside Door 7,Kirschbaum 1216
+VET-5,Moos; Charlotte,1,1Br,Music Room,Music Room
+FP-6,Moos; Charlotte,1,1Br,Rindt 1208,Rindt 1208
+CM-1,Rodriguez; Annabel,1,1Br,MPR,MPR
+PP-2,Rodriguez; Annabel,1,1Br,Rindt 1208,Rindt 1208
+DC-3,Rodriguez; Annabel,1,1Br,Huggins 1308,Huggins 1308
+ICE-4,Rodriguez; Annabel,1,1Br,MPR,MPR
+MT-5,Rodriguez; Annabel,1,1Br,EL 1230,EL 1230
+ORG-6,Rodriguez; Annabel,1,1Br,Bacon 1104,Bacon 1104
+ER-1,Zayed; Joseph,1,1Br,Library,Library
+BB-2,Zayed; Joseph,1,1Br,Blacktop,Gym
+SA-3,Zayed; Joseph,1,1Br,Shargo 1240,Shargo 1240
+HD-4,Zayed; Joseph,1,1Br,Deinert 1126,Deinert 1126
+ER-1,Conte-Russian; Cyrus,1,1M,Library,Library
+BB-2,Conte-Russian; Cyrus,1,1M,Blacktop,Gym
+TKD-3,Conte-Russian; Cyrus,1,1M,Hall 1318,Hall 1318
+FF-4,Conte-Russian; Cyrus,1,1M,Backfield #2,2nd Grade Hallway
+PB-5,Conte-Russian; Cyrus,1,1M,Blacktop (near gagaball),Gym
+SOC-6,Conte-Russian; Cyrus,1,1M,Backfield #5,GYM
+ICE-1,Cungnung; Chan,1,1M,MPR,MPR
+FFS-2,Cungnung; Chan,1,1M,Outside Door 7,Kirschbaum 1216
+TKD-3,Cungnung; Chan,1,1M,Hall 1318,Hall 1318
+FP-4,Cungnung; Chan,1,1M,Rindt 1208,Rindt 1208
+SOC-5,Cungnung; Chan,1,1M,Backfield #5,GYM
+DC-1,Dahlquist; Abigail,1,1M,Huggins 1308,Huggins 1308
+FP-4,Dahlquist; Abigail,1,1M,Rindt 1208,Rindt 1208
+TUM-5,Dahlquist; Abigail,1,1M,Outside door #13,5th Grade Hallway
+VET-6,Dahlquist; Abigail,1,1M,Music Room,Music Room
+SA-1,Dandy; Liam,1,1M,Shargo 1240,Shargo 1240
+TKD-2,Dandy; Liam,1,1M,Hall 1318,Hall 1318
+AS-3,Dandy; Liam,1,1M,Flag Pole,4th Grade Hallway
+MT-4,Dandy; Liam,1,1M,EL 1230,EL 1230
+HD-1,Fryer; Chase,1,1M,Deinert 1126,Deinert 1126
+SLM-2,Fryer; Chase,1,1M,Reading Room,Reading Room
+CD-3,Fryer; Chase,1,1M,MPR,MPR
+OC-4,Fryer; Chase,1,1M,Backfield #4,Backfield #4
+FFS-5,Fryer; Chase,1,1M,Outside Door 7,Kirschbaum 1216
+SOC-6,Fryer; Chase,1,1M,Backfield #5,GYM
+ROB-1,Gupta; Ruhaan,1,1M,PACE 1228,PACE 1228
+BB-2,Gupta; Ruhaan,1,1M,Blacktop,Gym
+SLM-3,Gupta; Ruhaan,1,1M,Reading Room,Reading Room
+AS-4,Gupta; Ruhaan,1,1M,Flag Pole,4th Grade Hallway
+IB-5,Gupta; Ruhaan,1,1M,Maltese,Maltese
+ROB-1,Hall; Ian,1,1M,PACE 1228,PACE 1228
+ER-2,Hall; Ian,1,1M,Library,Library
+CG-3,Hall; Ian,1,1M,Mrs. Smith's room,Mrs. Smith's room
+TKD-4,Hall; Ian,1,1M,Hall 1318,Hall 1318
+HD-5,Hall; Ian,1,1M,Deinert 1126,Deinert 1126
+CM-6,Hall; Ian,1,1M,MPR,MPR
+CL-1,Hayden; Lillian,1,1M,Outside Door #1,4th Grade Hallway
+ICE-2,Hayden; Lillian,1,1M,MPR,MPR
+REP-3,Hayden; Lillian,1,1M,Duran 1116,Duran 1116
+FFS-4,Hayden; Lillian,1,1M,Outside Door 7,Kirschbaum 1216
+VET-5,Hayden; Lillian,1,1M,Music Room,Music Room
+MC-6,Hayden; Lillian,1,1M,Backfield #3,MPR
+SLM-1,Jamison; Lillian,1,1M,Reading Room,Reading Room
+CL-2,Jamison; Lillian,1,1M,Outside Door #1,4th Grade Hallway
+FFS-3,Jamison; Lillian,1,1M,Outside Door 7,Kirschbaum 1216
+YOG-4,Jamison; Lillian,1,1M,PACE 1228,PACE 1228
+TUM-5,Jamison; Lillian,1,1M,Outside door #13,5th Grade Hallway
+CD-6,Jamison; Lillian,1,1M,MPR,MPR
+BB-1,Jebril; Arwa,1,1M,Blacktop,Gym
+DC-2,Jebril; Arwa,1,1M,Huggins 1308,Huggins 1308
+GAR-3,Jebril; Arwa,1,1M,Outside Door 8,Under tent Outside Door 8
+FCP-4,Jebril; Arwa,1,1M,Inside Door 9,Inside Door 9
+HH-5,Jebril; Arwa,1,1M,Georganas 1218,Georganas 1218
+LR-6,Jebril; Arwa,1,1M,4th Grade Hub,4th Grade Hub
+ICE-1,Khan; Hashim,1,1M,MPR,MPR
+FF-2,Khan; Hashim,1,1M,Backfield #2,2nd Grade Hallway
+MC-3,Khan; Hashim,1,1M,Backfield #3,MPR
+CD-4,Khan; Hashim,1,1M,MPR,MPR
+SOC-5,Khan; Hashim,1,1M,Backfield #5,GYM
+OC-6,Khan; Hashim,1,1M,Backfield #4,Backfield #4
+HH-1,McKenna; Emilia,1,1M,Georganas 1218,Georganas 1218
+FCP-2,McKenna; Emilia,1,1M,Inside Door 9,Inside Door 9
+ED-3,McKenna; Emilia,1,1M,Back Playground,Inside Door #11
+FFS-5,McKenna; Emilia,1,1M,Outside Door 7,Kirschbaum 1216
+SLM-6,McKenna; Emilia,1,1M,Reading Room,Reading Room
+FFS-1,Mesfin; Meklit,1,1M,Outside Door 7,Kirschbaum 1216
+CM-2,Mesfin; Meklit,1,1M,MPR,MPR
+SLM-3,Mesfin; Meklit,1,1M,Reading Room,Reading Room
+HH-4,Mesfin; Meklit,1,1M,Georganas 1218,Georganas 1218
+ICE-1,Phan; Bella,1,1M,MPR,MPR
+HH-2,Phan; Bella,1,1M,Georganas 1218,Georganas 1218
+TUM-4,Phan; Bella,1,1M,Outside door #13,5th Grade Hallway
+CL-5,Phan; Bella,1,1M,Outside Door #1,4th Grade Hallway
+CD-6,Phan; Bella,1,1M,MPR,MPR
+ED-1,Pineda; Jacob,1,1M,Back Playground,Inside Door #11
+ICE-2,Pineda; Jacob,1,1M,MPR,MPR
+CL-3,Pineda; Jacob,1,1M,Outside Door #1,4th Grade Hallway
+RR-4,Pineda; Jacob,1,1M,Outside Door #1,1st Grade Hall
+LR-5,Pineda; Jacob,1,1M,4th Grade Hub,4th Grade Hub
+FCP-6,Pineda; Jacob,1,1M,Inside Door 9,Inside Door 9
+SLM-1,Quinn; Rowan,1,1M,Reading Room,Reading Room
+CM-2,Quinn; Rowan,1,1M,MPR,MPR
+DC-3,Quinn; Rowan,1,1M,Huggins 1308,Huggins 1308
+CD-4,Quinn; Rowan,1,1M,MPR,MPR
+MT-5,Quinn; Rowan,1,1M,EL 1230,EL 1230
+CL-6,Quinn; Rowan,1,1M,Outside Door #1,4th Grade Hallway
+BB-1,Schulte; William,1,1M,Blacktop,Gym
+FF-2,Schulte; William,1,1M,Backfield #2,2nd Grade Hallway
+OC-3,Schulte; William,1,1M,Backfield #4,Backfield #4
+MC-4,Schulte; William,1,1M,Backfield #3,MPR
+SOC-5,Schulte; William,1,1M,Backfield #5,GYM
+ICE-6,Schulte; William,1,1M,MPR,MPR
+ROB-1,Suntei; Malakai,1,1M,PACE 1228,PACE 1228
+TD-2,Suntei; Malakai,1,1M,Front Porch,Front Porch
+REP-3,Suntei; Malakai,1,1M,Duran 1116,Duran 1116
+PB-4,Suntei; Malakai,1,1M,Blacktop (near gagaball),Gym
+SOC-5,Suntei; Malakai,1,1M,Backfield #5,GYM
+MOS-6,Suntei; Malakai,1,1M,Krause 1220,Krause 1220
+CF-1,Troup; Ryan,1,1M,Backfield #1,3rd Grade Hallway
+ER-2,Troup; Ryan,1,1M,Library,Library
+OC-3,Troup; Ryan,1,1M,Backfield #4,Backfield #4
+TKD-4,Troup; Ryan,1,1M,Hall 1318,Hall 1318
+LR-5,Troup; Ryan,1,1M,4th Grade Hub,4th Grade Hub
+HD-6,Troup; Ryan,1,1M,Deinert 1126,Deinert 1126
+ICE-1,Videla Coreas; Dylan,1,1M,MPR,MPR
+FF-2,Videla Coreas; Dylan,1,1M,Backfield #2,2nd Grade Hallway
+LR-3,Videla Coreas; Dylan,1,1M,4th Grade Hub,4th Grade Hub
+CD-4,Videla Coreas; Dylan,1,1M,MPR,MPR
+SOC-5,Videla Coreas; Dylan,1,1M,Backfield #5,GYM
+OC-6,Videla Coreas; Dylan,1,1M,Backfield #4,Backfield #4
+SLM-1,Akramova; Zara,2,2D,Reading Room,Reading Room
+DC-2,Akramova; Zara,2,2D,Huggins 1308,Huggins 1308
+SPA-3,Akramova; Zara,2,2D,Brown 1106,Brown 1106
+CL-4,Akramova; Zara,2,2D,Outside Door #1,4th Grade Hallway
+FCP-5,Akramova; Zara,2,2D,Inside Door 9,Inside Door 9
+TD-6,Akramova; Zara,2,2D,Front Porch,Front Porch
+OC-1,Armbrust; Alexa,2,2D,Backfield #4,Backfield #4
+TUM-2,Armbrust; Alexa,2,2D,Outside door #13,5th Grade Hallway
+CL-3,Armbrust; Alexa,2,2D,Outside Door #1,4th Grade Hallway
+ED-4,Armbrust; Alexa,2,2D,Back Playground,Inside Door #11
+TD-6,Armbrust; Alexa,2,2D,Front Porch,Front Porch
+TRV-1,Cann; Logan,2,2D,Martinez - 1112,Martinez - 1112
+CF-2,Cann; Logan,2,2D,Backfield #1,3rd Grade Hallway
+HD-3,Cann; Logan,2,2D,Deinert 1126,Deinert 1126
+PB-4,Cann; Logan,2,2D,Blacktop (near gagaball),Gym
+CM-5,Cann; Logan,2,2D,MPR,MPR
+ICE-6,Cann; Logan,2,2D,MPR,MPR
+ROB-1,Claus; Gretchen,2,2D,PACE 1228,PACE 1228
+TD-2,Claus; Gretchen,2,2D,Front Porch,Front Porch
+CD-3,Claus; Gretchen,2,2D,MPR,MPR
+ICE-4,Claus; Gretchen,2,2D,MPR,MPR
+CM-5,Claus; Gretchen,2,2D,MPR,MPR
+TUM-6,Claus; Gretchen,2,2D,Outside door #13,5th Grade Hallway
+CM-1,Combs; Mackynzie,2,2D,MPR,MPR
+TUM-2,Combs; Mackynzie,2,2D,Outside door #13,5th Grade Hallway
+PP-3,Combs; Mackynzie,2,2D,Rindt 1208,Rindt 1208
+HH-4,Combs; Mackynzie,2,2D,Georganas 1218,Georganas 1218
+FFS-5,Combs; Mackynzie,2,2D,Outside Door 7,Kirschbaum 1216
+TD-6,Combs; Mackynzie,2,2D,Front Porch,Front Porch
+SA-1,Dee; Catherine,2,2D,Shargo 1240,Shargo 1240
+FCP-2,Dee; Catherine,2,2D,Inside Door 9,Inside Door 9
+IB-3,Dee; Catherine,2,2D,Maltese,Maltese
+CL-4,Dee; Catherine,2,2D,Outside Door #1,4th Grade Hallway
+CD-5,Dee; Catherine,2,2D,MPR,MPR
+FFS-6,Dee; Catherine,2,2D,Outside Door 7,Kirschbaum 1216
+ER-1,Duong; Maxen,2,2D,Library,Library
+LR-2,Duong; Maxen,2,2D,4th Grade Hub,4th Grade Hub
+BG-3,Duong; Maxen,2,2D,Sobotka 1232,Sobotka 1232
+HD-4,Duong; Maxen,2,2D,Deinert 1126,Deinert 1126
+OC-1,Edwards; Daniel,2,2D,Backfield #4,Backfield #4
+MC-2,Edwards; Daniel,2,2D,Backfield #3,MPR
+SLM-3,Edwards; Daniel,2,2D,Reading Room,Reading Room
+CM-4,Edwards; Daniel,2,2D,MPR,MPR
+LR-5,Edwards; Daniel,2,2D,4th Grade Hub,4th Grade Hub
+TD-6,Edwards; Daniel,2,2D,Front Porch,Front Porch
+SA-1,Espinoza; Sophia,2,2D,Shargo 1240,Shargo 1240
+FCP-2,Espinoza; Sophia,2,2D,Inside Door 9,Inside Door 9
+IB-3,Espinoza; Sophia,2,2D,Maltese,Maltese
+CL-4,Espinoza; Sophia,2,2D,Outside Door #1,4th Grade Hallway
+OC-5,Espinoza; Sophia,2,2D,Backfield #4,Backfield #4
+GAR-6,Espinoza; Sophia,2,2D,Outside Door 8,Under tent Outside Door 8
+CF-1,Gabrys; Everett,2,2D,Backfield #1,3rd Grade Hallway
+CL-2,Gabrys; Everett,2,2D,Outside Door #1,4th Grade Hallway
+TUM-3,Gabrys; Everett,2,2D,Outside door #13,5th Grade Hallway
+MC-4,Gabrys; Everett,2,2D,Backfield #3,MPR
+ICE-6,Gabrys; Everett,2,2D,MPR,MPR
+BB-1,Kasalu; Khethiwe,2,2D,Blacktop,Gym
+SA-2,Kasalu; Khethiwe,2,2D,Shargo 1240,Shargo 1240
+CL-3,Kasalu; Khethiwe,2,2D,Outside Door #1,4th Grade Hallway
+FP-4,Kasalu; Khethiwe,2,2D,Rindt 1208,Rindt 1208
+CD-5,Kasalu; Khethiwe,2,2D,MPR,MPR
+HH-6,Kasalu; Khethiwe,2,2D,Georganas 1218,Georganas 1218
+TUM-1,Kaunley; Manny,2,2D,Outside door #13,5th Grade Hallway
+OC-2,Kaunley; Manny,2,2D,Backfield #4,Backfield #4
+SLM-3,Kaunley; Manny,2,2D,Reading Room,Reading Room
+CL-4,Kaunley; Manny,2,2D,Outside Door #1,4th Grade Hallway
+FP-5,Kaunley; Manny,2,2D,Rindt 1208,Rindt 1208
+ICE-6,Kaunley; Manny,2,2D,MPR,MPR
+CD-1,Leonard; Hannah,2,2D,MPR,MPR
+OC-2,Leonard; Hannah,2,2D,Backfield #4,Backfield #4
+IB-3,Leonard; Hannah,2,2D,Maltese,Maltese
+TD-4,Leonard; Hannah,2,2D,Front Porch,Front Porch
+SLM-5,Leonard; Hannah,2,2D,Reading Room,Reading Room
+ED-6,Leonard; Hannah,2,2D,Back Playground,Inside Door #11
+CM-1,Messana; Jonathan,2,2D,MPR,MPR
+REP-2,Messana; Jonathan,2,2D,Duran 1116,Duran 1116
+ICE-3,Messana; Jonathan,2,2D,MPR,MPR
+CD-4,Messana; Jonathan,2,2D,MPR,MPR
+VET-5,Messana; Jonathan,2,2D,Music Room,Music Room
+ED-6,Messana; Jonathan,2,2D,Back Playground,Inside Door #11
+CM-1,Ochoa; Kayle,2,2D,MPR,MPR
+CD-2,Ochoa; Kayle,2,2D,MPR,MPR
+DC-3,Ochoa; Kayle,2,2D,Huggins 1308,Huggins 1308
+GAR-4,Ochoa; Kayle,2,2D,Outside Door 8,Under tent Outside Door 8
+MT-1,Ortiz; Kevin,2,2D,EL 1230,EL 1230
+OC-2,Ortiz; Kevin,2,2D,Backfield #4,Backfield #4
+SLM-3,Ortiz; Kevin,2,2D,Reading Room,Reading Room
+CD-4,Ortiz; Kevin,2,2D,MPR,MPR
+ER-1,Ovitt; Jonas,2,2D,Library,Library
+LR-2,Ovitt; Jonas,2,2D,4th Grade Hub,4th Grade Hub
+REP-3,Ovitt; Jonas,2,2D,Duran 1116,Duran 1116
+AS-4,Ovitt; Jonas,2,2D,Flag Pole,4th Grade Hallway
+OC-5,Ovitt; Jonas,2,2D,Backfield #4,Backfield #4
+CM-6,Ovitt; Jonas,2,2D,MPR,MPR
+FH-1,Pastor Hernandez; Dylan,2,2D,Gym,Gym
+CM-2,Pastor Hernandez; Dylan,2,2D,MPR,MPR
+CG-3,Pastor Hernandez; Dylan,2,2D,Mrs. Smith's room,Mrs. Smith's room
+CD-4,Pastor Hernandez; Dylan,2,2D,MPR,MPR
+LR-5,Pastor Hernandez; Dylan,2,2D,4th Grade Hub,4th Grade Hub
+ICE-6,Pastor Hernandez; Dylan,2,2D,MPR,MPR
+REP-1,Rivero Luna; Miguel,2,2D,Duran 1116,Duran 1116
+SLM-2,Rivero Luna; Miguel,2,2D,Reading Room,Reading Room
+OC-3,Rivero Luna; Miguel,2,2D,Backfield #4,Backfield #4
+RR-4,Rivero Luna; Miguel,2,2D,Outside Door #1,1st Grade Hall
+FFS-5,Rivero Luna; Miguel,2,2D,Outside Door 7,Kirschbaum 1216
+IB-6,Rivero Luna; Miguel,2,2D,Maltese,Maltese
+SA-1,Smith; Janiyah,2,2D,Shargo 1240,Shargo 1240
+HH-2,Smith; Janiyah,2,2D,Georganas 1218,Georganas 1218
+ICE-3,Smith; Janiyah,2,2D,MPR,MPR
+CD-4,Smith; Janiyah,2,2D,MPR,MPR
+CL-5,Smith; Janiyah,2,2D,Outside Door #1,4th Grade Hallway
+MT-6,Smith; Janiyah,2,2D,EL 1230,EL 1230
+CF-1,Staffeldt; Declan,2,2D,Backfield #1,3rd Grade Hallway
+REP-2,Staffeldt; Declan,2,2D,Duran 1116,Duran 1116
+MC-3,Staffeldt; Declan,2,2D,Backfield #3,MPR
+OC-4,Staffeldt; Declan,2,2D,Backfield #4,Backfield #4
+IB-5,Staffeldt; Declan,2,2D,Maltese,Maltese
+SOC-6,Staffeldt; Declan,2,2D,Backfield #5,GYM
+REP-1,Veltri; Mia,2,2D,Duran 1116,Duran 1116
+SA-2,Veltri; Mia,2,2D,Shargo 1240,Shargo 1240
+CG-3,Veltri; Mia,2,2D,Mrs. Smith's room,Mrs. Smith's room
+TKD-4,Veltri; Mia,2,2D,Hall 1318,Hall 1318
+LR-5,Veltri; Mia,2,2D,4th Grade Hub,4th Grade Hub
+OC-1,Vuelvas; Dennis,2,2D,Backfield #4,Backfield #4
+ER-2,Vuelvas; Dennis,2,2D,Library,Library
+ICE-3,Vuelvas; Dennis,2,2D,MPR,MPR
+ED-4,Vuelvas; Dennis,2,2D,Back Playground,Inside Door #11
+SLM-5,Vuelvas; Dennis,2,2D,Reading Room,Reading Room
+HD-6,Vuelvas; Dennis,2,2D,Deinert 1126,Deinert 1126
+FH-1,Zayed; Johnny,2,2D,Gym,Gym
+FF-2,Zayed; Johnny,2,2D,Backfield #2,2nd Grade Hallway
+BB-3,Zayed; Johnny,2,2D,Blacktop,Gym
+LR-4,Zayed; Johnny,2,2D,4th Grade Hub,4th Grade Hub
+HD-5,Zayed; Johnny,2,2D,Deinert 1126,Deinert 1126
+CL-1,Austin; Annelise,2,2M,Outside Door #1,4th Grade Hallway
+TUM-2,Austin; Annelise,2,2M,Outside door #13,5th Grade Hallway
+HH-3,Austin; Annelise,2,2M,Georganas 1218,Georganas 1218
+MT-4,Austin; Annelise,2,2M,EL 1230,EL 1230
+SLM-5,Austin; Annelise,2,2M,Reading Room,Reading Room
+ED-1,Barron; Anthony,2,2M,Back Playground,Inside Door #11
+IB-2,Barron; Anthony,2,2M,Maltese,Maltese
+DC-3,Barron; Anthony,2,2M,Huggins 1308,Huggins 1308
+LR-4,Barron; Anthony,2,2M,4th Grade Hub,4th Grade Hub
+VET-5,Barron; Anthony,2,2M,Music Room,Music Room
+ICE-1,Bik; Moses,2,2M,MPR,MPR
+CG-2,Bik; Moses,2,2M,Mrs. Smith's room,Mrs. Smith's room
+BG-3,Bik; Moses,2,2M,Sobotka 1232,Sobotka 1232
+ORG-4,Bik; Moses,2,2M,Bacon 1104,Bacon 1104
+SOC-6,Bik; Moses,2,2M,Backfield #5,GYM
+PP-1,Curk; Hailey,2,2M,Rindt 1208,Rindt 1208
+MT-2,Curk; Hailey,2,2M,EL 1230,EL 1230
+SPA-3,Curk; Hailey,2,2M,Brown 1106,Brown 1106
+TUM-4,Curk; Hailey,2,2M,Outside door #13,5th Grade Hallway
+AS-5,Curk; Hailey,2,2M,Flag Pole,4th Grade Hallway
+CM-6,Curk; Hailey,2,2M,MPR,MPR
+TD-1,DeGroot; Honor,2,2M,Front Porch,Front Porch
+SLM-2,DeGroot; Honor,2,2M,Reading Room,Reading Room
+LR-3,DeGroot; Honor,2,2M,4th Grade Hub,4th Grade Hub
+SOC-5,DeGroot; Honor,2,2M,Backfield #5,GYM
+FCP-6,DeGroot; Honor,2,2M,Inside Door 9,Inside Door 9
+CF-1,DeVoy; Jackson,2,2M,Backfield #1,3rd Grade Hallway
+FF-2,DeVoy; Jackson,2,2M,Backfield #2,2nd Grade Hallway
+OC-3,DeVoy; Jackson,2,2M,Backfield #4,Backfield #4
+RR-4,DeVoy; Jackson,2,2M,Outside Door #1,1st Grade Hall
+AS-5,DeVoy; Jackson,2,2M,Flag Pole,4th Grade Hallway
+HD-6,DeVoy; Jackson,2,2M,Deinert 1126,Deinert 1126
+CF-1,Fiore; Matthew,2,2M,Backfield #1,3rd Grade Hallway
+FF-2,Fiore; Matthew,2,2M,Backfield #2,2nd Grade Hallway
+MC-3,Fiore; Matthew,2,2M,Backfield #3,MPR
+OC-4,Fiore; Matthew,2,2M,Backfield #4,Backfield #4
+ED-5,Fiore; Matthew,2,2M,Back Playground,Inside Door #11
+BG-6,Fiore; Matthew,2,2M,Sobotka 1232,Sobotka 1232
+BB-1,Gebreselasse; Temesgen,2,2M,Blacktop,Gym
+BG-2,Gebreselasse; Temesgen,2,2M,Sobotka 1232,Sobotka 1232
+TKD-3,Gebreselasse; Temesgen,2,2M,Hall 1318,Hall 1318
+FF-4,Gebreselasse; Temesgen,2,2M,Backfield #2,2nd Grade Hallway
+SOC-5,Gebreselasse; Temesgen,2,2M,Backfield #5,GYM
+LR-6,Gebreselasse; Temesgen,2,2M,4th Grade Hub,4th Grade Hub
+ER-1,Greenberg; Nina,2,2M,Library,Library
+FFS-2,Greenberg; Nina,2,2M,Outside Door 7,Kirschbaum 1216
+ED-3,Greenberg; Nina,2,2M,Back Playground,Inside Door #11
+MC-4,Greenberg; Nina,2,2M,Backfield #3,MPR
+BG-5,Greenberg; Nina,2,2M,Sobotka 1232,Sobotka 1232
+CG-1,Hartley; Isaac,2,2M,Mrs. Smith's room,Mrs. Smith's room
+FF-2,Hartley; Isaac,2,2M,Backfield #2,2nd Grade Hallway
+AS-3,Hartley; Isaac,2,2M,Flag Pole,4th Grade Hallway
+IB-4,Hartley; Isaac,2,2M,Maltese,Maltese
+LR-5,Hartley; Isaac,2,2M,4th Grade Hub,4th Grade Hub
+SOC-6,Hartley; Isaac,2,2M,Backfield #5,GYM
+TD-1,Hidalgo; Mila,2,2M,Front Porch,Front Porch
+DC-2,Hidalgo; Mila,2,2M,Huggins 1308,Huggins 1308
+SPA-4,Hidalgo; Mila,2,2M,Brown 1106,Brown 1106
+CL-5,Hidalgo; Mila,2,2M,Outside Door #1,4th Grade Hallway
+FCP-1,Holguin; Aliyah,2,2M,Inside Door 9,Inside Door 9
+PP-2,Holguin; Aliyah,2,2M,Rindt 1208,Rindt 1208
+SLM-3,Holguin; Aliyah,2,2M,Reading Room,Reading Room
+CL-4,Holguin; Aliyah,2,2M,Outside Door #1,4th Grade Hallway
+TD-5,Holguin; Aliyah,2,2M,Front Porch,Front Porch
+IB-6,Holguin; Aliyah,2,2M,Maltese,Maltese
+ER-1,Johnson; Ainsley,2,2M,Library,Library
+CL-2,Johnson; Ainsley,2,2M,Outside Door #1,4th Grade Hallway
+MC-3,Johnson; Ainsley,2,2M,Backfield #3,MPR
+FCP-5,Johnson; Ainsley,2,2M,Inside Door 9,Inside Door 9
+ICE-6,Johnson; Ainsley,2,2M,MPR,MPR
+ROB-1,Juodvalkis; London,2,2M,PACE 1228,PACE 1228
+ORG-2,Juodvalkis; London,2,2M,Bacon 1104,Bacon 1104
+TKD-3,Juodvalkis; London,2,2M,Hall 1318,Hall 1318
+YOG-4,Juodvalkis; London,2,2M,PACE 1228,PACE 1228
+TD-5,Juodvalkis; London,2,2M,Front Porch,Front Porch
+ROB-1,Kendall; Cayden,2,2M,PACE 1228,PACE 1228
+REP-2,Kendall; Cayden,2,2M,Duran 1116,Duran 1116
+OC-3,Kendall; Cayden,2,2M,Backfield #4,Backfield #4
+MC-4,Kendall; Cayden,2,2M,Backfield #3,MPR
+TD-5,Kendall; Cayden,2,2M,Front Porch,Front Porch
+SOC-6,Kendall; Cayden,2,2M,Backfield #5,GYM
+CF-1,Mackin; Colin,2,2M,Backfield #1,3rd Grade Hallway
+FFS-2,Mackin; Colin,2,2M,Outside Door 7,Kirschbaum 1216
+IB-3,Mackin; Colin,2,2M,Maltese,Maltese
+RR-4,Mackin; Colin,2,2M,Outside Door #1,1st Grade Hall
+LR-5,Mackin; Colin,2,2M,4th Grade Hub,4th Grade Hub
+ROB-1,Montiel; Kate,2,2M,PACE 1228,PACE 1228
+SLM-2,Montiel; Kate,2,2M,Reading Room,Reading Room
+FFS-3,Montiel; Kate,2,2M,Outside Door 7,Kirschbaum 1216
+OC-4,Montiel; Kate,2,2M,Backfield #4,Backfield #4
+SOC-5,Montiel; Kate,2,2M,Backfield #5,GYM
+TD-6,Montiel; Kate,2,2M,Front Porch,Front Porch
+ED-1,Podraza; Alexandra,2,2M,Back Playground,Inside Door #11
+ICE-2,Podraza; Alexandra,2,2M,MPR,MPR
+MC-3,Podraza; Alexandra,2,2M,Backfield #3,MPR
+FP-4,Podraza; Alexandra,2,2M,Rindt 1208,Rindt 1208
+CM-5,Podraza; Alexandra,2,2M,MPR,MPR
+SLM-6,Podraza; Alexandra,2,2M,Reading Room,Reading Room
+TUM-1,Radosevich; Rosemary,2,2M,Outside door #13,5th Grade Hallway
+CD-2,Radosevich; Rosemary,2,2M,MPR,MPR
+PP-3,Radosevich; Rosemary,2,2M,Rindt 1208,Rindt 1208
+SLM-4,Radosevich; Rosemary,2,2M,Reading Room,Reading Room
+IB-5,Radosevich; Rosemary,2,2M,Maltese,Maltese
+FP-6,Radosevich; Rosemary,2,2M,Rindt 1208,Rindt 1208
+OC-1,Simms; Molly,2,2M,Backfield #4,Backfield #4
+HH-2,Simms; Molly,2,2M,Georganas 1218,Georganas 1218
+CL-3,Simms; Molly,2,2M,Outside Door #1,4th Grade Hallway
+SLM-4,Simms; Molly,2,2M,Reading Room,Reading Room
+ER-1,Sualeh; Suleiman,2,2M,Library,Library
+BB-2,Sualeh; Suleiman,2,2M,Blacktop,Gym
+ED-3,Sualeh; Suleiman,2,2M,Back Playground,Inside Door #11
+MC-4,Sualeh; Suleiman,2,2M,Backfield #3,MPR
+SLM-5,Sualeh; Suleiman,2,2M,Reading Room,Reading Room
+SOC-6,Sualeh; Suleiman,2,2M,Backfield #5,GYM
+SLM-1,Tolento; Milani,2,2M,Reading Room,Reading Room
+ICE-2,Tolento; Milani,2,2M,MPR,MPR
+REP-3,Tolento; Milani,2,2M,Duran 1116,Duran 1116
+RR-4,Tolento; Milani,2,2M,Outside Door #1,1st Grade Hall
+FFS-5,Tolento; Milani,2,2M,Outside Door 7,Kirschbaum 1216
+FP-6,Tolento; Milani,2,2M,Rindt 1208,Rindt 1208
+SA-1,Villafan Romero; Keily,2,2M,Shargo 1240,Shargo 1240
+BB-2,Villafan Romero; Keily,2,2M,Blacktop,Gym
+MT-3,Villafan Romero; Keily,2,2M,EL 1230,EL 1230
+BG-4,Villafan Romero; Keily,2,2M,Sobotka 1232,Sobotka 1232
+HD-5,Villafan Romero; Keily,2,2M,Deinert 1126,Deinert 1126
+ROB-1,Wills; Ray,2,2M,PACE 1228,PACE 1228
+FF-2,Wills; Ray,2,2M,Backfield #2,2nd Grade Hallway
+BB-3,Wills; Ray,2,2M,Blacktop,Gym
+CD-6,Wills; Ray,2,2M,MPR,MPR
+ER-1,Wolf; Wesley,2,2M,Library,Library
+ED-2,Wolf; Wesley,2,2M,Back Playground,Inside Door #11
+RR-4,Wolf; Wesley,2,2M,Outside Door #1,1st Grade Hall
+CM-5,Wolf; Wesley,2,2M,MPR,MPR
+ROB-1,Bajno-Bojovic; Aleksander,2,2R,PACE 1228,PACE 1228
+CF-2,Bajno-Bojovic; Aleksander,2,2R,Backfield #1,3rd Grade Hallway
+HD-3,Bajno-Bojovic; Aleksander,2,2R,Deinert 1126,Deinert 1126
+HH-4,Bajno-Bojovic; Aleksander,2,2R,Georganas 1218,Georganas 1218
+ORG-5,Bajno-Bojovic; Aleksander,2,2R,Bacon 1104,Bacon 1104
+LR-6,Bajno-Bojovic; Aleksander,2,2R,4th Grade Hub,4th Grade Hub
+OC-1,Burmeister; Anne,2,2R,Backfield #4,Backfield #4
+SLM-2,Burmeister; Anne,2,2R,Reading Room,Reading Room
+LR-3,Burmeister; Anne,2,2R,4th Grade Hub,4th Grade Hub
+SPA-4,Burmeister; Anne,2,2R,Brown 1106,Brown 1106
+TUM-5,Burmeister; Anne,2,2R,Outside door #13,5th Grade Hallway
+CL-6,Burmeister; Anne,2,2R,Outside Door #1,4th Grade Hallway
+ICE-1,Cing; Ngaih,2,2R,MPR,MPR
+SLM-2,Cing; Ngaih,2,2R,Reading Room,Reading Room
+ED-3,Cing; Ngaih,2,2R,Back Playground,Inside Door #11
+CL-4,Cing; Ngaih,2,2R,Outside Door #1,4th Grade Hallway
+FCP-5,Cing; Ngaih,2,2R,Inside Door 9,Inside Door 9
+MC-6,Cing; Ngaih,2,2R,Backfield #3,MPR
+TD-1,Clausen; Andrew,2,2R,Front Porch,Front Porch
+FF-2,Clausen; Andrew,2,2R,Backfield #2,2nd Grade Hallway
+HD-3,Clausen; Andrew,2,2R,Deinert 1126,Deinert 1126
+RR-4,Clausen; Andrew,2,2R,Outside Door #1,1st Grade Hall
+OC-5,Clausen; Andrew,2,2R,Backfield #4,Backfield #4
+CD-6,Clausen; Andrew,2,2R,MPR,MPR
+CF-1,Davis; Wesley,2,2R,Backfield #1,3rd Grade Hallway
+FF-2,Davis; Wesley,2,2R,Backfield #2,2nd Grade Hallway
+OC-3,Davis; Wesley,2,2R,Backfield #4,Backfield #4
+RR-4,Davis; Wesley,2,2R,Outside Door #1,1st Grade Hall
+SOC-5,Davis; Wesley,2,2R,Backfield #5,GYM
+AS-6,Davis; Wesley,2,2R,Flag Pole,4th Grade Hallway
+SA-1,Delacruz; Ehimy,2,2R,Shargo 1240,Shargo 1240
+CF-2,Delacruz; Ehimy,2,2R,Backfield #1,3rd Grade Hallway
+CL-3,Delacruz; Ehimy,2,2R,Outside Door #1,4th Grade Hallway
+CD-4,Delacruz; Ehimy,2,2R,MPR,MPR
+FP-5,Delacruz; Ehimy,2,2R,Rindt 1208,Rindt 1208
+CD-1,Desbles; Eliana,2,2R,MPR,MPR
+CL-2,Desbles; Eliana,2,2R,Outside Door #1,4th Grade Hallway
+DC-3,Desbles; Eliana,2,2R,Huggins 1308,Huggins 1308
+FP-4,Desbles; Eliana,2,2R,Rindt 1208,Rindt 1208
+SLM-5,Desbles; Eliana,2,2R,Reading Room,Reading Room
+TUM-6,Desbles; Eliana,2,2R,Outside door #13,5th Grade Hallway
+CF-1,Dickinson; Isla,2,2R,Backfield #1,3rd Grade Hallway
+CL-2,Dickinson; Isla,2,2R,Outside Door #1,4th Grade Hallway
+TD-3,Dickinson; Isla,2,2R,Front Porch,Front Porch
+SPA-4,Dickinson; Isla,2,2R,Brown 1106,Brown 1106
+ORG-5,Dickinson; Isla,2,2R,Bacon 1104,Bacon 1104
+ROB-1,Garcia; Roman,2,2R,PACE 1228,PACE 1228
+LR-2,Garcia; Roman,2,2R,4th Grade Hub,4th Grade Hub
+FFS-3,Garcia; Roman,2,2R,Outside Door 7,Kirschbaum 1216
+RR-4,Garcia; Roman,2,2R,Outside Door #1,1st Grade Hall
+MC-5,Garcia; Roman,2,2R,Backfield #3,MPR
+ER-1,Gehrig; Reed,2,2R,Library,Library
+CF-2,Gehrig; Reed,2,2R,Backfield #1,3rd Grade Hallway
+SLM-3,Gehrig; Reed,2,2R,Reading Room,Reading Room
+ED-4,Gehrig; Reed,2,2R,Back Playground,Inside Door #11
+OC-5,Gehrig; Reed,2,2R,Backfield #4,Backfield #4
+TD-6,Gehrig; Reed,2,2R,Front Porch,Front Porch
+SA-1,Heath; Aiden,2,2R,Shargo 1240,Shargo 1240
+BB-2,Heath; Aiden,2,2R,Blacktop,Gym
+HD-3,Heath; Aiden,2,2R,Deinert 1126,Deinert 1126
+TD-5,Heath; Aiden,2,2R,Front Porch,Front Porch
+SA-1,Kop; Cing,2,2R,Shargo 1240,Shargo 1240
+BB-2,Kop; Cing,2,2R,Blacktop,Gym
+ED-3,Kop; Cing,2,2R,Back Playground,Inside Door #11
+LR-4,Kop; Cing,2,2R,4th Grade Hub,4th Grade Hub
+SLM-5,Kop; Cing,2,2R,Reading Room,Reading Room
+ER-1,Lagazo; Hermione,2,2R,Library,Library
+PP-2,Lagazo; Hermione,2,2R,Rindt 1208,Rindt 1208
+FCP-3,Lagazo; Hermione,2,2R,Inside Door 9,Inside Door 9
+MOS-4,Lagazo; Hermione,2,2R,Krause 1220,Krause 1220
+OC-5,Lagazo; Hermione,2,2R,Backfield #4,Backfield #4
+ORG-6,Lagazo; Hermione,2,2R,Bacon 1104,Bacon 1104
+CD-1,Letkomiller; Ava,2,2R,MPR,MPR
+OC-2,Letkomiller; Ava,2,2R,Backfield #4,Backfield #4
+GAR-3,Letkomiller; Ava,2,2R,Outside Door 8,Under tent Outside Door 8
+YOG-4,Letkomiller; Ava,2,2R,PACE 1228,PACE 1228
+SOC-5,Letkomiller; Ava,2,2R,Backfield #5,GYM
+TUM-6,Letkomiller; Ava,2,2R,Outside door #13,5th Grade Hallway
+CF-1,Mantel; Liam,2,2R,Backfield #1,3rd Grade Hallway
+FF-2,Mantel; Liam,2,2R,Backfield #2,2nd Grade Hallway
+MT-3,Mantel; Liam,2,2R,EL 1230,EL 1230
+FP-4,Mantel; Liam,2,2R,Rindt 1208,Rindt 1208
+SOC-6,Mantel; Liam,2,2R,Backfield #5,GYM
+CD-1,Mawi; Hannah,2,2R,MPR,MPR
+CM-2,Mawi; Hannah,2,2R,MPR,MPR
+MC-3,Mawi; Hannah,2,2R,Backfield #3,MPR
+ICE-4,Mawi; Hannah,2,2R,MPR,MPR
+VET-6,Mawi; Hannah,2,2R,Music Room,Music Room
+BB-1,Moschetti Marter; Noah,2,2R,Blacktop,Gym
+TKD-2,Moschetti Marter; Noah,2,2R,Hall 1318,Hall 1318
+CD-3,Moschetti Marter; Noah,2,2R,MPR,MPR
+ICE-5,Moschetti Marter; Noah,2,2R,MPR,MPR
+SLM-6,Moschetti Marter; Noah,2,2R,Reading Room,Reading Room
+BB-1,Parker Jr; Jamil,2,2R,Blacktop,Gym
+CF-2,Parker Jr; Jamil,2,2R,Backfield #1,3rd Grade Hallway
+AS-3,Parker Jr; Jamil,2,2R,Flag Pole,4th Grade Hallway
+HH-1,Porter; Elsie,2,2R,Georganas 1218,Georganas 1218
+ER-2,Porter; Elsie,2,2R,Library,Library
+MT-3,Porter; Elsie,2,2R,EL 1230,EL 1230
+RR-4,Porter; Elsie,2,2R,Outside Door #1,1st Grade Hall
+OC-5,Porter; Elsie,2,2R,Backfield #4,Backfield #4
+CL-1,Reilly; Penny,2,2R,Outside Door #1,4th Grade Hallway
+TUM-2,Reilly; Penny,2,2R,Outside door #13,5th Grade Hallway
+CD-3,Reilly; Penny,2,2R,MPR,MPR
+SPA-4,Reilly; Penny,2,2R,Brown 1106,Brown 1106
+HH-5,Reilly; Penny,2,2R,Georganas 1218,Georganas 1218
+ROB-1,Ripsky; Scott,2,2R,PACE 1228,PACE 1228
+CG-2,Ripsky; Scott,2,2R,Mrs. Smith's room,Mrs. Smith's room
+PP-3,Ripsky; Scott,2,2R,Rindt 1208,Rindt 1208
+SPA-4,Ripsky; Scott,2,2R,Brown 1106,Brown 1106
+ICE-5,Ripsky; Scott,2,2R,MPR,MPR
+OC-6,Ripsky; Scott,2,2R,Backfield #4,Backfield #4
+CF-1,Sellers; Landon,2,2R,Backfield #1,3rd Grade Hallway
+ER-2,Sellers; Landon,2,2R,Library,Library
+LR-3,Sellers; Landon,2,2R,4th Grade Hub,4th Grade Hub
+FF-4,Sellers; Landon,2,2R,Backfield #2,2nd Grade Hallway
+TD-5,Sellers; Landon,2,2R,Front Porch,Front Porch
+CL-1,Sewelll; Mia,2,2R,Outside Door #1,4th Grade Hallway
+TKD-2,Sewelll; Mia,2,2R,Hall 1318,Hall 1318
+TUM-3,Sewelll; Mia,2,2R,Outside door #13,5th Grade Hallway
+HH-4,Sewelll; Mia,2,2R,Georganas 1218,Georganas 1218
+FP-5,Sewelll; Mia,2,2R,Rindt 1208,Rindt 1208
+CD-6,Sewelll; Mia,2,2R,MPR,MPR
+BB-1,Swift; Landon,2,2R,Blacktop,Gym
+MC-2,Swift; Landon,2,2R,Backfield #3,MPR
+TKD-3,Swift; Landon,2,2R,Hall 1318,Hall 1318
+RR-4,Swift; Landon,2,2R,Outside Door #1,1st Grade Hall
+PP-1,Tajak; Penny,2,2R,Rindt 1208,Rindt 1208
+HD-2,Tajak; Penny,2,2R,Deinert 1126,Deinert 1126
+FP-4,Tajak; Penny,2,2R,Rindt 1208,Rindt 1208
+SPA-5,Tajak; Penny,2,2R,Brown 1106,Brown 1106
+CM-6,Tajak; Penny,2,2R,MPR,MPR
+SLM-1,Austin; Abigail,3,3G,Reading Room,Reading Room
+CM-2,Austin; Abigail,3,3G,MPR,MPR
+FFS-3,Austin; Abigail,3,3G,Outside Door 7,Kirschbaum 1216
+VET-4,Austin; Abigail,3,3G,Music Room,Music Room
+OC-5,Austin; Abigail,3,3G,Backfield #4,Backfield #4
+RR-1,Buschardt; Sophia,3,3G,Outside Door #1,1st Grade Hall
+SPA-2,Buschardt; Sophia,3,3G,Brown 1106,Brown 1106
+TD-3,Buschardt; Sophia,3,3G,Front Porch,Front Porch
+PB-4,Buschardt; Sophia,3,3G,Blacktop (near gagaball),Gym
+OC-5,Buschardt; Sophia,3,3G,Backfield #4,Backfield #4
+HH-6,Buschardt; Sophia,3,3G,Georganas 1218,Georganas 1218
+SOC-1,Chaing; Andrew,3,3G,Backfield #5,GYM
+BM-2,Chaing; Andrew,3,3G,Newhouse 1242,Newhouse 1242
+MC-3,Chaing; Andrew,3,3G,Backfield #3,MPR
+ORG-4,Chaing; Andrew,3,3G,Bacon 1104,Bacon 1104
+ER-5,Chaing; Andrew,3,3G,Library,Library
+ICE-6,Chaing; Andrew,3,3G,MPR,MPR
+OC-1,Dandy; Owen,3,3G,Backfield #4,Backfield #4
+SOC-2,Dandy; Owen,3,3G,Backfield #5,GYM
+REP-3,Dandy; Owen,3,3G,Duran 1116,Duran 1116
+PB-4,Dandy; Owen,3,3G,Blacktop (near gagaball),Gym
+TD-5,Dandy; Owen,3,3G,Front Porch,Front Porch
+LR-6,Dandy; Owen,3,3G,4th Grade Hub,4th Grade Hub
+OC-1,Desbles; Bennett,3,3G,Backfield #4,Backfield #4
+ROB-2,Desbles; Bennett,3,3G,PACE 1228,PACE 1228
+SOC-3,Desbles; Bennett,3,3G,Backfield #5,GYM
+MC-4,Desbles; Bennett,3,3G,Backfield #3,MPR
+CF-5,Desbles; Bennett,3,3G,Backfield #1,3rd Grade Hallway
+OC-1,Herda; Dylan,3,3G,Backfield #4,Backfield #4
+ED-2,Herda; Dylan,3,3G,Back Playground,Inside Door #11
+BB-3,Herda; Dylan,3,3G,Blacktop,Gym
+CF-4,Herda; Dylan,3,3G,Backfield #1,3rd Grade Hallway
+FF-6,Herda; Dylan,3,3G,Backfield #2,2nd Grade Hallway
+CD-1,Iang; Tha,3,3G,MPR,MPR
+ICE-2,Iang; Tha,3,3G,MPR,MPR
+SLM-3,Iang; Tha,3,3G,Reading Room,Reading Room
+TD-4,Iang; Tha,3,3G,Front Porch,Front Porch
+CL-5,Iang; Tha,3,3G,Outside Door #1,4th Grade Hallway
+OC-1,Jackson; Ivory,3,3G,Backfield #4,Backfield #4
+SA-2,Jackson; Ivory,3,3G,Shargo 1240,Shargo 1240
+ROB-3,Jackson; Ivory,3,3G,PACE 1228,PACE 1228
+LR-4,Jackson; Ivory,3,3G,4th Grade Hub,4th Grade Hub
+MC-5,Jackson; Ivory,3,3G,Backfield #3,MPR
+MT-6,Jackson; Ivory,3,3G,EL 1230,EL 1230
+SOC-1,Jarquin Lopez; Rafael,3,3G,Backfield #5,GYM
+SLM-2,Jarquin Lopez; Rafael,3,3G,Reading Room,Reading Room
+CG-3,Jarquin Lopez; Rafael,3,3G,Mrs. Smith's room,Mrs. Smith's room
+ED-4,Jarquin Lopez; Rafael,3,3G,Back Playground,Inside Door #11
+PB-5,Jarquin Lopez; Rafael,3,3G,Blacktop (near gagaball),Gym
+CD-6,Jarquin Lopez; Rafael,3,3G,MPR,MPR
+SOC-1,Khan; Khizr,3,3G,Backfield #5,GYM
+DC-2,Khan; Khizr,3,3G,Huggins 1308,Huggins 1308
+IB-3,Khan; Khizr,3,3G,Maltese,Maltese
+TD-4,Khan; Khizr,3,3G,Front Porch,Front Porch
+OC-5,Khan; Khizr,3,3G,Backfield #4,Backfield #4
+ORG-6,Khan; Khizr,3,3G,Bacon 1104,Bacon 1104
+REP-1,Lichtenheld; Sloane,3,3G,Duran 1116,Duran 1116
+CG-2,Lichtenheld; Sloane,3,3G,Mrs. Smith's room,Mrs. Smith's room
+BB-3,Lichtenheld; Sloane,3,3G,Blacktop,Gym
+SPA-4,Lichtenheld; Sloane,3,3G,Brown 1106,Brown 1106
+MT-5,Lichtenheld; Sloane,3,3G,EL 1230,EL 1230
+SLM-6,Lichtenheld; Sloane,3,3G,Reading Room,Reading Room
+TUM-1,McKenna; Clara,3,3G,Outside door #13,5th Grade Hallway
+SLM-2,McKenna; Clara,3,3G,Reading Room,Reading Room
+TD-3,McKenna; Clara,3,3G,Front Porch,Front Porch
+FCP-4,McKenna; Clara,3,3G,Inside Door 9,Inside Door 9
+CD-5,McKenna; Clara,3,3G,MPR,MPR
+HH-6,McKenna; Clara,3,3G,Georganas 1218,Georganas 1218
+TUM-1,Mikolas; Charlotte,3,3G,Outside door #13,5th Grade Hallway
+OC-2,Mikolas; Charlotte,3,3G,Backfield #4,Backfield #4
+TKD-3,Mikolas; Charlotte,3,3G,Hall 1318,Hall 1318
+YOG-5,Mikolas; Charlotte,3,3G,PACE 1228,PACE 1228
+RR-1,Petrat; Isabella,3,3G,Outside Door #1,1st Grade Hall
+TD-2,Petrat; Isabella,3,3G,Front Porch,Front Porch
+SPA-3,Petrat; Isabella,3,3G,Brown 1106,Brown 1106
+PB-4,Petrat; Isabella,3,3G,Blacktop (near gagaball),Gym
+OC-5,Petrat; Isabella,3,3G,Backfield #4,Backfield #4
+HH-6,Petrat; Isabella,3,3G,Georganas 1218,Georganas 1218
+LR-1,Priest; Ryker,3,3G,4th Grade Hub,4th Grade Hub
+ROB-2,Priest; Ryker,3,3G,PACE 1228,PACE 1228
+CF-3,Priest; Ryker,3,3G,Backfield #1,3rd Grade Hallway
+MT-4,Priest; Ryker,3,3G,EL 1230,EL 1230
+FF-6,Priest; Ryker,3,3G,Backfield #2,2nd Grade Hallway
+TUM-1,Robinson; Diyani,3,3G,Outside door #13,5th Grade Hallway
+SLM-2,Robinson; Diyani,3,3G,Reading Room,Reading Room
+TD-3,Robinson; Diyani,3,3G,Front Porch,Front Porch
+OC-4,Robinson; Diyani,3,3G,Backfield #4,Backfield #4
+MC-5,Robinson; Diyani,3,3G,Backfield #3,MPR
+ED-6,Robinson; Diyani,3,3G,Back Playground,Inside Door #11
+BG-1,Rodela; Gabriel,3,3G,Sobotka 1232,Sobotka 1232
+HD-2,Rodela; Gabriel,3,3G,Deinert 1126,Deinert 1126
+MOS-3,Rodela; Gabriel,3,3G,Krause 1220,Krause 1220
+OC-4,Rodela; Gabriel,3,3G,Backfield #4,Backfield #4
+ORG-5,Rodela; Gabriel,3,3G,Bacon 1104,Bacon 1104
+SOC-1,Saenz; Neeko,3,3G,Backfield #5,GYM
+TKD-2,Saenz; Neeko,3,3G,Hall 1318,Hall 1318
+FF-3,Saenz; Neeko,3,3G,Backfield #2,2nd Grade Hallway
+BB-4,Saenz; Neeko,3,3G,Blacktop,Gym
+CF-5,Saenz; Neeko,3,3G,Backfield #1,3rd Grade Hallway
+LR-6,Saenz; Neeko,3,3G,4th Grade Hub,4th Grade Hub
+TRV-1,Sigmund; Jack,3,3G,Martinez - 1112,Martinez - 1112
+TD-2,Sigmund; Jack,3,3G,Front Porch,Front Porch
+FF-3,Sigmund; Jack,3,3G,Backfield #2,2nd Grade Hallway
+BB-4,Sigmund; Jack,3,3G,Blacktop,Gym
+SLM-5,Sigmund; Jack,3,3G,Reading Room,Reading Room
+FFS-6,Sigmund; Jack,3,3G,Outside Door 7,Kirschbaum 1216
+SA-1,Stein; Madeline,3,3G,Shargo 1240,Shargo 1240
+RR-2,Stein; Madeline,3,3G,Outside Door #1,1st Grade Hall
+BG-3,Stein; Madeline,3,3G,Sobotka 1232,Sobotka 1232
+OC-4,Stein; Madeline,3,3G,Backfield #4,Backfield #4
+CL-5,Stein; Madeline,3,3G,Outside Door #1,4th Grade Hallway
+SPA-6,Stein; Madeline,3,3G,Brown 1106,Brown 1106
+PP-1,Tuang; Khan,3,3G,Rindt 1208,Rindt 1208
+ICE-2,Tuang; Khan,3,3G,MPR,MPR
+LR-3,Tuang; Khan,3,3G,4th Grade Hub,4th Grade Hub
+MC-4,Tuang; Khan,3,3G,Backfield #3,MPR
+CL-5,Tuang; Khan,3,3G,Outside Door #1,4th Grade Hallway
+CM-6,Tuang; Khan,3,3G,MPR,MPR
+AS-1,White; Sam,3,3G,Flag Pole,4th Grade Hallway
+FFS-2,White; Sam,3,3G,Outside Door 7,Kirschbaum 1216
+FF-3,White; Sam,3,3G,Backfield #2,2nd Grade Hallway
+BB-4,White; Sam,3,3G,Blacktop,Gym
+MC-5,White; Sam,3,3G,Backfield #3,MPR
+SOC-1,Abdalla; Mohamed,3,3Ki,Backfield #5,GYM
+FH-2,Abdalla; Mohamed,3,3Ki,Gym,Gym
+TKD-3,Abdalla; Mohamed,3,3Ki,Hall 1318,Hall 1318
+OC-4,Abdalla; Mohamed,3,3Ki,Backfield #4,Backfield #4
+CF-5,Abdalla; Mohamed,3,3Ki,Backfield #1,3rd Grade Hallway
+CD-6,Abdalla; Mohamed,3,3Ki,MPR,MPR
+SLM-1,Caldarola; Elena,3,3Ki,Reading Room,Reading Room
+MT-2,Caldarola; Elena,3,3Ki,EL 1230,EL 1230
+CL-3,Caldarola; Elena,3,3Ki,Outside Door #1,4th Grade Hallway
+CM-4,Caldarola; Elena,3,3Ki,MPR,MPR
+ED-5,Caldarola; Elena,3,3Ki,Back Playground,Inside Door #11
+FCP-1,Cing; Dim,3,3Ki,Inside Door 9,Inside Door 9
+BM-2,Cing; Dim,3,3Ki,Newhouse 1242,Newhouse 1242
+IB-3,Cing; Dim,3,3Ki,Maltese,Maltese
+SLM-4,Cing; Dim,3,3Ki,Reading Room,Reading Room
+ORG-5,Cing; Dim,3,3Ki,Bacon 1104,Bacon 1104
+OC-6,Cing; Dim,3,3Ki,Backfield #4,Backfield #4
+SOC-1,Cunningham; Journey,3,3Ki,Backfield #5,GYM
+SLM-2,Cunningham; Journey,3,3Ki,Reading Room,Reading Room
+HH-3,Cunningham; Journey,3,3Ki,Georganas 1218,Georganas 1218
+FFS-4,Cunningham; Journey,3,3Ki,Outside Door 7,Kirschbaum 1216
+CM-5,Cunningham; Journey,3,3Ki,MPR,MPR
+VET-6,Cunningham; Journey,3,3Ki,Music Room,Music Room
+ED-1,Garlt; Liliana,3,3Ki,Back Playground,Inside Door #11
+ROB-2,Garlt; Liliana,3,3Ki,PACE 1228,PACE 1228
+TKD-3,Garlt; Liliana,3,3Ki,Hall 1318,Hall 1318
+CM-4,Garlt; Liliana,3,3Ki,MPR,MPR
+CF-5,Garlt; Liliana,3,3Ki,Backfield #1,3rd Grade Hallway
+MT-1,Gentry; Noah,3,3Ki,EL 1230,EL 1230
+FCP-2,Gentry; Noah,3,3Ki,Inside Door 9,Inside Door 9
+ICE-3,Gentry; Noah,3,3Ki,MPR,MPR
+VET-4,Gentry; Noah,3,3Ki,Music Room,Music Room
+CM-5,Gentry; Noah,3,3Ki,MPR,MPR
+SLM-6,Gentry; Noah,3,3Ki,Reading Room,Reading Room
+CL-1,Johnson; Gina,3,3Ki,Outside Door #1,4th Grade Hallway
+PP-2,Johnson; Gina,3,3Ki,Rindt 1208,Rindt 1208
+IB-3,Johnson; Gina,3,3Ki,Maltese,Maltese
+VET-4,Johnson; Gina,3,3Ki,Music Room,Music Room
+TUM-5,Johnson; Gina,3,3Ki,Outside door #13,5th Grade Hallway
+TD-2,Koechling; Henry,3,3Ki,Front Porch,Front Porch
+FF-3,Koechling; Henry,3,3Ki,Backfield #2,2nd Grade Hallway
+SOC-4,Koechling; Henry,3,3Ki,Backfield #5,GYM
+PB-5,Koechling; Henry,3,3Ki,Blacktop (near gagaball),Gym
+VET-6,Koechling; Henry,3,3Ki,Music Room,Music Room
+HD-1,Lucero; CJ,3,3Ki,Deinert 1126,Deinert 1126
+REP-2,Lucero; CJ,3,3Ki,Duran 1116,Duran 1116
+CM-3,Lucero; CJ,3,3Ki,MPR,MPR
+CD-4,Lucero; CJ,3,3Ki,MPR,MPR
+ED-5,Lucero; CJ,3,3Ki,Back Playground,Inside Door #11
+SOC-1,Mendez Zamora; James,3,3Ki,Backfield #5,GYM
+OC-2,Mendez Zamora; James,3,3Ki,Backfield #4,Backfield #4
+BB-3,Mendez Zamora; James,3,3Ki,Blacktop,Gym
+SLM-4,Mendez Zamora; James,3,3Ki,Reading Room,Reading Room
+CF-6,Mendez Zamora; James,3,3Ki,Backfield #1,3rd Grade Hallway
+RR-1,Mesfin; Efrata,3,3Ki,Outside Door #1,1st Grade Hall
+OC-2,Mesfin; Efrata,3,3Ki,Backfield #4,Backfield #4
+CL-4,Mesfin; Efrata,3,3Ki,Outside Door #1,4th Grade Hallway
+SLM-5,Mesfin; Efrata,3,3Ki,Reading Room,Reading Room
+CM-1,Meza Alvarado; Samir,3,3Ki,MPR,MPR
+CG-2,Meza Alvarado; Samir,3,3Ki,Mrs. Smith's room,Mrs. Smith's room
+CF-3,Meza Alvarado; Samir,3,3Ki,Backfield #1,3rd Grade Hallway
+LR-4,Meza Alvarado; Samir,3,3Ki,4th Grade Hub,4th Grade Hub
+MC-5,Meza Alvarado; Samir,3,3Ki,Backfield #3,MPR
+GAR-1,Minyakov; Daisy,3,3Ki,Outside Door 8,Under tent Outside Door 8
+PP-2,Minyakov; Daisy,3,3Ki,Rindt 1208,Rindt 1208
+SPA-3,Minyakov; Daisy,3,3Ki,Brown 1106,Brown 1106
+TUM-4,Minyakov; Daisy,3,3Ki,Outside door #13,5th Grade Hallway
+ORG-5,Minyakov; Daisy,3,3Ki,Bacon 1104,Bacon 1104
+IB-6,Minyakov; Daisy,3,3Ki,Maltese,Maltese
+OC-1,Ortiz; Elia,3,3Ki,Backfield #4,Backfield #4
+ROB-2,Ortiz; Elia,3,3Ki,PACE 1228,PACE 1228
+REP-3,Ortiz; Elia,3,3Ki,Duran 1116,Duran 1116
+SLM-4,Ortiz; Elia,3,3Ki,Reading Room,Reading Room
+CM-5,Ortiz; Elia,3,3Ki,MPR,MPR
+IB-1,Ouoba; Jayden,3,3Ki,Maltese,Maltese
+ED-2,Ouoba; Jayden,3,3Ki,Back Playground,Inside Door #11
+BB-3,Ouoba; Jayden,3,3Ki,Blacktop,Gym
+SLM-4,Ouoba; Jayden,3,3Ki,Reading Room,Reading Room
+CM-6,Ouoba; Jayden,3,3Ki,MPR,MPR
+MC-1,Schaber; Avery,3,3Ki,Backfield #3,MPR
+PP-2,Schaber; Avery,3,3Ki,Rindt 1208,Rindt 1208
+REP-3,Schaber; Avery,3,3Ki,Duran 1116,Duran 1116
+SLM-4,Schaber; Avery,3,3Ki,Reading Room,Reading Room
+TUM-6,Schaber; Avery,3,3Ki,Outside door #13,5th Grade Hallway
+TD-1,Schulte; Owen,3,3Ki,Front Porch,Front Porch
+SOC-2,Schulte; Owen,3,3Ki,Backfield #5,GYM
+FF-3,Schulte; Owen,3,3Ki,Backfield #2,2nd Grade Hallway
+CF-4,Schulte; Owen,3,3Ki,Backfield #1,3rd Grade Hallway
+HD-5,Schulte; Owen,3,3Ki,Deinert 1126,Deinert 1126
+ED-6,Schulte; Owen,3,3Ki,Back Playground,Inside Door #11
+TUM-2,Sharkey; Makayla,3,3Ki,Outside door #13,5th Grade Hallway
+SPA-3,Sharkey; Makayla,3,3Ki,Brown 1106,Brown 1106
+SLM-4,Sharkey; Makayla,3,3Ki,Reading Room,Reading Room
+YOG-5,Sharkey; Makayla,3,3Ki,PACE 1228,PACE 1228
+CL-6,Sharkey; Makayla,3,3Ki,Outside Door #1,4th Grade Hallway
+REP-1,Stoner; Jenson,3,3Ki,Duran 1116,Duran 1116
+CM-2,Stoner; Jenson,3,3Ki,MPR,MPR
+FF-3,Stoner; Jenson,3,3Ki,Backfield #2,2nd Grade Hallway
+CF-4,Stoner; Jenson,3,3Ki,Backfield #1,3rd Grade Hallway
+FFS-5,Stoner; Jenson,3,3Ki,Outside Door 7,Kirschbaum 1216
+VET-6,Stoner; Jenson,3,3Ki,Music Room,Music Room
+OI-1,Stroe; Agatha,3,3Ki,Poch - 1306,Poch - 1306
+GAR-2,Stroe; Agatha,3,3Ki,Outside Door 8,Under tent Outside Door 8
+DC-3,Stroe; Agatha,3,3Ki,Huggins 1308,Huggins 1308
+VET-4,Stroe; Agatha,3,3Ki,Music Room,Music Room
+REP-1,Valdez Esquivel; Dominick,3,3Ki,Duran 1116,Duran 1116
+CM-2,Valdez Esquivel; Dominick,3,3Ki,MPR,MPR
+FF-3,Valdez Esquivel; Dominick,3,3Ki,Backfield #2,2nd Grade Hallway
+CF-4,Valdez Esquivel; Dominick,3,3Ki,Backfield #1,3rd Grade Hallway
+FFS-5,Valdez Esquivel; Dominick,3,3Ki,Outside Door 7,Kirschbaum 1216
+VET-6,Valdez Esquivel; Dominick,3,3Ki,Music Room,Music Room
+REP-1,Walker; Trayvon,3,3Ki,Duran 1116,Duran 1116
+SLM-2,Walker; Trayvon,3,3Ki,Reading Room,Reading Room
+FF-3,Walker; Trayvon,3,3Ki,Backfield #2,2nd Grade Hallway
+OC-4,Walker; Trayvon,3,3Ki,Backfield #4,Backfield #4
+IB-5,Walker; Trayvon,3,3Ki,Maltese,Maltese
+MOS-6,Walker; Trayvon,3,3Ki,Krause 1220,Krause 1220
+OI-1,Wirth; Maverick,3,3Ki,Poch - 1306,Poch - 1306
+SLM-2,Wirth; Maverick,3,3Ki,Reading Room,Reading Room
+TKD-3,Wirth; Maverick,3,3Ki,Hall 1318,Hall 1318
+FP-4,Wirth; Maverick,3,3Ki,Rindt 1208,Rindt 1208
+ER-5,Wirth; Maverick,3,3Ki,Library,Library
+OC-6,Wirth; Maverick,3,3Ki,Backfield #4,Backfield #4
+SOC-1,Yusubov; Omar,3,3Ki,Backfield #5,GYM
+TKD-2,Yusubov; Omar,3,3Ki,Hall 1318,Hall 1318
+FF-3,Yusubov; Omar,3,3Ki,Backfield #2,2nd Grade Hallway
+CM-4,Yusubov; Omar,3,3Ki,MPR,MPR
+CD-6,Yusubov; Omar,3,3Ki,MPR,MPR
+RR-1,Biggs; Austin,3,3Kr,Outside Door #1,1st Grade Hall
+LR-2,Biggs; Austin,3,3Kr,4th Grade Hub,4th Grade Hub
+FF-3,Biggs; Austin,3,3Kr,Backfield #2,2nd Grade Hallway
+ED-4,Biggs; Austin,3,3Kr,Back Playground,Inside Door #11
+CF-5,Biggs; Austin,3,3Kr,Backfield #1,3rd Grade Hallway
+VET-6,Biggs; Austin,3,3Kr,Music Room,Music Room
+TUM-1,Boike; Samantha,3,3Kr,Outside door #13,5th Grade Hallway
+CL-2,Boike; Samantha,3,3Kr,Outside Door #1,4th Grade Hallway
+MT-3,Boike; Samantha,3,3Kr,EL 1230,EL 1230
+IB-4,Boike; Samantha,3,3Kr,Maltese,Maltese
+TD-5,Boike; Samantha,3,3Kr,Front Porch,Front Porch
+ORG-6,Boike; Samantha,3,3Kr,Bacon 1104,Bacon 1104
+CD-1,Cesarone; Hannah,3,3Kr,MPR,MPR
+PP-2,Cesarone; Hannah,3,3Kr,Rindt 1208,Rindt 1208
+OC-3,Cesarone; Hannah,3,3Kr,Backfield #4,Backfield #4
+TUM-4,Cesarone; Hannah,3,3Kr,Outside door #13,5th Grade Hallway
+GAR-5,Cesarone; Hannah,3,3Kr,Outside Door 8,Under tent Outside Door 8
+IB-6,Cesarone; Hannah,3,3Kr,Maltese,Maltese
+AS-1,Colton; Jacob,3,3Kr,Flag Pole,4th Grade Hallway
+TD-2,Colton; Jacob,3,3Kr,Front Porch,Front Porch
+FF-3,Colton; Jacob,3,3Kr,Backfield #2,2nd Grade Hallway
+BB-4,Colton; Jacob,3,3Kr,Blacktop,Gym
+OC-5,Colton; Jacob,3,3Kr,Backfield #4,Backfield #4
+CF-6,Colton; Jacob,3,3Kr,Backfield #1,3rd Grade Hallway
+SOC-1,Cuateco Urue; Giovanni,3,3Kr,Backfield #5,GYM
+CD-2,Cuateco Urue; Giovanni,3,3Kr,MPR,MPR
+BB-3,Cuateco Urue; Giovanni,3,3Kr,Blacktop,Gym
+CM-4,Cuateco Urue; Giovanni,3,3Kr,MPR,MPR
+CF-6,Cuateco Urue; Giovanni,3,3Kr,Backfield #1,3rd Grade Hallway
+SOC-1,DeGroot; Bennett,3,3Kr,Backfield #5,GYM
+SLM-2,DeGroot; Bennett,3,3Kr,Reading Room,Reading Room
+LR-3,DeGroot; Bennett,3,3Kr,4th Grade Hub,4th Grade Hub
+TD-4,DeGroot; Bennett,3,3Kr,Front Porch,Front Porch
+AS-5,DeGroot; Bennett,3,3Kr,Flag Pole,4th Grade Hallway
+HD-1,Ehorn; Miles,3,3Kr,Deinert 1126,Deinert 1126
+OC-2,Ehorn; Miles,3,3Kr,Backfield #4,Backfield #4
+ROB-3,Ehorn; Miles,3,3Kr,PACE 1228,PACE 1228
+AS-4,Ehorn; Miles,3,3Kr,Flag Pole,4th Grade Hallway
+CF-5,Ehorn; Miles,3,3Kr,Backfield #1,3rd Grade Hallway
+ER-6,Ehorn; Miles,3,3Kr,Library,Library
+SOC-1,Flores; Santiago,3,3Kr,Backfield #5,GYM
+RR-2,Flores; Santiago,3,3Kr,Outside Door #1,1st Grade Hall
+LR-3,Flores; Santiago,3,3Kr,4th Grade Hub,4th Grade Hub
+BG-4,Flores; Santiago,3,3Kr,Sobotka 1232,Sobotka 1232
+ER-6,Flores; Santiago,3,3Kr,Library,Library
+FCP-1,Gaeta; Eva,3,3Kr,Inside Door 9,Inside Door 9
+BM-2,Gaeta; Eva,3,3Kr,Newhouse 1242,Newhouse 1242
+IB-3,Gaeta; Eva,3,3Kr,Maltese,Maltese
+SLM-4,Gaeta; Eva,3,3Kr,Reading Room,Reading Room
+ORG-5,Gaeta; Eva,3,3Kr,Bacon 1104,Bacon 1104
+OC-6,Gaeta; Eva,3,3Kr,Backfield #4,Backfield #4
+RR-1,Hall; Jacob,3,3Kr,Outside Door #1,1st Grade Hall
+ROB-2,Hall; Jacob,3,3Kr,PACE 1228,PACE 1228
+OC-3,Hall; Jacob,3,3Kr,Backfield #4,Backfield #4
+ED-4,Hall; Jacob,3,3Kr,Back Playground,Inside Door #11
+CF-5,Hall; Jacob,3,3Kr,Backfield #1,3rd Grade Hallway
+TUM-1,Johnston; Avelinn,3,3Kr,Outside door #13,5th Grade Hallway
+OC-2,Johnston; Avelinn,3,3Kr,Backfield #4,Backfield #4
+REP-3,Johnston; Avelinn,3,3Kr,Duran 1116,Duran 1116
+TKD-4,Johnston; Avelinn,3,3Kr,Hall 1318,Hall 1318
+BM-1,Jovic; Melanija,3,3Kr,Newhouse 1242,Newhouse 1242
+TD-2,Jovic; Melanija,3,3Kr,Front Porch,Front Porch
+CL-3,Jovic; Melanija,3,3Kr,Outside Door #1,4th Grade Hallway
+HH-4,Jovic; Melanija,3,3Kr,Georganas 1218,Georganas 1218
+GAR-5,Jovic; Melanija,3,3Kr,Outside Door 8,Under tent Outside Door 8
+ICE-6,Jovic; Melanija,3,3Kr,MPR,MPR
+BM-1,Leon Gonzalez; Sophia,3,3Kr,Newhouse 1242,Newhouse 1242
+SA-2,Leon Gonzalez; Sophia,3,3Kr,Shargo 1240,Shargo 1240
+SLM-3,Leon Gonzalez; Sophia,3,3Kr,Reading Room,Reading Room
+TD-4,Leon Gonzalez; Sophia,3,3Kr,Front Porch,Front Porch
+CD-6,Leon Gonzalez; Sophia,3,3Kr,MPR,MPR
+GAR-1,Liccar; Lydia,3,3Kr,Outside Door 8,Under tent Outside Door 8
+HD-2,Liccar; Lydia,3,3Kr,Deinert 1126,Deinert 1126
+SPA-3,Liccar; Lydia,3,3Kr,Brown 1106,Brown 1106
+OC-4,Liccar; Lydia,3,3Kr,Backfield #4,Backfield #4
+AS-5,Liccar; Lydia,3,3Kr,Flag Pole,4th Grade Hallway
+PB-6,Liccar; Lydia,3,3Kr,Blacktop (near gagaball),Gym
+CM-1,Moschetti Marter; Liliana,3,3Kr,MPR,MPR
+MC-2,Moschetti Marter; Liliana,3,3Kr,Backfield #3,MPR
+FCP-4,Moschetti Marter; Liliana,3,3Kr,Inside Door 9,Inside Door 9
+ICE-5,Moschetti Marter; Liliana,3,3Kr,MPR,MPR
+TD-6,Moschetti Marter; Liliana,3,3Kr,Front Porch,Front Porch
+BM-1,Pacer; Annelise,3,3Kr,Newhouse 1242,Newhouse 1242
+SA-2,Pacer; Annelise,3,3Kr,Shargo 1240,Shargo 1240
+TUM-4,Pacer; Annelise,3,3Kr,Outside door #13,5th Grade Hallway
+OC-5,Pacer; Annelise,3,3Kr,Backfield #4,Backfield #4
+CL-6,Pacer; Annelise,3,3Kr,Outside Door #1,4th Grade Hallway
+FH-1,Peterson; Cooper,3,3Kr,Gym,Gym
+ED-2,Peterson; Cooper,3,3Kr,Back Playground,Inside Door #11
+FF-3,Peterson; Cooper,3,3Kr,Backfield #2,2nd Grade Hallway
+MC-4,Peterson; Cooper,3,3Kr,Backfield #3,MPR
+CF-5,Peterson; Cooper,3,3Kr,Backfield #1,3rd Grade Hallway
+ICE-6,Peterson; Cooper,3,3Kr,MPR,MPR
+SOC-1,Petrat; Max,3,3Kr,Backfield #5,GYM
+OC-2,Petrat; Max,3,3Kr,Backfield #4,Backfield #4
+CF-3,Petrat; Max,3,3Kr,Backfield #1,3rd Grade Hallway
+IB-4,Petrat; Max,3,3Kr,Maltese,Maltese
+AS-5,Petrat; Max,3,3Kr,Flag Pole,4th Grade Hallway
+LR-6,Petrat; Max,3,3Kr,4th Grade Hub,4th Grade Hub
+BM-1,Serrano; Natalie,3,3Kr,Newhouse 1242,Newhouse 1242
+PP-2,Serrano; Natalie,3,3Kr,Rindt 1208,Rindt 1208
+SLM-3,Serrano; Natalie,3,3Kr,Reading Room,Reading Room
+HD-4,Serrano; Natalie,3,3Kr,Deinert 1126,Deinert 1126
+CM-5,Serrano; Natalie,3,3Kr,MPR,MPR
+CD-6,Serrano; Natalie,3,3Kr,MPR,MPR
+REP-1,Stefanik; Ethan,3,3Kr,Duran 1116,Duran 1116
+FFS-2,Stefanik; Ethan,3,3Kr,Outside Door 7,Kirschbaum 1216
+SLM-3,Stefanik; Ethan,3,3Kr,Reading Room,Reading Room
+ICE-5,Stefanik; Ethan,3,3Kr,MPR,MPR
+ER-6,Stefanik; Ethan,3,3Kr,Library,Library
+ED-1,Swift; Beckham,3,3Kr,Back Playground,Inside Door #11
+MC-2,Swift; Beckham,3,3Kr,Backfield #3,MPR
+BB-3,Swift; Beckham,3,3Kr,Blacktop,Gym
+TKD-4,Swift; Beckham,3,3Kr,Hall 1318,Hall 1318
+VET-5,Swift; Beckham,3,3Kr,Music Room,Music Room
+TD-1,Thang; Andrew,3,3Kr,Front Porch,Front Porch
+LR-2,Thang; Andrew,3,3Kr,4th Grade Hub,4th Grade Hub
+ORG-3,Thang; Andrew,3,3Kr,Bacon 1104,Bacon 1104
+GAR-4,Thang; Andrew,3,3Kr,Outside Door 8,Under tent Outside Door 8
+SLM-5,Thang; Andrew,3,3Kr,Reading Room,Reading Room
+IB-6,Thang; Andrew,3,3Kr,Maltese,Maltese
+BM-1,Win; Julia,3,3Kr,Newhouse 1242,Newhouse 1242
+SLM-2,Win; Julia,3,3Kr,Reading Room,Reading Room
+TD-3,Win; Julia,3,3Kr,Front Porch,Front Porch
+TD-1,Ahmed; Yosef,4,4N,Front Porch,Front Porch
+REP-2,Ahmed; Yosef,4,4N,Duran 1116,Duran 1116
+HD-3,Ahmed; Yosef,4,4N,Deinert 1126,Deinert 1126
+DCT-4,Ahmed; Yosef,4,4N,Huggins 1308,Huggins 1308
+LR-5,Ahmed; Yosef,4,4N,4th Grade Hub,4th Grade Hub
+MOS-6,Ahmed; Yosef,4,4N,Krause 1220,Krause 1220
+COD-1,Azad; Neeyah,4,4N,Library,Library
+FFS-2,Azad; Neeyah,4,4N,Outside Door 7,Kirschbaum 1216
+CF-3,Azad; Neeyah,4,4N,Backfield #1,3rd Grade Hallway
+BB-4,Azad; Neeyah,4,4N,Blacktop,Gym
+FF-5,Azad; Neeyah,4,4N,Backfield #2,2nd Grade Hallway
+SLM-6,Azad; Neeyah,4,4N,Reading Room,Reading Room
+ICE-1,Brand; Aidan,4,4N,MPR,MPR
+HD-2,Brand; Aidan,4,4N,Deinert 1126,Deinert 1126
+DC-3,Brand; Aidan,4,4N,Huggins 1308,Huggins 1308
+BB-4,Brand; Aidan,4,4N,Blacktop,Gym
+CF-5,Brand; Aidan,4,4N,Backfield #1,3rd Grade Hallway
+OC-6,Brand; Aidan,4,4N,Backfield #4,Backfield #4
+BM-1,Dafelseed; Moontaha,4,4N,Newhouse 1242,Newhouse 1242
+MC-2,Dafelseed; Moontaha,4,4N,Backfield #3,MPR
+BB-4,Dafelseed; Moontaha,4,4N,Blacktop,Gym
+ICE-5,Dafelseed; Moontaha,4,4N,MPR,MPR
+RR-1,Halperin; Hailey,4,4N,Outside Door #1,1st Grade Hall
+SOC-2,Halperin; Hailey,4,4N,Backfield #5,GYM
+AS-3,Halperin; Hailey,4,4N,Flag Pole,4th Grade Hallway
+ER-4,Halperin; Hailey,4,4N,Library,Library
+YOG-5,Halperin; Hailey,4,4N,PACE 1228,PACE 1228
+SPA-6,Halperin; Hailey,4,4N,Brown 1106,Brown 1106
+FF-1,Hernandez; Alex,4,4N,Backfield #2,2nd Grade Hallway
+SOC-2,Hernandez; Alex,4,4N,Backfield #5,GYM
+TD-3,Hernandez; Alex,4,4N,Front Porch,Front Porch
+GAR-4,Hernandez; Alex,4,4N,Outside Door 8,Under tent Outside Door 8
+PB-5,Hernandez; Alex,4,4N,Blacktop (near gagaball),Gym
+ER-6,Hernandez; Alex,4,4N,Library,Library
+FF-1,Hoffman; Wyatt,4,4N,Backfield #2,2nd Grade Hallway
+BB-4,Hoffman; Wyatt,4,4N,Blacktop,Gym
+CF-5,Hoffman; Wyatt,4,4N,Backfield #1,3rd Grade Hallway
+ICE-6,Hoffman; Wyatt,4,4N,MPR,MPR
+FF-1,Hudzik; MJ,4,4N,Backfield #2,2nd Grade Hallway
+FH-2,Hudzik; MJ,4,4N,Gym,Gym
+SOC-3,Hudzik; MJ,4,4N,Backfield #5,GYM
+CF-4,Hudzik; MJ,4,4N,Backfield #1,3rd Grade Hallway
+ICE-5,Hudzik; MJ,4,4N,MPR,MPR
+PB-6,Hudzik; MJ,4,4N,Blacktop (near gagaball),Gym
+SOC-1,Kasalu; Wandile,4,4N,Backfield #5,GYM
+FFS-2,Kasalu; Wandile,4,4N,Outside Door 7,Kirschbaum 1216
+CG-3,Kasalu; Wandile,4,4N,Mrs. Smith's room,Mrs. Smith's room
+BB-4,Kasalu; Wandile,4,4N,Blacktop,Gym
+OC-5,Kasalu; Wandile,4,4N,Backfield #4,Backfield #4
+MC-6,Kasalu; Wandile,4,4N,Backfield #3,MPR
+FF-1,Kaunley; Avi,4,4N,Backfield #2,2nd Grade Hallway
+LR-2,Kaunley; Avi,4,4N,4th Grade Hub,4th Grade Hub
+CF-3,Kaunley; Avi,4,4N,Backfield #1,3rd Grade Hallway
+BB-4,Kaunley; Avi,4,4N,Blacktop,Gym
+PB-5,Kaunley; Avi,4,4N,Blacktop (near gagaball),Gym
+ORG-6,Kaunley; Avi,4,4N,Bacon 1104,Bacon 1104
+FF-1,Knapp; Troy,4,4N,Backfield #2,2nd Grade Hallway
+TD-2,Knapp; Troy,4,4N,Front Porch,Front Porch
+GAR-3,Knapp; Troy,4,4N,Outside Door 8,Under tent Outside Door 8
+PB-4,Knapp; Troy,4,4N,Blacktop (near gagaball),Gym
+ICE-5,Knapp; Troy,4,4N,MPR,MPR
+OI-1,Kommers; Matthew,4,4N,Poch - 1306,Poch - 1306
+COD-2,Kommers; Matthew,4,4N,Library,Library
+CF-3,Kommers; Matthew,4,4N,Backfield #1,3rd Grade Hallway
+CM-4,Kommers; Matthew,4,4N,MPR,MPR
+SLM-5,Kommers; Matthew,4,4N,Reading Room,Reading Room
+LR-6,Kommers; Matthew,4,4N,4th Grade Hub,4th Grade Hub
+FFS-1,Leckron; Gwen,4,4N,Outside Door 7,Kirschbaum 1216
+COD-2,Leckron; Gwen,4,4N,Library,Library
+HD-3,Leckron; Gwen,4,4N,Deinert 1126,Deinert 1126
+ER-4,Leckron; Gwen,4,4N,Library,Library
+DCT-5,Leckron; Gwen,4,4N,Huggins 1308,Huggins 1308
+ED-6,Leckron; Gwen,4,4N,Back Playground,Inside Door #11
+ICE-1,Par; Marcy,4,4N,MPR,MPR
+SLM-2,Par; Marcy,4,4N,Reading Room,Reading Room
+SOC-3,Par; Marcy,4,4N,Backfield #5,GYM
+TD-4,Par; Marcy,4,4N,Front Porch,Front Porch
+CL-5,Par; Marcy,4,4N,Outside Door #1,4th Grade Hallway
+GAR-6,Par; Marcy,4,4N,Outside Door 8,Under tent Outside Door 8
+CM-1,Ramirez; Evelyn,4,4N,MPR,MPR
+CD-2,Ramirez; Evelyn,4,4N,MPR,MPR
+ICE-3,Ramirez; Evelyn,4,4N,MPR,MPR
+FFS-4,Ramirez; Evelyn,4,4N,Outside Door 7,Kirschbaum 1216
+LR-5,Ramirez; Evelyn,4,4N,4th Grade Hub,4th Grade Hub
+ORG-6,Ramirez; Evelyn,4,4N,Bacon 1104,Bacon 1104
+MT-1,Rodriguez; Sadie,4,4N,EL 1230,EL 1230
+DC-2,Rodriguez; Sadie,4,4N,Huggins 1308,Huggins 1308
+CM-3,Rodriguez; Sadie,4,4N,MPR,MPR
+DCT-4,Rodriguez; Sadie,4,4N,Huggins 1308,Huggins 1308
+ORG-5,Rodriguez; Sadie,4,4N,Bacon 1104,Bacon 1104
+CG-1,Shirer; Gideon,4,4N,Mrs. Smith's room,Mrs. Smith's room
+HD-2,Shirer; Gideon,4,4N,Deinert 1126,Deinert 1126
+HH-3,Shirer; Gideon,4,4N,Georganas 1218,Georganas 1218
+LR-4,Shirer; Gideon,4,4N,4th Grade Hub,4th Grade Hub
+OC-6,Shirer; Gideon,4,4N,Backfield #4,Backfield #4
+TD-1,Thomas; Jayden,4,4N,Front Porch,Front Porch
+FH-2,Thomas; Jayden,4,4N,Gym,Gym
+CG-3,Thomas; Jayden,4,4N,Mrs. Smith's room,Mrs. Smith's room
+FP-4,Thomas; Jayden,4,4N,Rindt 1208,Rindt 1208
+FF-5,Thomas; Jayden,4,4N,Backfield #2,2nd Grade Hallway
+BB-6,Thomas; Jayden,4,4N,Blacktop,Gym
+OC-1,Townsend; Linnea,4,4N,Backfield #4,Backfield #4
+MT-2,Townsend; Linnea,4,4N,EL 1230,EL 1230
+CD-3,Townsend; Linnea,4,4N,MPR,MPR
+DCT-4,Townsend; Linnea,4,4N,Huggins 1308,Huggins 1308
+TUM-5,Townsend; Linnea,4,4N,Outside door #13,5th Grade Hallway
+FFS-6,Townsend; Linnea,4,4N,Outside Door 7,Kirschbaum 1216
+BM-1,Tun; Yiyi,4,4N,Newhouse 1242,Newhouse 1242
+SPA-2,Tun; Yiyi,4,4N,Brown 1106,Brown 1106
+ICE-3,Tun; Yiyi,4,4N,MPR,MPR
+IB-4,Tun; Yiyi,4,4N,Maltese,Maltese
+CL-5,Tun; Yiyi,4,4N,Outside Door #1,4th Grade Hallway
+SLM-6,Tun; Yiyi,4,4N,Reading Room,Reading Room
+SLM-1,Walus; Kieran,4,4N,Reading Room,Reading Room
+FFS-2,Walus; Kieran,4,4N,Outside Door 7,Kirschbaum 1216
+CF-3,Walus; Kieran,4,4N,Backfield #1,3rd Grade Hallway
+MT-4,Walus; Kieran,4,4N,EL 1230,EL 1230
+ICE-5,Walus; Kieran,4,4N,MPR,MPR
+TD-6,Walus; Kieran,4,4N,Front Porch,Front Porch
+FFS-1,Wills; Emily,4,4N,Outside Door 7,Kirschbaum 1216
+ICE-2,Wills; Emily,4,4N,MPR,MPR
+ER-4,Wills; Emily,4,4N,Library,Library
+FCP-5,Wills; Emily,4,4N,Inside Door 9,Inside Door 9
+SLM-6,Wills; Emily,4,4N,Reading Room,Reading Room
+AS-1,Belmonte; Anthony,4,4Sh,Flag Pole,4th Grade Hallway
+OC-2,Belmonte; Anthony,4,4Sh,Backfield #4,Backfield #4
+TD-3,Belmonte; Anthony,4,4Sh,Front Porch,Front Porch
+HD-4,Belmonte; Anthony,4,4Sh,Deinert 1126,Deinert 1126
+ICE-5,Belmonte; Anthony,4,4Sh,MPR,MPR
+FF-1,Bono; Alex,4,4Sh,Backfield #2,2nd Grade Hallway
+REP-2,Bono; Alex,4,4Sh,Duran 1116,Duran 1116
+MT-3,Bono; Alex,4,4Sh,EL 1230,EL 1230
+OC-4,Bono; Alex,4,4Sh,Backfield #4,Backfield #4
+ED-5,Bono; Alex,4,4Sh,Back Playground,Inside Door #11
+SPA-1,Bruzdzinski; Adeline,4,4Sh,Brown 1106,Brown 1106
+BM-2,Bruzdzinski; Adeline,4,4Sh,Newhouse 1242,Newhouse 1242
+TD-3,Bruzdzinski; Adeline,4,4Sh,Front Porch,Front Porch
+ICE-4,Bruzdzinski; Adeline,4,4Sh,MPR,MPR
+CM-5,Bruzdzinski; Adeline,4,4Sh,MPR,MPR
+FFS-1,Cline; Henry,4,4Sh,Outside Door 7,Kirschbaum 1216
+ROB-2,Cline; Henry,4,4Sh,PACE 1228,PACE 1228
+ED-3,Cline; Henry,4,4Sh,Back Playground,Inside Door #11
+DC-1,Coyne; Caeden,4,4Sh,Huggins 1308,Huggins 1308
+LR-2,Coyne; Caeden,4,4Sh,4th Grade Hub,4th Grade Hub
+GAR-3,Coyne; Caeden,4,4Sh,Outside Door 8,Under tent Outside Door 8
+ER-4,Coyne; Caeden,4,4Sh,Library,Library
+FP-5,Coyne; Caeden,4,4Sh,Rindt 1208,Rindt 1208
+OC-6,Coyne; Caeden,4,4Sh,Backfield #4,Backfield #4
+CG-1,Dee; Daniel,4,4Sh,Mrs. Smith's room,Mrs. Smith's room
+FH-2,Dee; Daniel,4,4Sh,Gym,Gym
+AS-3,Dee; Daniel,4,4Sh,Flag Pole,4th Grade Hallway
+TRV-4,Dee; Daniel,4,4Sh,Martinez - 1112,Martinez - 1112
+FF-5,Dee; Daniel,4,4Sh,Backfield #2,2nd Grade Hallway
+BB-6,Dee; Daniel,4,4Sh,Blacktop,Gym
+ICE-1,Esquivel; Sophia,4,4Sh,MPR,MPR
+CD-2,Esquivel; Sophia,4,4Sh,MPR,MPR
+CM-3,Esquivel; Sophia,4,4Sh,MPR,MPR
+SLM-6,Esquivel; Sophia,4,4Sh,Reading Room,Reading Room
+BM-1,Gebreselasse; Betty,4,4Sh,Newhouse 1242,Newhouse 1242
+TD-2,Gebreselasse; Betty,4,4Sh,Front Porch,Front Porch
+SLM-3,Gebreselasse; Betty,4,4Sh,Reading Room,Reading Room
+FFS-4,Gebreselasse; Betty,4,4Sh,Outside Door 7,Kirschbaum 1216
+CD-5,Gebreselasse; Betty,4,4Sh,MPR,MPR
+GAR-6,Gebreselasse; Betty,4,4Sh,Outside Door 8,Under tent Outside Door 8
+SLM-1,Grussenmeyer; Gemma,4,4Sh,Reading Room,Reading Room
+ICE-2,Grussenmeyer; Gemma,4,4Sh,MPR,MPR
+FFS-3,Grussenmeyer; Gemma,4,4Sh,Outside Door 7,Kirschbaum 1216
+ER-4,Grussenmeyer; Gemma,4,4Sh,Library,Library
+CF-5,Grussenmeyer; Gemma,4,4Sh,Backfield #1,3rd Grade Hallway
+CL-6,Grussenmeyer; Gemma,4,4Sh,Outside Door #1,4th Grade Hallway
+FF-1,Halperin; Travis,4,4Sh,Backfield #2,2nd Grade Hallway
+CM-2,Halperin; Travis,4,4Sh,MPR,MPR
+CF-3,Halperin; Travis,4,4Sh,Backfield #1,3rd Grade Hallway
+ICE-4,Halperin; Travis,4,4Sh,MPR,MPR
+FFS-5,Halperin; Travis,4,4Sh,Outside Door 7,Kirschbaum 1216
+ORG-6,Halperin; Travis,4,4Sh,Bacon 1104,Bacon 1104
+CM-1,Hume; Charlie,4,4Sh,MPR,MPR
+SPA-2,Hume; Charlie,4,4Sh,Brown 1106,Brown 1106
+TUM-3,Hume; Charlie,4,4Sh,Outside door #13,5th Grade Hallway
+ICE-4,Hume; Charlie,4,4Sh,MPR,MPR
+SLM-6,Hume; Charlie,4,4Sh,Reading Room,Reading Room
+SOC-1,Istanbouli; Hazel,4,4Sh,Backfield #5,GYM
+SPA-2,Istanbouli; Hazel,4,4Sh,Brown 1106,Brown 1106
+ICE-3,Istanbouli; Hazel,4,4Sh,MPR,MPR
+CM-4,Istanbouli; Hazel,4,4Sh,MPR,MPR
+SLM-6,Istanbouli; Hazel,4,4Sh,Reading Room,Reading Room
+RR-1,LaFemina; William,4,4Sh,Outside Door #1,1st Grade Hall
+REP-2,LaFemina; William,4,4Sh,Duran 1116,Duran 1116
+OC-3,LaFemina; William,4,4Sh,Backfield #4,Backfield #4
+CM-4,LaFemina; William,4,4Sh,MPR,MPR
+SLM-5,LaFemina; William,4,4Sh,Reading Room,Reading Room
+LR-1,Lichtenheld; Gwen,4,4Sh,4th Grade Hub,4th Grade Hub
+SPA-2,Lichtenheld; Gwen,4,4Sh,Brown 1106,Brown 1106
+SLM-3,Lichtenheld; Gwen,4,4Sh,Reading Room,Reading Room
+TD-4,Lichtenheld; Gwen,4,4Sh,Front Porch,Front Porch
+CD-5,Lichtenheld; Gwen,4,4Sh,MPR,MPR
+VET-6,Lichtenheld; Gwen,4,4Sh,Music Room,Music Room
+FF-1,Novak; Colin,4,4Sh,Backfield #2,2nd Grade Hallway
+ICE-2,Novak; Colin,4,4Sh,MPR,MPR
+OC-3,Novak; Colin,4,4Sh,Backfield #4,Backfield #4
+AS-4,Novak; Colin,4,4Sh,Flag Pole,4th Grade Hallway
+CF-5,Novak; Colin,4,4Sh,Backfield #1,3rd Grade Hallway
+BB-6,Novak; Colin,4,4Sh,Blacktop,Gym
+OC-1,Porter; Joseph,4,4Sh,Backfield #4,Backfield #4
+FH-2,Porter; Joseph,4,4Sh,Gym,Gym
+AS-3,Porter; Joseph,4,4Sh,Flag Pole,4th Grade Hallway
+CF-4,Porter; Joseph,4,4Sh,Backfield #1,3rd Grade Hallway
+FF-5,Porter; Joseph,4,4Sh,Backfield #2,2nd Grade Hallway
+BB-6,Porter; Joseph,4,4Sh,Blacktop,Gym
+REP-1,Powell; Kayla,4,4Sh,Duran 1116,Duran 1116
+CM-2,Powell; Kayla,4,4Sh,MPR,MPR
+ED-3,Powell; Kayla,4,4Sh,Back Playground,Inside Door #11
+ICE-4,Powell; Kayla,4,4Sh,MPR,MPR
+VET-5,Powell; Kayla,4,4Sh,Music Room,Music Room
+FP-6,Powell; Kayla,4,4Sh,Rindt 1208,Rindt 1208
+CD-1,Rakhimova; Zarina,4,4Sh,MPR,MPR
+HH-2,Rakhimova; Zarina,4,4Sh,Georganas 1218,Georganas 1218
+ICE-3,Rakhimova; Zarina,4,4Sh,MPR,MPR
+FP-4,Rakhimova; Zarina,4,4Sh,Rindt 1208,Rindt 1208
+CM-5,Rakhimova; Zarina,4,4Sh,MPR,MPR
+FFS-6,Rakhimova; Zarina,4,4Sh,Outside Door 7,Kirschbaum 1216
+RR-1,Simms; Oliver,4,4Sh,Outside Door #1,1st Grade Hall
+OC-2,Simms; Oliver,4,4Sh,Backfield #4,Backfield #4
+CF-3,Simms; Oliver,4,4Sh,Backfield #1,3rd Grade Hallway
+BB-4,Simms; Oliver,4,4Sh,Blacktop,Gym
+FF-5,Simms; Oliver,4,4Sh,Backfield #2,2nd Grade Hallway
+AS-6,Simms; Oliver,4,4Sh,Flag Pole,4th Grade Hallway
+OI-1,Stein; Timothy,4,4Sh,Poch - 1306,Poch - 1306
+HD-2,Stein; Timothy,4,4Sh,Deinert 1126,Deinert 1126
+CG-3,Stein; Timothy,4,4Sh,Mrs. Smith's room,Mrs. Smith's room
+PB-4,Stein; Timothy,4,4Sh,Blacktop (near gagaball),Gym
+SLM-5,Stein; Timothy,4,4Sh,Reading Room,Reading Room
+ORG-6,Stein; Timothy,4,4Sh,Bacon 1104,Bacon 1104
+GAR-1,Thiang; Bawi,4,4Sh,Outside Door 8,Under tent Outside Door 8
+CL-2,Thiang; Bawi,4,4Sh,Outside Door #1,4th Grade Hallway
+ICE-3,Thiang; Bawi,4,4Sh,MPR,MPR
+SLM-4,Thiang; Bawi,4,4Sh,Reading Room,Reading Room
+TUM-5,Thiang; Bawi,4,4Sh,Outside door #13,5th Grade Hallway
+CM-6,Thiang; Bawi,4,4Sh,MPR,MPR
+AS-1,Boden; Henry,4,4So,Flag Pole,4th Grade Hallway
+FH-2,Boden; Henry,4,4So,Gym,Gym
+CM-3,Boden; Henry,4,4So,MPR,MPR
+BB-4,Boden; Henry,4,4So,Blacktop,Gym
+FF-5,Boden; Henry,4,4So,Backfield #2,2nd Grade Hallway
+CF-6,Boden; Henry,4,4So,Backfield #1,3rd Grade Hallway
+BM-1,Cruz; Manny,4,4So,Newhouse 1242,Newhouse 1242
+RR-2,Cruz; Manny,4,4So,Outside Door #1,1st Grade Hall
+AS-3,Cruz; Manny,4,4So,Flag Pole,4th Grade Hallway
+HD-4,Cruz; Manny,4,4So,Deinert 1126,Deinert 1126
+ER-5,Cruz; Manny,4,4So,Library,Library
+TD-6,Cruz; Manny,4,4So,Front Porch,Front Porch
+CD-1,Cuapio Cuevas; Egael,4,4So,MPR,MPR
+CG-2,Cuapio Cuevas; Egael,4,4So,Mrs. Smith's room,Mrs. Smith's room
+CM-3,Cuapio Cuevas; Egael,4,4So,MPR,MPR
+TD-4,Cuapio Cuevas; Egael,4,4So,Front Porch,Front Porch
+ICE-5,Cuapio Cuevas; Egael,4,4So,MPR,MPR
+LR-6,Cuapio Cuevas; Egael,4,4So,4th Grade Hub,4th Grade Hub
+FCP-1,Dahlquist; Jackson,4,4So,Inside Door 9,Inside Door 9
+FH-2,Dahlquist; Jackson,4,4So,Gym,Gym
+TD-3,Dahlquist; Jackson,4,4So,Front Porch,Front Porch
+CM-4,Dahlquist; Jackson,4,4So,MPR,MPR
+CD-5,Dahlquist; Jackson,4,4So,MPR,MPR
+HD-1,Denz; JJ,4,4So,Deinert 1126,Deinert 1126
+FH-2,Denz; JJ,4,4So,Gym,Gym
+ICE-3,Denz; JJ,4,4So,MPR,MPR
+ED-4,Denz; JJ,4,4So,Back Playground,Inside Door #11
+FF-5,Denz; JJ,4,4So,Backfield #2,2nd Grade Hallway
+CM-6,Denz; JJ,4,4So,MPR,MPR
+CM-1,Edwards; Thomas,4,4So,MPR,MPR
+CD-2,Edwards; Thomas,4,4So,MPR,MPR
+ED-3,Edwards; Thomas,4,4So,Back Playground,Inside Door #11
+FF-5,Edwards; Thomas,4,4So,Backfield #2,2nd Grade Hallway
+CF-6,Edwards; Thomas,4,4So,Backfield #1,3rd Grade Hallway
+TD-1,Fiore; Bella,4,4So,Front Porch,Front Porch
+CM-2,Fiore; Bella,4,4So,MPR,MPR
+ER-3,Fiore; Bella,4,4So,Library,Library
+CF-5,Fiore; Bella,4,4So,Backfield #1,3rd Grade Hallway
+VET-6,Fiore; Bella,4,4So,Music Room,Music Room
+CM-1,Grosshauser; Sierra,4,4So,MPR,MPR
+FFS-2,Grosshauser; Sierra,4,4So,Outside Door 7,Kirschbaum 1216
+CD-3,Grosshauser; Sierra,4,4So,MPR,MPR
+MC-4,Grosshauser; Sierra,4,4So,Backfield #3,MPR
+ER-5,Grosshauser; Sierra,4,4So,Library,Library
+ICE-6,Grosshauser; Sierra,4,4So,MPR,MPR
+CD-1,Janssen; Anna,4,4So,MPR,MPR
+ICE-2,Janssen; Anna,4,4So,MPR,MPR
+FFS-3,Janssen; Anna,4,4So,Outside Door 7,Kirschbaum 1216
+CM-4,Janssen; Anna,4,4So,MPR,MPR
+ER-5,Janssen; Anna,4,4So,Library,Library
+MC-6,Janssen; Anna,4,4So,Backfield #3,MPR
+COD-1,Mathers; Jacob,4,4So,Library,Library
+REP-2,Mathers; Jacob,4,4So,Duran 1116,Duran 1116
+SLM-3,Mathers; Jacob,4,4So,Reading Room,Reading Room
+ED-4,Mathers; Jacob,4,4So,Back Playground,Inside Door #11
+FP-5,Mathers; Jacob,4,4So,Rindt 1208,Rindt 1208
+LR-6,Mathers; Jacob,4,4So,4th Grade Hub,4th Grade Hub
+RR-1,Milliman; Ava,4,4So,Outside Door #1,1st Grade Hall
+SOC-2,Milliman; Ava,4,4So,Backfield #5,GYM
+CF-3,Milliman; Ava,4,4So,Backfield #1,3rd Grade Hallway
+OC-4,Milliman; Ava,4,4So,Backfield #4,Backfield #4
+AS-5,Milliman; Ava,4,4So,Flag Pole,4th Grade Hallway
+CM-6,Milliman; Ava,4,4So,MPR,MPR
+BM-1,Mohiuddin; Noorayn,4,4So,Newhouse 1242,Newhouse 1242
+RR-2,Mohiuddin; Noorayn,4,4So,Outside Door #1,1st Grade Hall
+SLM-3,Mohiuddin; Noorayn,4,4So,Reading Room,Reading Room
+OC-4,Mohiuddin; Noorayn,4,4So,Backfield #4,Backfield #4
+TD-5,Mohiuddin; Noorayn,4,4So,Front Porch,Front Porch
+ORG-6,Mohiuddin; Noorayn,4,4So,Bacon 1104,Bacon 1104
+COD-1,Montiel; Reid,4,4So,Library,Library
+ROB-2,Montiel; Reid,4,4So,PACE 1228,PACE 1228
+REP-3,Montiel; Reid,4,4So,Duran 1116,Duran 1116
+FFS-4,Montiel; Reid,4,4So,Outside Door 7,Kirschbaum 1216
+LR-5,Montiel; Reid,4,4So,4th Grade Hub,4th Grade Hub
+MT-6,Montiel; Reid,4,4So,EL 1230,EL 1230
+TD-1,Owens; Landry,4,4So,Front Porch,Front Porch
+CD-2,Owens; Landry,4,4So,MPR,MPR
+ER-5,Owens; Landry,4,4So,Library,Library
+CF-6,Owens; Landry,4,4So,Backfield #1,3rd Grade Hallway
+CL-1,Parker; Ja'mya,4,4So,Outside Door #1,4th Grade Hallway
+TD-2,Parker; Ja'mya,4,4So,Front Porch,Front Porch
+MT-3,Parker; Ja'mya,4,4So,EL 1230,EL 1230
+ER-5,Parker; Ja'mya,4,4So,Library,Library
+SLM-6,Parker; Ja'mya,4,4So,Reading Room,Reading Room
+PP-1,Sofariu; Elena,4,4So,Rindt 1208,Rindt 1208
+MT-2,Sofariu; Elena,4,4So,EL 1230,EL 1230
+HD-3,Sofariu; Elena,4,4So,Deinert 1126,Deinert 1126
+DCT-4,Sofariu; Elena,4,4So,Huggins 1308,Huggins 1308
+ER-5,Sofariu; Elena,4,4So,Library,Library
+ICE-6,Sofariu; Elena,4,4So,MPR,MPR
+TD-1,Tompkinson; Joseph,4,4So,Front Porch,Front Porch
+BM-2,Tompkinson; Joseph,4,4So,Newhouse 1242,Newhouse 1242
+SLM-3,Tompkinson; Joseph,4,4So,Reading Room,Reading Room
+FFS-4,Tompkinson; Joseph,4,4So,Outside Door 7,Kirschbaum 1216
+TUM-5,Tompkinson; Joseph,4,4So,Outside door #13,5th Grade Hallway
+SPA-6,Tompkinson; Joseph,4,4So,Brown 1106,Brown 1106
+PP-1,Tortoriello; Breanna,4,4So,Rindt 1208,Rindt 1208
+ICE-2,Tortoriello; Breanna,4,4So,MPR,MPR
+TD-3,Tortoriello; Breanna,4,4So,Front Porch,Front Porch
+CM-4,Tortoriello; Breanna,4,4So,MPR,MPR
+ER-5,Tortoriello; Breanna,4,4So,Library,Library
+GAR-6,Tortoriello; Breanna,4,4So,Outside Door 8,Under tent Outside Door 8
+CL-1,Turner; Sylvia,4,4So,Outside Door #1,4th Grade Hallway
+BM-2,Turner; Sylvia,4,4So,Newhouse 1242,Newhouse 1242
+ICE-3,Turner; Sylvia,4,4So,MPR,MPR
+TD-4,Turner; Sylvia,4,4So,Front Porch,Front Porch
+ER-5,Turner; Sylvia,4,4So,Library,Library
+CD-6,Turner; Sylvia,4,4So,MPR,MPR
+ED-1,Wasieleski; Aubrey,4,4So,Back Playground,Inside Door #11
+SPA-2,Wasieleski; Aubrey,4,4So,Brown 1106,Brown 1106
+ICE-3,Wasieleski; Aubrey,4,4So,MPR,MPR
+CD-4,Wasieleski; Aubrey,4,4So,MPR,MPR
+CM-5,Wasieleski; Aubrey,4,4So,MPR,MPR
+HD-6,Wasieleski; Aubrey,4,4So,Deinert 1126,Deinert 1126
+SOC-1,Beck; Truman,5,5Ha,Backfield #5,GYM
+RR-2,Beck; Truman,5,5Ha,Outside Door #1,1st Grade Hall
+CF-3,Beck; Truman,5,5Ha,Backfield #1,3rd Grade Hallway
+FF-5,Beck; Truman,5,5Ha,Backfield #2,2nd Grade Hallway
+ICE-6,Beck; Truman,5,5Ha,MPR,MPR
+CD-1,Belmonte; Frankie,5,5Ha,MPR,MPR
+PP-2,Belmonte; Frankie,5,5Ha,Rindt 1208,Rindt 1208
+VET-4,Belmonte; Frankie,5,5Ha,Music Room,Music Room
+SPA-5,Belmonte; Frankie,5,5Ha,Brown 1106,Brown 1106
+FF-1,Boike; Mason,5,5Ha,Backfield #2,2nd Grade Hallway
+SOC-2,Boike; Mason,5,5Ha,Backfield #5,GYM
+RR-3,Boike; Mason,5,5Ha,Outside Door #1,1st Grade Hall
+CF-4,Boike; Mason,5,5Ha,Backfield #1,3rd Grade Hallway
+CM-6,Boike; Mason,5,5Ha,MPR,MPR
+RR-1,Clark; Luke,5,5Ha,Outside Door #1,1st Grade Hall
+SOC-2,Clark; Luke,5,5Ha,Backfield #5,GYM
+COD-3,Clark; Luke,5,5Ha,Library,Library
+TD-4,Clark; Luke,5,5Ha,Front Porch,Front Porch
+BB-5,Clark; Luke,5,5Ha,Blacktop,Gym
+CM-1,Corral; Aaliyah,5,5Ha,MPR,MPR
+ICE-2,Corral; Aaliyah,5,5Ha,MPR,MPR
+TD-3,Corral; Aaliyah,5,5Ha,Front Porch,Front Porch
+VET-4,Corral; Aaliyah,5,5Ha,Music Room,Music Room
+GAR-5,Corral; Aaliyah,5,5Ha,Outside Door 8,Under tent Outside Door 8
+CM-6,Corral; Aaliyah,5,5Ha,MPR,MPR
+RR-1,DeGroot; Tait,5,5Ha,Outside Door #1,1st Grade Hall
+SOC-2,DeGroot; Tait,5,5Ha,Backfield #5,GYM
+LR-3,DeGroot; Tait,5,5Ha,4th Grade Hub,4th Grade Hub
+BB-5,DeGroot; Tait,5,5Ha,Blacktop,Gym
+ER-6,DeGroot; Tait,5,5Ha,Library,Library
+CD-1,Dunlavy; Collins,5,5Ha,MPR,MPR
+DC-2,Dunlavy; Collins,5,5Ha,Huggins 1308,Huggins 1308
+PP-3,Dunlavy; Collins,5,5Ha,Rindt 1208,Rindt 1208
+VET-4,Dunlavy; Collins,5,5Ha,Music Room,Music Room
+BB-5,Dunlavy; Collins,5,5Ha,Blacktop,Gym
+ER-6,Dunlavy; Collins,5,5Ha,Library,Library
+FF-1,Gubbins; Trevor,5,5Ha,Backfield #2,2nd Grade Hallway
+SOC-2,Gubbins; Trevor,5,5Ha,Backfield #5,GYM
+CF-4,Gubbins; Trevor,5,5Ha,Backfield #1,3rd Grade Hallway
+CM-6,Gubbins; Trevor,5,5Ha,MPR,MPR
+SPA-1,Khan; Zara,5,5Ha,Brown 1106,Brown 1106
+GAR-2,Khan; Zara,5,5Ha,Outside Door 8,Under tent Outside Door 8
+CD-3,Khan; Zara,5,5Ha,MPR,MPR
+FCP-4,Khan; Zara,5,5Ha,Inside Door 9,Inside Door 9
+VET-5,Khan; Zara,5,5Ha,Music Room,Music Room
+FP-6,Khan; Zara,5,5Ha,Rindt 1208,Rindt 1208
+COD-1,Leonard; John,5,5Ha,Library,Library
+SOC-2,Leonard; John,5,5Ha,Backfield #5,GYM
+ICE-3,Leonard; John,5,5Ha,MPR,MPR
+CM-4,Leonard; John,5,5Ha,MPR,MPR
+GAR-5,Leonard; John,5,5Ha,Outside Door 8,Under tent Outside Door 8
+LR-6,Leonard; John,5,5Ha,4th Grade Hub,4th Grade Hub
+COD-1,Lysenko; Timofii,5,5Ha,Library,Library
+FH-2,Lysenko; Timofii,5,5Ha,Gym,Gym
+ROB-3,Lysenko; Timofii,5,5Ha,PACE 1228,PACE 1228
+BB-5,Lysenko; Timofii,5,5Ha,Blacktop,Gym
+OC-1,Muntz; Mary,5,5Ha,Backfield #4,Backfield #4
+TUM-2,Muntz; Mary,5,5Ha,Outside door #13,5th Grade Hallway
+CF-3,Muntz; Mary,5,5Ha,Backfield #1,3rd Grade Hallway
+VET-4,Muntz; Mary,5,5Ha,Music Room,Music Room
+HD-5,Muntz; Mary,5,5Ha,Deinert 1126,Deinert 1126
+MOS-6,Muntz; Mary,5,5Ha,Krause 1220,Krause 1220
+MC-1,Ouoba; Stephen,5,5Ha,Backfield #3,MPR
+SOC-2,Ouoba; Stephen,5,5Ha,Backfield #5,GYM
+COD-3,Ouoba; Stephen,5,5Ha,Library,Library
+BB-5,Ouoba; Stephen,5,5Ha,Blacktop,Gym
+HD-1,Palma; Marcos,5,5Ha,Deinert 1126,Deinert 1126
+ROB-2,Palma; Marcos,5,5Ha,PACE 1228,PACE 1228
+LR-3,Palma; Marcos,5,5Ha,4th Grade Hub,4th Grade Hub
+DCT-4,Palma; Marcos,5,5Ha,Huggins 1308,Huggins 1308
+OC-5,Palma; Marcos,5,5Ha,Backfield #4,Backfield #4
+FFS-6,Palma; Marcos,5,5Ha,Outside Door 7,Kirschbaum 1216
+FF-1,Par; Dawt,5,5Ha,Backfield #2,2nd Grade Hallway
+SOC-2,Par; Dawt,5,5Ha,Backfield #5,GYM
+RR-3,Par; Dawt,5,5Ha,Outside Door #1,1st Grade Hall
+CF-4,Par; Dawt,5,5Ha,Backfield #1,3rd Grade Hallway
+CM-6,Par; Dawt,5,5Ha,MPR,MPR
+CG-1,Reilly; Flynn,5,5Ha,Mrs. Smith's room,Mrs. Smith's room
+COD-2,Reilly; Flynn,5,5Ha,Library,Library
+ER-3,Reilly; Flynn,5,5Ha,Library,Library
+MT-4,Reilly; Flynn,5,5Ha,EL 1230,EL 1230
+CF-5,Reilly; Flynn,5,5Ha,Backfield #1,3rd Grade Hallway
+ORG-6,Reilly; Flynn,5,5Ha,Bacon 1104,Bacon 1104
+RR-1,Reilly; Jamie,5,5Ha,Outside Door #1,1st Grade Hall
+ROB-2,Reilly; Jamie,5,5Ha,PACE 1228,PACE 1228
+CG-3,Reilly; Jamie,5,5Ha,Mrs. Smith's room,Mrs. Smith's room
+TD-4,Reilly; Jamie,5,5Ha,Front Porch,Front Porch
+ED-5,Reilly; Jamie,5,5Ha,Back Playground,Inside Door #11
+FFS-6,Reilly; Jamie,5,5Ha,Outside Door 7,Kirschbaum 1216
+FF-1,Saenz; Tytus,5,5Ha,Backfield #2,2nd Grade Hallway
+SOC-2,Saenz; Tytus,5,5Ha,Backfield #5,GYM
+RR-3,Saenz; Tytus,5,5Ha,Outside Door #1,1st Grade Hall
+CF-4,Saenz; Tytus,5,5Ha,Backfield #1,3rd Grade Hallway
+CM-6,Saenz; Tytus,5,5Ha,MPR,MPR
+REP-1,Schaber; Mia,5,5Ha,Duran 1116,Duran 1116
+ROB-2,Schaber; Mia,5,5Ha,PACE 1228,PACE 1228
+ER-3,Schaber; Mia,5,5Ha,Library,Library
+FFS-4,Schaber; Mia,5,5Ha,Outside Door 7,Kirschbaum 1216
+SPA-5,Schaber; Mia,5,5Ha,Brown 1106,Brown 1106
+TUM-6,Schaber; Mia,5,5Ha,Outside door #13,5th Grade Hallway
+SPA-1,Tajak; Sammy,5,5Ha,Brown 1106,Brown 1106
+PP-2,Tajak; Sammy,5,5Ha,Rindt 1208,Rindt 1208
+CD-3,Tajak; Sammy,5,5Ha,MPR,MPR
+OC-4,Tajak; Sammy,5,5Ha,Backfield #4,Backfield #4
+VET-5,Tajak; Sammy,5,5Ha,Music Room,Music Room
+HD-6,Tajak; Sammy,5,5Ha,Deinert 1126,Deinert 1126
+PP-1,Wenberg; Layla,5,5Ha,Rindt 1208,Rindt 1208
+VET-4,Wenberg; Layla,5,5Ha,Music Room,Music Room
+SPA-5,Wenberg; Layla,5,5Ha,Brown 1106,Brown 1106
+TUM-6,Wenberg; Layla,5,5Ha,Outside door #13,5th Grade Hallway
+CG-1,Benson; Waylan,5,5Hu,Mrs. Smith's room,Mrs. Smith's room
+ICE-2,Benson; Waylan,5,5Hu,MPR,MPR
+CF-3,Benson; Waylan,5,5Hu,Backfield #1,3rd Grade Hallway
+ED-4,Benson; Waylan,5,5Hu,Back Playground,Inside Door #11
+FF-5,Benson; Waylan,5,5Hu,Backfield #2,2nd Grade Hallway
+FFS-6,Benson; Waylan,5,5Hu,Outside Door 7,Kirschbaum 1216
+SLM-1,Burmeister; Grace,5,5Hu,Reading Room,Reading Room
+PP-2,Burmeister; Grace,5,5Hu,Rindt 1208,Rindt 1208
+ER-3,Burmeister; Grace,5,5Hu,Library,Library
+FFS-4,Burmeister; Grace,5,5Hu,Outside Door 7,Kirschbaum 1216
+CD-5,Burmeister; Grace,5,5Hu,MPR,MPR
+HD-6,Burmeister; Grace,5,5Hu,Deinert 1126,Deinert 1126
+ICE-1,Chaing; Julian,5,5Hu,MPR,MPR
+CD-2,Chaing; Julian,5,5Hu,MPR,MPR
+ER-3,Chaing; Julian,5,5Hu,Library,Library
+CF-4,Chaing; Julian,5,5Hu,Backfield #1,3rd Grade Hallway
+ED-5,Chaing; Julian,5,5Hu,Back Playground,Inside Door #11
+CL-6,Chaing; Julian,5,5Hu,Outside Door #1,4th Grade Hallway
+SPA-1,Cuateco Urue; Ana,5,5Hu,Brown 1106,Brown 1106
+CL-2,Cuateco Urue; Ana,5,5Hu,Outside Door #1,4th Grade Hallway
+CM-3,Cuateco Urue; Ana,5,5Hu,MPR,MPR
+TUM-4,Cuateco Urue; Ana,5,5Hu,Outside door #13,5th Grade Hallway
+ICE-5,Cuateco Urue; Ana,5,5Hu,MPR,MPR
+ED-6,Cuateco Urue; Ana,5,5Hu,Back Playground,Inside Door #11
+COD-1,Gentry; Ryder,5,5Hu,Library,Library
+RR-2,Gentry; Ryder,5,5Hu,Outside Door #1,1st Grade Hall
+CG-3,Gentry; Ryder,5,5Hu,Mrs. Smith's room,Mrs. Smith's room
+ICE-4,Gentry; Ryder,5,5Hu,MPR,MPR
+FFS-5,Gentry; Ryder,5,5Hu,Outside Door 7,Kirschbaum 1216
+ER-6,Gentry; Ryder,5,5Hu,Library,Library
+RR-1,Gubbins; Dylan,5,5Hu,Outside Door #1,1st Grade Hall
+CG-2,Gubbins; Dylan,5,5Hu,Mrs. Smith's room,Mrs. Smith's room
+CF-3,Gubbins; Dylan,5,5Hu,Backfield #1,3rd Grade Hallway
+ICE-4,Gubbins; Dylan,5,5Hu,MPR,MPR
+ER-6,Gubbins; Dylan,5,5Hu,Library,Library
+ICE-1,Khongsai; Monica,5,5Hu,MPR,MPR
+CD-2,Khongsai; Monica,5,5Hu,MPR,MPR
+TKD-3,Khongsai; Monica,5,5Hu,Hall 1318,Hall 1318
+VET-4,Khongsai; Monica,5,5Hu,Music Room,Music Room
+PB-5,Khongsai; Monica,5,5Hu,Blacktop (near gagaball),Gym
+SLM-6,Khongsai; Monica,5,5Hu,Reading Room,Reading Room
+SPA-1,Kline; Hannah,5,5Hu,Brown 1106,Brown 1106
+CL-2,Kline; Hannah,5,5Hu,Outside Door #1,4th Grade Hallway
+CM-3,Kline; Hannah,5,5Hu,MPR,MPR
+TUM-4,Kline; Hannah,5,5Hu,Outside door #13,5th Grade Hallway
+ED-5,Kline; Hannah,5,5Hu,Back Playground,Inside Door #11
+SLM-1,Koechling; Emily,5,5Hu,Reading Room,Reading Room
+MT-2,Koechling; Emily,5,5Hu,EL 1230,EL 1230
+ER-3,Koechling; Emily,5,5Hu,Library,Library
+CM-4,Koechling; Emily,5,5Hu,MPR,MPR
+ICE-1,Max; Adeline,5,5Hu,MPR,MPR
+FFS-2,Max; Adeline,5,5Hu,Outside Door 7,Kirschbaum 1216
+ER-3,Max; Adeline,5,5Hu,Library,Library
+SLM-4,Max; Adeline,5,5Hu,Reading Room,Reading Room
+CD-5,Max; Adeline,5,5Hu,MPR,MPR
+TUM-6,Max; Adeline,5,5Hu,Outside door #13,5th Grade Hallway
+FF-1,Messana; Louis,5,5Hu,Backfield #2,2nd Grade Hallway
+FH-2,Messana; Louis,5,5Hu,Gym,Gym
+AS-3,Messana; Louis,5,5Hu,Flag Pole,4th Grade Hallway
+CF-4,Messana; Louis,5,5Hu,Backfield #1,3rd Grade Hallway
+BB-5,Messana; Louis,5,5Hu,Blacktop,Gym
+HD-6,Messana; Louis,5,5Hu,Deinert 1126,Deinert 1126
+RR-1,Morgan; Hugh,5,5Hu,Outside Door #1,1st Grade Hall
+OC-2,Morgan; Hugh,5,5Hu,Backfield #4,Backfield #4
+CM-3,Morgan; Hugh,5,5Hu,MPR,MPR
+SLM-4,Morgan; Hugh,5,5Hu,Reading Room,Reading Room
+VET-5,Morgan; Hugh,5,5Hu,Music Room,Music Room
+CF-6,Morgan; Hugh,5,5Hu,Backfield #1,3rd Grade Hallway
+ICE-1,Pacer; Hudson,5,5Hu,MPR,MPR
+ED-2,Pacer; Hudson,5,5Hu,Back Playground,Inside Door #11
+ER-3,Pacer; Hudson,5,5Hu,Library,Library
+CF-4,Pacer; Hudson,5,5Hu,Backfield #1,3rd Grade Hallway
+CD-5,Pacer; Hudson,5,5Hu,MPR,MPR
+CL-6,Pacer; Hudson,5,5Hu,Outside Door #1,4th Grade Hallway
+ICE-1,Parazaider; Mikey,5,5Hu,MPR,MPR
+ED-2,Parazaider; Mikey,5,5Hu,Back Playground,Inside Door #11
+ER-3,Parazaider; Mikey,5,5Hu,Library,Library
+CF-4,Parazaider; Mikey,5,5Hu,Backfield #1,3rd Grade Hallway
+CD-5,Parazaider; Mikey,5,5Hu,MPR,MPR
+CL-6,Parazaider; Mikey,5,5Hu,Outside Door #1,4th Grade Hallway
+SOC-1,Roller; Wesley,5,5Hu,Backfield #5,GYM
+FH-2,Roller; Wesley,5,5Hu,Gym,Gym
+OC-3,Roller; Wesley,5,5Hu,Backfield #4,Backfield #4
+FP-4,Roller; Wesley,5,5Hu,Rindt 1208,Rindt 1208
+CF-5,Roller; Wesley,5,5Hu,Backfield #1,3rd Grade Hallway
+FFS-6,Roller; Wesley,5,5Hu,Outside Door 7,Kirschbaum 1216
+ICE-1,Sang; Raymond,5,5Hu,MPR,MPR
+TD-2,Sang; Raymond,5,5Hu,Front Porch,Front Porch
+ER-3,Sang; Raymond,5,5Hu,Library,Library
+CF-4,Sang; Raymond,5,5Hu,Backfield #1,3rd Grade Hallway
+CD-5,Sang; Raymond,5,5Hu,MPR,MPR
+ED-6,Sang; Raymond,5,5Hu,Back Playground,Inside Door #11
+SLM-1,Stefanik; Emma,5,5Hu,Reading Room,Reading Room
+MT-2,Stefanik; Emma,5,5Hu,EL 1230,EL 1230
+CM-3,Stefanik; Emma,5,5Hu,MPR,MPR
+ER-4,Stefanik; Emma,5,5Hu,Library,Library
+ED-1,Sualeh; Rayyan,5,5Hu,Back Playground,Inside Door #11
+ICE-2,Sualeh; Rayyan,5,5Hu,MPR,MPR
+CF-3,Sualeh; Rayyan,5,5Hu,Backfield #1,3rd Grade Hallway
+ER-4,Sualeh; Rayyan,5,5Hu,Library,Library
+CD-5,Sualeh; Rayyan,5,5Hu,MPR,MPR
+CL-6,Sualeh; Rayyan,5,5Hu,Outside Door #1,4th Grade Hallway
+TD-1,Tompkinson; Samiyah,5,5Hu,Front Porch,Front Porch
+REP-2,Tompkinson; Samiyah,5,5Hu,Duran 1116,Duran 1116
+CL-3,Tompkinson; Samiyah,5,5Hu,Outside Door #1,4th Grade Hallway
+TUM-4,Tompkinson; Samiyah,5,5Hu,Outside door #13,5th Grade Hallway
+FP-5,Tompkinson; Samiyah,5,5Hu,Rindt 1208,Rindt 1208
+SLM-1,Walston; Johanna,5,5Hu,Reading Room,Reading Room
+HD-2,Walston; Johanna,5,5Hu,Deinert 1126,Deinert 1126
+PP-3,Walston; Johanna,5,5Hu,Rindt 1208,Rindt 1208
+IB-4,Walston; Johanna,5,5Hu,Maltese,Maltese
+MOS-5,Walston; Johanna,5,5Hu,Krause 1220,Krause 1220
+SPA-1,Zermuehlen; Madeline,5,5Hu,Brown 1106,Brown 1106
+TD-2,Zermuehlen; Madeline,5,5Hu,Front Porch,Front Porch
+CD-3,Zermuehlen; Madeline,5,5Hu,MPR,MPR
+BG-4,Zermuehlen; Madeline,5,5Hu,Sobotka 1232,Sobotka 1232
+HD-5,Zermuehlen; Madeline,5,5Hu,Deinert 1126,Deinert 1126
+TKD-1,Anderson; Zara,5,5P,Hall 1318,Hall 1318
+CD-2,Anderson; Zara,5,5P,MPR,MPR
+CL-3,Anderson; Zara,5,5P,Outside Door #1,4th Grade Hallway
+ICE-4,Anderson; Zara,5,5P,MPR,MPR
+MT-5,Anderson; Zara,5,5P,EL 1230,EL 1230
+CM-6,Anderson; Zara,5,5P,MPR,MPR
+FF-1,Boden; Charlie,5,5P,Backfield #2,2nd Grade Hallway
+SOC-2,Boden; Charlie,5,5P,Backfield #5,GYM
+FH-3,Boden; Charlie,5,5P,Gym,Gym
+CM-4,Boden; Charlie,5,5P,MPR,MPR
+BB-5,Boden; Charlie,5,5P,Blacktop,Gym
+CF-6,Boden; Charlie,5,5P,Backfield #1,3rd Grade Hallway
+OI-1,Claud; Lauren,5,5P,Poch - 1306,Poch - 1306
+ICE-2,Claud; Lauren,5,5P,MPR,MPR
+ORG-3,Claud; Lauren,5,5P,Bacon 1104,Bacon 1104
+ER-4,Claud; Lauren,5,5P,Library,Library
+VET-5,Claud; Lauren,5,5P,Music Room,Music Room
+SLM-6,Claud; Lauren,5,5P,Reading Room,Reading Room
+ORG-1,Drake; Nasir,5,5P,Bacon 1104,Bacon 1104
+ROB-2,Drake; Nasir,5,5P,PACE 1228,PACE 1228
+CF-3,Drake; Nasir,5,5P,Backfield #1,3rd Grade Hallway
+MC-4,Drake; Nasir,5,5P,Backfield #3,MPR
+BB-5,Drake; Nasir,5,5P,Blacktop,Gym
+ER-6,Drake; Nasir,5,5P,Library,Library
+TUM-1,Genc; Sydney,5,5P,Outside door #13,5th Grade Hallway
+BM-2,Genc; Sydney,5,5P,Newhouse 1242,Newhouse 1242
+FCP-3,Genc; Sydney,5,5P,Inside Door 9,Inside Door 9
+SLM-4,Genc; Sydney,5,5P,Reading Room,Reading Room
+FFS-1,Hernandez; Diamond,5,5P,Outside Door 7,Kirschbaum 1216
+CM-2,Hernandez; Diamond,5,5P,MPR,MPR
+ER-4,Hernandez; Diamond,5,5P,Library,Library
+SLM-5,Hernandez; Diamond,5,5P,Reading Room,Reading Room
+SPA-6,Hernandez; Diamond,5,5P,Brown 1106,Brown 1106
+SLM-1,Kim; Phoebe,5,5P,Reading Room,Reading Room
+DC-2,Kim; Phoebe,5,5P,Huggins 1308,Huggins 1308
+TD-3,Kim; Phoebe,5,5P,Front Porch,Front Porch
+ORG-4,Kim; Phoebe,5,5P,Bacon 1104,Bacon 1104
+CM-5,Kim; Phoebe,5,5P,MPR,MPR
+FFS-6,Kim; Phoebe,5,5P,Outside Door 7,Kirschbaum 1216
+RR-1,LaFemina; Louis,5,5P,Outside Door #1,1st Grade Hall
+FH-2,LaFemina; Louis,5,5P,Gym,Gym
+CM-3,LaFemina; Louis,5,5P,MPR,MPR
+ED-4,LaFemina; Louis,5,5P,Back Playground,Inside Door #11
+VET-6,LaFemina; Louis,5,5P,Music Room,Music Room
+BM-1,Lian; Daniel,5,5P,Newhouse 1242,Newhouse 1242
+ROB-2,Lian; Daniel,5,5P,PACE 1228,PACE 1228
+ED-3,Lian; Daniel,5,5P,Back Playground,Inside Door #11
+HD-4,Lian; Daniel,5,5P,Deinert 1126,Deinert 1126
+LR-5,Lian; Daniel,5,5P,4th Grade Hub,4th Grade Hub
+CF-6,Lian; Daniel,5,5P,Backfield #1,3rd Grade Hallway
+CM-1,Ovitt; Laney,5,5P,MPR,MPR
+PP-2,Ovitt; Laney,5,5P,Rindt 1208,Rindt 1208
+ED-3,Ovitt; Laney,5,5P,Back Playground,Inside Door #11
+ICE-5,Ovitt; Laney,5,5P,MPR,MPR
+CD-6,Ovitt; Laney,5,5P,MPR,MPR
+CL-1,Pelhank; Sydney,5,5P,Outside Door #1,4th Grade Hallway
+TKD-2,Pelhank; Sydney,5,5P,Hall 1318,Hall 1318
+CD-3,Pelhank; Sydney,5,5P,MPR,MPR
+MT-4,Pelhank; Sydney,5,5P,EL 1230,EL 1230
+CM-5,Pelhank; Sydney,5,5P,MPR,MPR
+CD-1,Reyes; Lana,5,5P,MPR,MPR
+BM-2,Reyes; Lana,5,5P,Newhouse 1242,Newhouse 1242
+ICE-3,Reyes; Lana,5,5P,MPR,MPR
+CM-4,Reyes; Lana,5,5P,MPR,MPR
+SLM-5,Reyes; Lana,5,5P,Reading Room,Reading Room
+FF-1,Ripsky; Owen,5,5P,Backfield #2,2nd Grade Hallway
+CM-2,Ripsky; Owen,5,5P,MPR,MPR
+FFS-3,Ripsky; Owen,5,5P,Outside Door 7,Kirschbaum 1216
+CF-4,Ripsky; Owen,5,5P,Backfield #1,3rd Grade Hallway
+PB-5,Ripsky; Owen,5,5P,Blacktop (near gagaball),Gym
+MC-6,Ripsky; Owen,5,5P,Backfield #3,MPR
+CL-1,Rivers; Olivia,5,5P,Outside Door #1,4th Grade Hallway
+TUM-2,Rivers; Olivia,5,5P,Outside door #13,5th Grade Hallway
+CM-3,Rivers; Olivia,5,5P,MPR,MPR
+HH-4,Rivers; Olivia,5,5P,Georganas 1218,Georganas 1218
+HD-1,Schillaci; Mia,5,5P,Deinert 1126,Deinert 1126
+CL-3,Schillaci; Mia,5,5P,Outside Door #1,4th Grade Hallway
+VET-4,Schillaci; Mia,5,5P,Music Room,Music Room
+CM-5,Schillaci; Mia,5,5P,MPR,MPR
+SPA-6,Schillaci; Mia,5,5P,Brown 1106,Brown 1106
+FF-1,Sewell; Lucsa,5,5P,Backfield #2,2nd Grade Hallway
+SOC-2,Sewell; Lucsa,5,5P,Backfield #5,GYM
+FH-3,Sewell; Lucsa,5,5P,Gym,Gym
+TRV-4,Sewell; Lucsa,5,5P,Martinez - 1112,Martinez - 1112
+BB-5,Sewell; Lucsa,5,5P,Blacktop,Gym
+CF-6,Sewell; Lucsa,5,5P,Backfield #1,3rd Grade Hallway
+RR-1,Simms; David,5,5P,Outside Door #1,1st Grade Hall
+CM-2,Simms; David,5,5P,MPR,MPR
+ED-3,Simms; David,5,5P,Back Playground,Inside Door #11
+BB-5,Simms; David,5,5P,Blacktop,Gym
+VET-6,Simms; David,5,5P,Music Room,Music Room
+HD-1,Velazquez; Lucas,5,5P,Deinert 1126,Deinert 1126
+ROB-2,Velazquez; Lucas,5,5P,PACE 1228,PACE 1228
+FFS-3,Velazquez; Lucas,5,5P,Outside Door 7,Kirschbaum 1216
+PB-4,Velazquez; Lucas,5,5P,Blacktop (near gagaball),Gym
+FF-5,Velazquez; Lucas,5,5P,Backfield #2,2nd Grade Hallway
+ED-6,Velazquez; Lucas,5,5P,Back Playground,Inside Door #11
+OI-1,Videla Coreas; Austin,5,5P,Poch - 1306,Poch - 1306
+SOC-2,Videla Coreas; Austin,5,5P,Backfield #5,GYM
+OC-3,Videla Coreas; Austin,5,5P,Backfield #4,Backfield #4
+ER-4,Videla Coreas; Austin,5,5P,Library,Library
+PB-5,Videla Coreas; Austin,5,5P,Blacktop (near gagaball),Gym
+CF-6,Videla Coreas; Austin,5,5P,Backfield #1,3rd Grade Hallway
+CM-1,Zayed; Lauren,5,5P,MPR,MPR
+ED-2,Zayed; Lauren,5,5P,Back Playground,Inside Door #11
+CD-3,Zayed; Lauren,5,5P,MPR,MPR
+TRV-4,Zayed; Lauren,5,5P,Martinez - 1112,Martinez - 1112
+ICE-5,Zayed; Lauren,5,5P,MPR,MPR
+TD-6,Zayed; Lauren,5,5P,Front Porch,Front Porch
+ORG-1,Zeffery; Asher,5,5P,Bacon 1104,Bacon 1104
+ROB-2,Zeffery; Asher,5,5P,PACE 1228,PACE 1228
+CM-3,Zeffery; Asher,5,5P,MPR,MPR
+CF-5,Zeffery; Asher,5,5P,Backfield #1,3rd Grade Hallway
+ER-6,Zeffery; Asher,5,5P,Library,Library
+BM-1,Zing; Nui,5,5P,Newhouse 1242,Newhouse 1242
+HH-2,Zing; Nui,5,5P,Georganas 1218,Georganas 1218
+GAR-3,Zing; Nui,5,5P,Outside Door 8,Under tent Outside Door 8
+VET-4,Zing; Nui,5,5P,Music Room,Music Room
+TUM-5,Zing; Nui,5,5P,Outside door #13,5th Grade Hallway
+SPA-6,Zing; Nui,5,5P,Brown 1106,Brown 1106
