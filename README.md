@@ -29,3 +29,7 @@ To do this; pass Program Program Arguments:  `runreports`.
 OneDrive folder: https://onedrive.live.com/?authkey=%21AJFvj94HQTurMlM&id=89D6F74035CB31F8%212546&cid=89D6F74035CB31F8
 OR
 If the OneDrive folder does not work please use this Goolge Drive location: https://drive.google.com/drive/folders/1N3YiFI0QzszAiavd4EWvUTEYJ80Dc-bW?usp=sharing
+
+2024 
+data doc - https://docs.google.com/spreadsheets/d/1f_7dX3UPnzdRit-XfCPYpstresvqqv3K/edit#gid=621735305
+drive folder - https://drive.google.com/drive/folders/1q6C86W7IN6PqEQCYWX9XTLvgWjSMm8Kt
